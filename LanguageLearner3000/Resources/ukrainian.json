@@ -1,0 +1,436 @@
+{
+  "version": "2026.11-base",
+  "levels": {
+    "A1": {
+      "vocab": [
+        {"w": "привіт", "m": "hi", "e": "Привіт, як справи?", "et": "Hi, how are you?"},
+        {"w": "дякую", "m": "thank you", "e": "Дякую за чай!", "et": "Thanks for the tea!"},
+        {"w": "будь ласка", "m": "please / you're welcome"},
+        {"w": "так", "m": "yes; so"},
+        {"w": "ні", "m": "no"},
+        {"w": "мама", "m": "mom", "f": ["маму", "мамою", "мами", "мамі"]},
+        {"w": "тато", "m": "dad", "f": ["тата", "татом", "татові"]},
+        {"w": "дім", "m": "house, home", "f": ["дому", "домі", "додому", "вдома"], "e": "Мій дім великий.", "et": "My house is big."},
+        {"w": "будинок", "m": "building, house", "f": ["будинку", "будинки"]},
+        {"w": "вода", "m": "water", "f": ["воду", "води"]},
+        {"w": "хліб", "m": "bread", "f": ["хліба"]},
+        {"w": "кіт", "m": "cat (tomcat)", "f": ["кота", "коти"], "e": "У мене є кіт.", "et": "I have a cat."},
+        {"w": "собака", "m": "dog", "f": ["собаку", "собаки"]},
+        {"w": "книжка", "m": "book", "f": ["книжку", "книжки"]},
+        {"w": "друг", "m": "friend", "f": ["друга", "друзі", "другом"], "e": "Це мій друг Іван.", "et": "This is my friend Ivan."},
+        {"w": "місто", "m": "city, town", "f": ["міста", "місті"]},
+        {"w": "робота", "m": "work, job", "f": ["роботу", "роботі"]},
+        {"w": "ранок", "m": "morning", "f": ["ранку", "вранці"], "e": "Вранці я п'ю каву.", "et": "In the morning I drink coffee."},
+        {"w": "вечір", "m": "evening", "f": ["вечора", "ввечері"]},
+        {"w": "великий", "m": "big", "f": ["велика", "велике", "великі", "великому"]},
+        {"w": "маленький", "m": "small, little", "f": ["маленька", "маленьке", "маленькі"]},
+        {"w": "добрий", "m": "good, kind", "f": ["добра", "добре"]},
+        {"w": "гарний", "m": "nice, beautiful", "f": ["гарна", "гарне", "гарно"]},
+        {"w": "читати", "m": "to read", "f": ["читаю", "читає", "читаєш", "читаємо"], "e": "Я читаю книжку.", "et": "I am reading a book."},
+        {"w": "жити", "m": "to live", "f": ["живу", "живе", "живеш", "живуть"], "e": "Я живу в Києві.", "et": "I live in Kyiv."},
+        {"w": "любити", "m": "to love, to like", "f": ["люблю", "любить", "любиш"]},
+        {"w": "їсти", "m": "to eat", "f": ["їм", "їсть"]},
+        {"w": "пити", "m": "to drink", "f": ["п'ю", "п'є", "п'ємо"]},
+        {"w": "кава", "m": "coffee", "f": ["каву", "кави"]},
+        {"w": "чай", "m": "tea", "f": ["чаю"]},
+        {"w": "сьогодні", "m": "today", "e": "Сьогодні гарний день.", "et": "Today is a nice day."}
+      ],
+      "sentences": [
+        {"s": "Я живу в Києві.", "t": "I live in Kyiv."},
+        {"s": "Це мій дім.", "t": "This is my house."},
+        {"s": "У мене є кіт.", "t": "I have a cat."},
+        {"s": "Мама п'є чай.", "t": "Mom is drinking tea."},
+        {"s": "Мій друг читає книжку.", "t": "My friend is reading a book."},
+        {"s": "Сьогодні гарний день.", "t": "Today is a nice day."},
+        {"s": "Я люблю каву.", "t": "I love coffee."},
+        {"s": "Тато на роботі.", "t": "Dad is at work."}
+      ],
+      "gaps": [
+        {"s": "Я ___ в Києві.", "a": "живу", "o": ["живе", "живуть"], "t": "I live in Kyiv."},
+        {"s": "Вона ___ книжку.", "a": "читає", "o": ["читаю", "читаєш"], "t": "She is reading a book."},
+        {"s": "Це ___ дім.", "a": "мій", "o": ["моя", "моє"], "t": "This is my house."},
+        {"s": "Це ___ кава.", "a": "моя", "o": ["мій", "моє"], "t": "This is my coffee."},
+        {"s": "Ми ___ чай.", "a": "п'ємо", "o": ["п'є", "п'ю"], "t": "We drink tea."},
+        {"s": "Ти ___ каву?", "a": "любиш", "o": ["люблю", "любить"], "t": "Do you like coffee?"},
+        {"s": "Я живу у великому ___.", "a": "будинку", "o": ["будинок", "будинки"], "t": "I live in a big house."}
+      ],
+      "readings": [
+        {
+          "id": "uk-a1-1", "title": "Моя родина",
+          "text": "Мене звати Оксана. Я живу в Києві. У мене є мама, тато і брат. Мама працює в школі. Тато працює в банку. Мій брат маленький. У нас є кіт. Його звати Барсик.",
+          "translation": "My name is Oksana. I live in Kyiv. I have a mom, a dad and a brother. Mom works at a school. Dad works at a bank. My brother is little. We have a cat. His name is Barsyk.",
+          "glossary": {"мене": "me (мене звати = my name is)", "звати": "to call (мене звати = my name is)", "брат": "brother", "працює": "works", "школі": "school (at a)", "банку": "bank (at a)", "нас": "us (у нас є = we have)", "його": "him, his", "і": "and", "в": "in, at", "у": "at, by (у мене є = I have)", "є": "there is / have"},
+          "questions": [
+            {"q": "Where does Oksana live?", "o": ["In Lviv", "In Kyiv", "In Odesa"], "a": 1},
+            {"q": "Where does Dad work?", "o": ["At a bank", "At a school", "At a shop"], "a": 0},
+            {"q": "What is the cat's name?", "o": ["Barsyk", "Oksana", "Murka"], "a": 0}
+          ]
+        },
+        {
+          "id": "uk-a1-2", "title": "Ранок",
+          "text": "Сьогодні субота. Вранці я п'ю каву і їм хліб з маслом. Потім я читаю книжку. Ввечері я йду в парк з другом. Там ми гуляємо і розмовляємо.",
+          "translation": "Today is Saturday. In the morning I drink coffee and eat bread with butter. Then I read a book. In the evening I go to the park with a friend. There we walk and talk.",
+          "glossary": {"субота": "Saturday", "маслом": "butter (with)", "потім": "then, afterwards", "йду": "(I) go, on foot", "парк": "park", "з": "with", "там": "there", "гуляємо": "(we) walk, stroll", "розмовляємо": "(we) talk", "ми": "we", "я": "I", "і": "and"},
+          "questions": [
+            {"q": "What does the narrator drink in the morning?", "o": ["Tea", "Coffee", "Water"], "a": 1},
+            {"q": "What do they do after breakfast?", "o": ["Read a book", "Go to work", "Sleep"], "a": 0},
+            {"q": "Where do they go in the evening?", "o": ["To the shop", "To the park", "To school"], "a": 1}
+          ]
+        },
+        {
+          "id": "uk-a1-3", "title": "У кав'ярні",
+          "text": "Іван у кав'ярні. Він хоче їсти. Він каже: «Добрий день! Чай і пиріг, будь ласка». Пиріг коштує сто гривень. Чай дуже гарячий. Іван каже: «Дякую!»",
+          "translation": "Ivan is in a café. He is hungry. He says: 'Good afternoon! Tea and a pie, please.' The pie costs one hundred hryvnias. The tea is very hot. Ivan says: 'Thank you!'",
+          "glossary": {"кав'ярні": "café (in a)", "він": "he", "хоче": "wants (хоче їсти = is hungry)", "каже": "says", "день": "day (добрий день = good afternoon)", "пиріг": "pie", "будь": "be (будь ласка = please)", "ласка": "kindness (будь ласка = please)", "коштує": "costs", "сто": "one hundred", "гривень": "hryvnias", "дуже": "very", "гарячий": "hot"},
+          "questions": [
+            {"q": "What does Ivan order?", "o": ["Coffee and bread", "Tea and a pie", "Water"], "a": 1},
+            {"q": "How much does the pie cost?", "o": ["50 hryvnias", "100 hryvnias", "200 hryvnias"], "a": 1},
+            {"q": "What is the tea like?", "o": ["Very hot", "Cold", "Sweet"], "a": 0}
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "vocab": [
+        {"w": "погода", "m": "weather", "f": ["погоду", "погоди", "погоді"], "e": "Яка сьогодні погода?", "et": "What's the weather like today?"},
+        {"w": "дощ", "m": "rain", "f": ["дощу"]},
+        {"w": "сніг", "m": "snow", "f": ["снігу"]},
+        {"w": "холодно", "m": "(it's) cold"},
+        {"w": "тепло", "m": "(it's) warm"},
+        {"w": "крамниця", "m": "shop", "f": ["крамниці", "крамницю"]},
+        {"w": "купувати", "m": "to buy", "f": ["купую", "купує", "купити", "купив", "купила"], "e": "Я купую хліб.", "et": "I'm buying bread."},
+        {"w": "гроші", "m": "money", "f": ["грошей"]},
+        {"w": "дорогий", "m": "expensive; dear", "f": ["дорога", "дороге", "дорогі", "дорого"]},
+        {"w": "дешевий", "m": "cheap", "f": ["дешева", "дешево"]},
+        {"w": "потяг", "m": "train", "f": ["потягом", "потязі"]},
+        {"w": "квиток", "m": "ticket", "f": ["квитки", "квитка"]},
+        {"w": "вокзал", "m": "railway station", "f": ["вокзалі", "вокзалу"]},
+        {"w": "їхати", "m": "to go (by transport)", "f": ["їду", "їде", "їдемо", "їдуть", "їхали"], "e": "Завтра ми їдемо до Львова.", "et": "Tomorrow we're going to Lviv."},
+        {"w": "подорожувати", "m": "to travel", "f": ["подорожую", "подорожуємо"]},
+        {"w": "тиждень", "m": "week", "f": ["тижня", "тижні"]},
+        {"w": "вчора", "m": "yesterday"},
+        {"w": "завтра", "m": "tomorrow"},
+        {"w": "часто", "m": "often"},
+        {"w": "іноді", "m": "sometimes"},
+        {"w": "лікар", "m": "doctor", "f": ["лікаря", "лікареві", "лікарю"]},
+        {"w": "боліти", "m": "to hurt, ache", "f": ["болить", "боліла"], "e": "У мене болить голова.", "et": "I have a headache."},
+        {"w": "пам'ятати", "m": "to remember", "f": ["пам'ятаю", "пам'ятає"]},
+        {"w": "думати", "m": "to think", "f": ["думаю", "думає"]},
+        {"w": "рано", "m": "early"},
+        {"w": "пізно", "m": "late"},
+        {"w": "літо", "m": "summer", "f": ["влітку", "літа"]},
+        {"w": "зима", "m": "winter", "f": ["взимку", "зими"]},
+        {"w": "відпустка", "m": "vacation, leave", "f": ["відпустці", "відпустку"]},
+        {"w": "голова", "m": "head", "f": ["голову", "голови"]}
+      ],
+      "sentences": [
+        {"s": "Вчора йшов сильний дощ.", "t": "It rained heavily yesterday."},
+        {"s": "Завтра ми їдемо до моря.", "t": "Tomorrow we're going to the sea."},
+        {"s": "Цей квиток дуже дорогий.", "t": "This ticket is very expensive."},
+        {"s": "Я часто купую тут хліб.", "t": "I often buy bread here."},
+        {"s": "Влітку ми подорожуємо Україною.", "t": "In summer we travel around Ukraine."},
+        {"s": "У мене болить голова.", "t": "I have a headache."},
+        {"s": "Потяг прибуває о восьмій годині.", "t": "The train arrives at eight o'clock."},
+        {"s": "Взимку тут дуже холодно.", "t": "In winter it's very cold here."}
+      ],
+      "gaps": [
+        {"s": "Вчора я ___ в кіно.", "a": "ходив", "o": ["йду", "ходжу"], "t": "Yesterday I went to the cinema."},
+        {"s": "Ми їдемо ___.", "a": "потягом", "o": ["потяг", "потяга"], "t": "We are travelling by train."},
+        {"s": "Вона ___ нову сукню.", "a": "купила", "o": ["купив", "купили"], "t": "She bought a new dress."},
+        {"s": "У мене немає ___.", "a": "грошей", "o": ["гроші", "грошима"], "t": "I have no money."},
+        {"s": "Я думаю про ___.", "a": "роботу", "o": ["робота", "роботі"], "t": "I'm thinking about work."},
+        {"s": "Завтра я ___ до лікаря.", "a": "піду", "o": ["пішов", "ходив"], "t": "Tomorrow I'll go to the doctor."},
+        {"s": "Ми були у відпустці два ___.", "a": "тижні", "o": ["тиждень", "тижнем"], "t": "We were on vacation for two weeks."},
+        {"s": "Влітку ми живемо на ___.", "a": "дачі", "o": ["дача", "дачу"], "t": "In summer we live at the dacha."}
+      ],
+      "readings": [
+        {
+          "id": "uk-a2-1", "title": "Поїздка до Львова",
+          "text": "Минулого місяця ми з сестрою їздили до Львова. Ми їхали потягом шість годин. Місто дуже гарне, але погода була погана: щодня йшов дощ. Ми ходили в музеї, пили каву в затишних кав'ярнях і багато гуляли старим містом. Квитки до театру були дорогі, але ми не шкодуємо.",
+          "translation": "Last month my sister and I went to Lviv. We travelled by train for six hours. The city is very beautiful, but the weather was bad: it rained every day. We went to museums, drank coffee in cosy cafés and walked a lot around the old town. The theatre tickets were expensive, but we have no regrets.",
+          "glossary": {"минулого": "last, past", "місяця": "month", "сестрою": "sister (with)", "їздили": "went (by transport)", "їхали": "travelled", "шість": "six", "годин": "hours", "гарне": "beautiful", "але": "but", "була": "was", "погана": "bad", "щодня": "every day", "йшов": "was falling (of rain)", "ходили": "went (on foot)", "музеї": "museums", "пили": "drank", "затишних": "cosy", "кав'ярнях": "cafés", "багато": "a lot", "гуляли": "walked", "старим": "old", "містом": "town (around the)", "квитки": "tickets", "театру": "theatre", "були": "were", "дорогі": "expensive", "шкодуємо": "(we) regret"},
+          "questions": [
+            {"q": "How did they travel?", "o": ["By plane", "By train", "By car"], "a": 1},
+            {"q": "What was the weather like?", "o": ["Sunny", "Snowy", "Rainy"], "a": 2},
+            {"q": "What did they do in Lviv?", "o": ["Went skiing", "Visited museums and cafés", "Went to the beach"], "a": 1}
+          ]
+        },
+        {
+          "id": "uk-a2-2", "title": "У лікаря",
+          "text": "Вчора Олег захворів. У нього боліла голова і була висока температура. Вранці він зателефонував лікареві. Лікар сказав: «Пийте багато чаю і відпочивайте три дні». Сьогодні Олегові вже краще.",
+          "translation": "Yesterday Oleh fell ill. He had a headache and a high temperature. In the morning he called the doctor. The doctor said: 'Drink lots of tea and rest for three days.' Today Oleh is already feeling better.",
+          "glossary": {"захворів": "fell ill", "нього": "him (у нього = he has)", "боліла": "hurt, ached", "висока": "high", "температура": "temperature", "зателефонував": "called (on the phone)", "сказав": "said", "пийте": "drink! (polite)", "відпочивайте": "rest! (polite)", "три": "three", "дні": "days", "олегові": "(to) Oleh", "вже": "already", "краще": "better"},
+          "questions": [
+            {"q": "What was wrong with Oleh?", "o": ["A broken leg", "A headache and fever", "A toothache"], "a": 1},
+            {"q": "What did the doctor advise?", "o": ["Drink tea and rest", "Go to work", "Take a trip"], "a": 0},
+            {"q": "How is Oleh today?", "o": ["Worse", "The same", "Better"], "a": 2}
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "vocab": [
+        {"w": "освіта", "m": "education", "f": ["освіти"]},
+        {"w": "університет", "m": "university", "f": ["університеті"]},
+        {"w": "іспит", "m": "exam", "f": ["іспити", "іспиту"]},
+        {"w": "складати", "m": "to take (an exam)", "f": ["скласти", "склав", "склала"], "e": "Я склав іспит!", "et": "I passed the exam!"},
+        {"w": "досвід", "m": "experience", "f": ["досвіду"]},
+        {"w": "зарплата", "m": "salary", "f": ["зарплату", "зарплати"]},
+        {"w": "керівник", "m": "boss, manager", "f": ["керівника", "керівником"]},
+        {"w": "колега", "m": "colleague", "f": ["колеги", "колегами", "колегою"]},
+        {"w": "думка", "m": "opinion, thought", "f": ["думку", "думки", "думкою"]},
+        {"w": "погоджуватися", "m": "to agree", "f": ["згоден", "згодна", "погодитися", "погодилася"], "e": "Я з тобою згоден.", "et": "I agree with you."},
+        {"w": "рішення", "m": "decision; solution"},
+        {"w": "можливість", "m": "opportunity, possibility", "f": ["можливості"]},
+        {"w": "сподіватися", "m": "to hope", "f": ["сподіваюся", "сподівається"]},
+        {"w": "боятися", "m": "to be afraid", "f": ["боюся", "боїться"]},
+        {"w": "звикнути", "m": "to get used to", "f": ["звик", "звикла"]},
+        {"w": "зручний", "m": "convenient, comfortable", "f": ["зручно", "зручна"]},
+        {"w": "здоров'я", "m": "health"},
+        {"w": "розвиток", "m": "development", "f": ["розвитку"]},
+        {"w": "новини", "m": "news", "f": ["новин"]},
+        {"w": "суспільство", "m": "society", "f": ["суспільства", "суспільстві"]},
+        {"w": "тому", "m": "therefore, that's why; ago"},
+        {"w": "хоча", "m": "although"},
+        {"w": "однак", "m": "however"},
+        {"w": "поки", "m": "while; for now"}
+      ],
+      "sentences": [
+        {"s": "Я сподіваюся скласти іспит у червні.", "t": "I hope to pass the exam in June."},
+        {"s": "На мою думку, це гарне рішення.", "t": "In my opinion, it's a good decision."},
+        {"s": "Хоча було пізно, ми продовжували працювати.", "t": "Although it was late, we kept working."},
+        {"s": "Мій керівник завжди приходить вчасно.", "t": "My boss always arrives on time."},
+        {"s": "Я швидко звик до нового міста.", "t": "I quickly got used to the new city."},
+        {"s": "Здоров'я важливіше за гроші.", "t": "Health is more important than money."},
+        {"s": "Я не згоден з твоєю думкою.", "t": "I don't agree with your opinion."},
+        {"s": "У мене мало досвіду, тому я навчаюся.", "t": "I have little experience, so I'm learning."}
+      ],
+      "gaps": [
+        {"s": "Якби в мене був час, я ___ поїхав.", "a": "би", "o": ["був", "буду"], "t": "If I had time, I would go."},
+        {"s": "Я боюся ___.", "a": "собак", "o": ["собаки", "собакам"], "t": "I'm afraid of dogs."},
+        {"s": "Вона погодилася з ___.", "a": "колегою", "o": ["колега", "колегу"], "t": "She agreed with her colleague."},
+        {"s": "Мені треба ___ рішення до п'ятниці.", "a": "ухвалити", "o": ["ухвалив", "ухвалить"], "t": "I need to make a decision by Friday."},
+        {"s": "Він працює тут уже три ___.", "a": "роки", "o": ["рік", "років"], "t": "He has been working here for three years."},
+        {"s": "Я звик ___ рано.", "a": "вставати", "o": ["встаю", "встав"], "t": "I'm used to getting up early."},
+        {"s": "Це місто, в ___ я народився.", "a": "якому", "o": ["який", "якого"], "t": "This is the city where I was born."},
+        {"s": "Ми обговорювали новини ___ вечері.", "a": "після", "o": ["перед", "за"], "t": "We discussed the news after dinner."}
+      ],
+      "readings": [
+        {
+          "id": "uk-b1-1", "title": "Нова робота",
+          "text": "Місяць тому Марина почала працювати у великій IT-компанії. Спочатку їй було важко: нові колеги, нові завдання, довгі наради. Однак керівник допомагав їй і терпляче пояснював, як усе влаштовано. Тепер Марина звикла до ритму і навіть запропонувала ідею для нового проєкту. Зарплата в неї вища, ніж на старій роботі, але головне для неї — можливість розвиватися.",
+          "translation": "A month ago Marina started working at a large IT company. At first it was hard for her: new colleagues, new tasks, long meetings. However, her boss helped her and patiently explained how everything works. Now Marina has got used to the pace and even suggested an idea for a new project. Her salary is higher than at her old job, but the main thing for her is the opportunity to grow.",
+          "glossary": {"тому": "ago (місяць тому = a month ago)", "почала": "began", "великій": "large", "спочатку": "at first", "їй": "to her", "важко": "difficult", "завдання": "tasks", "довгі": "long", "наради": "meetings", "допомагав": "helped", "терпляче": "patiently", "пояснював": "explained", "усе": "everything", "влаштовано": "is arranged, works", "тепер": "now", "звикла": "got used to", "ритму": "rhythm, pace", "навіть": "even", "запропонувала": "suggested", "ідею": "idea", "проєкту": "project", "неї": "her", "вища": "higher", "ніж": "than", "старій": "old", "головне": "the main thing", "розвиватися": "to develop, to grow"},
+          "questions": [
+            {"q": "How long has Marina worked there?", "o": ["A year", "A month", "A week"], "a": 1},
+            {"q": "Who helped her?", "o": ["Her boss", "Her sister", "Nobody"], "a": 0},
+            {"q": "What matters most to Marina?", "o": ["The salary", "The office", "The chance to grow"], "a": 2}
+          ]
+        },
+        {
+          "id": "uk-b1-2", "title": "Київське метро",
+          "text": "Київське метро — один із найзручніших видів транспорту в місті. Станція «Арсенальна» вважається однією з найглибших у світі: її глибина понад сто метрів. Багато туристів спускаються в метро не лише, щоб їхати, а й щоб подивитися на мозаїки та архітектуру. Щоправда, у години пік там буває дуже тісно, тому кияни намагаються виїжджати раніше.",
+          "translation": "The Kyiv metro is one of the most convenient forms of transport in the city. Arsenalna station is considered one of the deepest in the world: it is over a hundred metres deep. Many tourists go down into the metro not only to travel but also to look at the mosaics and architecture. True, at rush hour it can be very crowded, so Kyivans try to set off earlier.",
+          "glossary": {"київське": "Kyiv (adj.)", "один": "one", "із": "of, from", "найзручніших": "most convenient", "видів": "types, forms", "транспорту": "transport", "станція": "station", "арсенальна": "Arsenalna (station name)", "вважається": "is considered", "однією": "one", "найглибших": "deepest", "світі": "world", "її": "its, her", "глибина": "depth", "понад": "over, more than", "сто": "hundred", "метрів": "metres", "туристів": "tourists", "спускаються": "go down", "лише": "only", "щоб": "in order to", "а": "and, but", "й": "also, and", "подивитися": "to look", "мозаїки": "mosaics", "та": "and", "архітектуру": "architecture", "щоправда": "admittedly, true", "години": "hours", "пік": "peak (години пік = rush hour)", "буває": "can be, happens", "тісно": "crowded", "тому": "therefore, so", "кияни": "Kyivans", "намагаються": "try", "виїжджати": "to set off", "раніше": "earlier"},
+          "questions": [
+            {"q": "What is special about Arsenalna station?", "o": ["It's the newest", "It's one of the deepest in the world", "It has no trains"], "a": 1},
+            {"q": "Why do tourists visit the metro?", "o": ["It's free", "To see the mosaics and architecture", "To shop"], "a": 1},
+            {"q": "What do Kyivans do to avoid crowds?", "o": ["Take taxis", "Leave earlier", "Stay home"], "a": 1}
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "vocab": [
+        {"w": "довкілля", "m": "environment"},
+        {"w": "вплив", "m": "influence", "f": ["впливу", "впливати", "впливає"]},
+        {"w": "наслідок", "m": "consequence", "f": ["наслідки", "наслідків"]},
+        {"w": "причина", "m": "cause, reason", "f": ["причини", "причину"]},
+        {"w": "рівень", "m": "level", "f": ["рівня"]},
+        {"w": "забруднення", "m": "pollution"},
+        {"w": "дослідження", "m": "research, study"},
+        {"w": "стверджувати", "m": "to claim, assert", "f": ["стверджує", "стверджують"], "e": "Науковці стверджують, що клімат змінюється.", "et": "Scientists claim the climate is changing."},
+        {"w": "сумніватися", "m": "to doubt", "f": ["сумніваюся", "сумнівається"]},
+        {"w": "пропонувати", "m": "to suggest, offer", "f": ["пропонує", "запропонувати", "запропонував"]},
+        {"w": "вимагати", "m": "to demand, require", "f": ["вимагає", "вимагають"]},
+        {"w": "існувати", "m": "to exist", "f": ["існує"]},
+        {"w": "значний", "m": "significant", "f": ["значно", "значна"]},
+        {"w": "очевидний", "m": "obvious", "f": ["очевидно"]},
+        {"w": "відповідальність", "m": "responsibility", "f": ["відповідальності"]},
+        {"w": "рівність", "m": "equality"},
+        {"w": "вибір", "m": "choice", "f": ["вибору"]},
+        {"w": "перевага", "m": "advantage", "f": ["переваги"]},
+        {"w": "недолік", "m": "drawback, shortcoming", "f": ["недоліки"]},
+        {"w": "замість", "m": "instead of"},
+        {"w": "завдяки", "m": "thanks to"},
+        {"w": "попри", "m": "despite"},
+        {"w": "отже", "m": "therefore, so"}
+      ],
+      "sentences": [
+        {"s": "Попри дощ, концерт відбувся.", "t": "Despite the rain, the concert took place."},
+        {"s": "Науковці стверджують, що клімат змінюється.", "t": "Scientists claim that the climate is changing."},
+        {"s": "Завдяки твоїй допомозі ми встигли.", "t": "Thanks to your help, we made it in time."},
+        {"s": "Це рішення має свої недоліки.", "t": "This decision has its drawbacks."},
+        {"s": "Я сумніваюся, що він скаже правду.", "t": "I doubt that he will tell the truth."},
+        {"s": "Забруднення повітря впливає на здоров'я.", "t": "Air pollution affects health."},
+        {"s": "Кожен несе відповідальність за свій вибір.", "t": "Everyone is responsible for their own choice."},
+        {"s": "Замість машини я обрав велосипед.", "t": "Instead of a car I chose a bicycle."}
+      ],
+      "gaps": [
+        {"s": "Попри ___, ми завершили проєкт.", "a": "труднощі", "o": ["труднощів", "труднощах"], "t": "Despite the difficulties, we finished the project."},
+        {"s": "Якби ти ___ раніше, ми б устигли.", "a": "прийшов", "o": ["прийдеш", "приходиш"], "t": "If you had come earlier, we would have made it."},
+        {"s": "Це залежить ___ обставин.", "a": "від", "o": ["з", "до"], "t": "That depends on the circumstances."},
+        {"s": "Ми обговорили проблему, ___ так і не знайшли рішення.", "a": "але", "o": ["тому", "бо"], "t": "We discussed the problem but never found a solution."},
+        {"s": "Що більше читаєш, ___ краще розумієш.", "a": "то", "o": ["ніж", "як"], "t": "The more you read, the better you understand."},
+        {"s": "Йому довелося відмовитися ___ поїздки.", "a": "від", "o": ["з", "для"], "t": "He had to give up the trip."},
+        {"s": "Науковці провели ___ дослідження.", "a": "масштабне", "o": ["масштабна", "масштабний"], "t": "The scientists conducted a large-scale study."}
+      ],
+      "readings": [
+        {
+          "id": "uk-b2-1", "title": "Віддалена робота",
+          "text": "Після пандемії багато компаній перейшли на віддалений або гібридний формат роботи. Прихильники такого підходу стверджують, що він заощаджує час на дорогу і дає змогу краще поєднувати роботу з особистим життям. Однак критики вказують на зворотний бік: працівники частіше почуваються самотніми, а межі між роботою та відпочинком поступово стираються. За даними нещодавнього дослідження, найпродуктивнішими виявляються ті, хто працює з дому два-три дні на тиждень.",
+          "translation": "After the pandemic many companies switched to a remote or hybrid way of working. Supporters of this approach claim it saves commuting time and makes it easier to combine work with personal life. However, critics point to the downside: employees more often feel lonely, and the boundaries between work and rest gradually blur. According to a recent study, the most productive turn out to be those who work from home two or three days a week.",
+          "glossary": {"пандемії": "pandemic", "компаній": "companies", "перейшли": "switched", "віддалений": "remote", "або": "or", "гібридний": "hybrid", "формат": "format", "прихильники": "supporters", "такого": "such", "підходу": "approach", "заощаджує": "saves", "дорогу": "commute (road)", "дає": "gives", "змогу": "opportunity (дає змогу = allows)", "поєднувати": "to combine", "особистим": "personal", "життям": "life", "критики": "critics", "вказують": "point out", "зворотний": "reverse", "бік": "side", "працівники": "employees", "частіше": "more often", "почуваються": "feel", "самотніми": "lonely", "межі": "boundaries", "відпочинком": "rest", "поступово": "gradually", "стираються": "blur, get erased", "даними": "data (за даними = according to)", "нещодавнього": "recent", "найпродуктивнішими": "most productive", "виявляються": "turn out", "дому": "home (з дому = from home)", "два-три": "two or three"},
+          "questions": [
+            {"q": "What do supporters say remote work saves?", "o": ["Money on lunch", "Commuting time", "Electricity"], "a": 1},
+            {"q": "What problem do critics mention?", "o": ["Loneliness and blurred boundaries", "Slow internet", "Higher taxes"], "a": 0},
+            {"q": "Who is most productive according to the study?", "o": ["Fully remote workers", "Fully office-based workers", "People working 2–3 days at home"], "a": 2}
+          ]
+        },
+        {
+          "id": "uk-b2-2", "title": "Карпати",
+          "text": "Українські Карпати — це не лише гірськолижні курорти, а й унікальна екосистема. Тут ростуть смерекові ліси, а на полонинах досі випасають овець за давніми традиціями. Найвища вершина України, Говерла, сягає двох тисяч шістдесяти одного метра. Проте екологи б'ють на сполох: незаконні вирубки лісу спричиняють повені та зсуви, тому захист Карпат потребує спільних зусиль.",
+          "translation": "The Ukrainian Carpathians are not only ski resorts but also a unique ecosystem. Spruce forests grow here, and on the mountain meadows sheep are still grazed according to old traditions. Ukraine's highest peak, Hoverla, reaches 2,061 metres. However, ecologists are sounding the alarm: illegal logging causes floods and landslides, so protecting the Carpathians requires joint efforts.",
+          "glossary": {"українські": "Ukrainian", "карпати": "the Carpathians", "гірськолижні": "ski (adj.)", "курорти": "resorts", "унікальна": "unique", "екосистема": "ecosystem", "тут": "here", "ростуть": "grow", "смерекові": "spruce (adj.)", "ліси": "forests", "полонинах": "mountain meadows", "досі": "still", "випасають": "graze", "овець": "sheep", "давніми": "ancient, old", "традиціями": "traditions", "найвища": "highest", "вершина": "peak", "україни": "Ukraine's", "говерла": "Hoverla (mountain)", "сягає": "reaches", "двох": "two", "тисяч": "thousand", "шістдесяти": "sixty", "одного": "one", "метра": "metres", "проте": "however", "екологи": "ecologists", "б'ють": "beat (бити на сполох = sound the alarm)", "сполох": "alarm", "незаконні": "illegal", "вирубки": "logging, felling", "лісу": "forest", "спричиняють": "cause", "повені": "floods", "зсуви": "landslides", "захист": "protection", "карпат": "the Carpathians", "потребує": "requires", "спільних": "joint", "зусиль": "efforts"},
+          "questions": [
+            {"q": "What is Hoverla?", "o": ["A river", "Ukraine's highest peak", "A ski resort town"], "a": 1},
+            {"q": "What traditional activity continues on the meadows?", "o": ["Sheep grazing", "Fishing", "Wine-making"], "a": 0},
+            {"q": "What causes floods and landslides?", "o": ["Tourism", "Illegal logging", "Earthquakes"], "a": 1}
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "vocab": [
+        {"w": "неминучий", "m": "inevitable", "f": ["неминуче", "неминучість", "неминучості"]},
+        {"w": "суперечність", "m": "contradiction", "f": ["суперечності"]},
+        {"w": "передумова", "m": "prerequisite, premise", "f": ["передумови"]},
+        {"w": "сталий", "m": "sustainable, steady", "f": ["стале", "сталого"]},
+        {"w": "нехтувати", "m": "to neglect, disregard", "f": ["нехтує", "нехтують"]},
+        {"w": "наголошувати", "m": "to emphasize", "f": ["наголошує", "наголосити"]},
+        {"w": "вразливий", "m": "vulnerable", "f": ["вразливість", "вразливі"]},
+        {"w": "визнавати", "m": "to acknowledge, admit", "f": ["визнає", "визнати", "визнав"]},
+        {"w": "доцільний", "m": "advisable, expedient", "f": ["доцільно"]},
+        {"w": "тенденція", "m": "trend, tendency", "f": ["тенденції"]},
+        {"w": "спонукати", "m": "to prompt, motivate", "f": ["спонукає"]},
+        {"w": "унаслідок", "m": "as a result of"},
+        {"w": "осмислення", "m": "comprehension, making sense of"},
+        {"w": "хибний", "m": "false, mistaken", "f": ["хибне", "хибна"]},
+        {"w": "стриманий", "m": "reserved, restrained", "f": ["стримано", "стриманою"]},
+        {"w": "передбачати", "m": "to foresee; to provide for", "f": ["передбачає"]},
+        {"w": "нагальний", "m": "urgent, pressing", "f": ["нагальні", "нагальним"]},
+        {"w": "неоднозначний", "m": "ambiguous, mixed", "f": ["неоднозначно", "неоднозначною"]},
+        {"w": "спростовувати", "m": "to refute", "f": ["спростовує", "спростовують", "спростувати"]},
+        {"w": "всупереч", "m": "contrary to, in spite of"}
+      ],
+      "sentences": [
+        {"s": "Всупереч очікуванням, реформа виявилася успішною.", "t": "Contrary to expectations, the reform proved successful."},
+        {"s": "Автор наголошує на неминучості змін.", "t": "The author emphasizes the inevitability of change."},
+        {"s": "Це поширене хибне уявлення.", "t": "That is a common misconception."},
+        {"s": "Його реакція була досить стриманою.", "t": "His reaction was rather restrained."},
+        {"s": "Не можна нехтувати думкою фахівців.", "t": "One must not neglect the opinion of specialists."},
+        {"s": "Нові дані спростовують попередню теорію.", "t": "New data refute the previous theory."},
+        {"s": "Унаслідок посухи врожай скоротився вдвічі.", "t": "As a result of the drought, the harvest halved."},
+        {"s": "Ми мусимо визнати свою відповідальність.", "t": "We must acknowledge our responsibility."}
+      ],
+      "gaps": [
+        {"s": "___ посухи врожай різко скоротився.", "a": "Унаслідок", "o": ["Завдяки", "Всупереч"], "t": "As a result of the drought, the harvest fell sharply."},
+        {"s": "Він так і не визнав ___ помилку.", "a": "свою", "o": ["своєї", "своя"], "t": "He never admitted his mistake."},
+        {"s": "Нам слід приділити більше уваги ___ питанням.", "a": "нагальним", "o": ["нагальні", "нагальних"], "t": "We should pay more attention to pressing issues."},
+        {"s": "Ситуація ___ неоднозначною.", "a": "залишається", "o": ["залишатися", "залишаються"], "t": "The situation remains ambiguous."},
+        {"s": "Жоден експерт ___ зміг дати точний прогноз.", "a": "не", "o": ["ні", "би"], "t": "Not a single expert could give a precise forecast."},
+        {"s": "Ця тенденція ___ до зростання цін.", "a": "призводить", "o": ["призводять", "призвести"], "t": "This trend leads to rising prices."},
+        {"s": "Автор наголошує ___ важливості освіти.", "a": "на", "o": ["про", "до"], "t": "The author stresses the importance of education."}
+      ],
+      "readings": [
+        {
+          "id": "uk-c1-1", "title": "Цифрова пам'ять",
+          "text": "Ми звикли довіряти смартфонам зберігання номерів, дат і маршрутів. Деякі дослідники називають це явище «цифровою амнезією»: знаючи, що інформація завжди під рукою, мозок просто не завдає собі клопоту її запам'ятовувати. Утім, низка психологів наголошує, що йдеться не про деградацію, а про перерозподіл ресурсів: звільняючи пам'ять від рутини, людина нібито може зосередитися на аналізі та творчості. Наскільки обґрунтований цей оптимізм, покажуть лише довгострокові спостереження.",
+          "translation": "We have grown used to trusting our smartphones to store numbers, dates and routes. Some researchers call this phenomenon 'digital amnesia': knowing that the information is always at hand, the brain simply doesn't bother memorising it. However, a number of psychologists stress that this is not degradation but a redistribution of resources: by freeing memory from routine, a person can supposedly focus on analysis and creativity. How justified this optimism is, only long-term observation will show.",
+          "glossary": {"звикли": "have got used to", "довіряти": "to entrust, to trust", "смартфонам": "smartphones", "зберігання": "storage", "номерів": "numbers", "дат": "dates", "маршрутів": "routes", "деякі": "some", "дослідники": "researchers", "називають": "call", "явище": "phenomenon", "цифровою": "digital", "амнезією": "amnesia", "знаючи": "knowing", "під": "under", "рукою": "hand (під рукою = at hand)", "мозок": "brain", "просто": "simply", "завдає": "causes (не завдає собі клопоту = doesn't bother)", "клопоту": "trouble, bother", "запам'ятовувати": "to memorise", "утім": "that said, however", "низка": "a number of", "психологів": "psychologists", "йдеться": "it is about", "деградацію": "degradation", "перерозподіл": "redistribution", "ресурсів": "resources", "звільняючи": "freeing", "рутини": "routine", "людина": "person", "нібито": "supposedly", "зосередитися": "to concentrate", "аналізі": "analysis", "творчості": "creativity", "наскільки": "to what extent", "обґрунтований": "justified", "оптимізм": "optimism", "покажуть": "will show", "лише": "only", "довгострокові": "long-term", "спостереження": "observations"},
+          "questions": [
+            {"q": "What is 'digital amnesia'?", "o": ["Losing your phone", "Not memorising info because devices store it", "A computer virus"], "a": 1},
+            {"q": "What do some psychologists argue?", "o": ["It's a redistribution of mental resources", "Smartphones should be banned", "Memory improves with phones"], "a": 0},
+            {"q": "What is the author's conclusion?", "o": ["The optimism is fully proven", "Only long-term observation will tell", "The brain is degrading"], "a": 1}
+          ]
+        },
+        {
+          "id": "uk-c1-2", "title": "Шевченко",
+          "text": "Тарас Шевченко, кріпак, викуплений на волю завдяки зусиллям друзів-митців, став символом української культури. Його збірка «Кобзар», видана 1840 року, утвердила живу народну мову як повноцінну мову високої поезії. Попри заслання та заборону писати й малювати, поет не зрікся своїх переконань. Саме ця незламність, на думку багатьох дослідників, перетворила його постать на моральний орієнтир для наступних поколінь.",
+          "translation": "Taras Shevchenko, a serf bought out of bondage thanks to the efforts of artist friends, became a symbol of Ukrainian culture. His collection 'Kobzar', published in 1840, established the living vernacular as a fully fledged language of high poetry. Despite exile and a ban on writing and painting, the poet did not renounce his convictions. It is precisely this unbreakable spirit, in the view of many scholars, that turned him into a moral compass for later generations.",
+          "glossary": {"кріпак": "serf", "викуплений": "bought out", "волю": "freedom", "завдяки": "thanks to", "зусиллям": "efforts", "друзів-митців": "artist friends", "став": "became", "символом": "symbol", "української": "Ukrainian", "культури": "culture", "збірка": "collection", "кобзар": "Kobzar (a wandering minstrel)", "видана": "published", "року": "year (in)", "утвердила": "established", "живу": "living", "народну": "folk, vernacular", "мову": "language", "повноцінну": "fully fledged", "високої": "high", "поезії": "poetry", "попри": "despite", "заслання": "exile", "заборону": "ban", "писати": "to write", "й": "and", "малювати": "to paint", "поет": "poet", "зрікся": "renounced", "своїх": "his own", "переконань": "convictions", "саме": "precisely", "незламність": "unbreakable spirit", "думку": "opinion (на думку = in the view of)", "багатьох": "many", "дослідників": "researchers, scholars", "перетворила": "turned", "постать": "figure", "моральний": "moral", "орієнтир": "guide, compass", "наступних": "subsequent", "поколінь": "generations"},
+          "questions": [
+            {"q": "How did Shevchenko gain his freedom?", "o": ["He escaped", "Friends bought him out of serfdom", "He was born free"], "a": 1},
+            {"q": "Why was 'Kobzar' important?", "o": ["It established vernacular Ukrainian as a language of poetry", "It was the first novel", "It was written in Latin"], "a": 0},
+            {"q": "What did he do despite exile?", "o": ["Renounced his views", "Kept his convictions", "Moved abroad"], "a": 1}
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "vocab": [
+        {"w": "витіюватий", "m": "ornate, convoluted", "f": ["витіювато"]},
+        {"w": "злободенний", "m": "topical, burning (issue)", "f": ["злободенна", "злободенні"]},
+        {"w": "непомітно", "m": "imperceptibly"},
+        {"w": "копіткий", "m": "painstaking", "f": ["копітка", "копіткої", "копітко"]},
+        {"w": "непорушний", "m": "unshakable, inviolable", "f": ["непорушні"]},
+        {"w": "прихований", "m": "latent, hidden", "f": ["приховано"]},
+        {"w": "марний", "m": "futile", "f": ["марно", "марні", "марними"]},
+        {"w": "сподівання", "m": "hope, expectation", "f": ["сподівань"]},
+        {"w": "горезвісний", "m": "notorious, infamous", "f": ["горезвісна", "горезвісне"]},
+        {"w": "поблажливий", "m": "condescending; lenient", "f": ["поблажливо"]},
+        {"w": "всеосяжний", "m": "all-encompassing"},
+        {"w": "безпрецедентний", "m": "unprecedented"},
+        {"w": "нарікати", "m": "to lament, complain", "f": ["нарікає", "нарікають"]},
+        {"w": "сповнений", "m": "filled (with)", "f": ["сповнена"]},
+        {"w": "ґрунтуватися", "m": "to rest on, be based on", "f": ["ґрунтується"]},
+        {"w": "лицемірство", "m": "hypocrisy"},
+        {"w": "прагнення", "m": "aspiration"},
+        {"w": "фіаско", "m": "fiasco"},
+        {"w": "кулуарний", "m": "behind-the-scenes", "f": ["кулуарно", "кулуарному"]},
+        {"w": "загал", "m": "the public, the masses", "f": ["загалу"]}
+      ],
+      "sentences": [
+        {"s": "Його спроби виправдатися були марними.", "t": "His attempts to justify himself were futile."},
+        {"s": "Горезвісна стабільність виявилася ілюзією.", "t": "The notorious stability turned out to be an illusion."},
+        {"s": "Зміни назрівали непомітно.", "t": "The changes were brewing imperceptibly."},
+        {"s": "Критики нарікають на лицемірство еліт.", "t": "Critics lament the hypocrisy of the elites."},
+        {"s": "Його стиль надто витіюватий для широкого загалу.", "t": "His style is too ornate for the general public."},
+        {"s": "Реставрація вимагала копіткої праці.", "t": "The restoration demanded painstaking work."},
+        {"s": "Уся система ґрунтується на довірі.", "t": "The whole system rests on trust."},
+        {"s": "Переговори зазнали цілковитого фіаско.", "t": "The negotiations ended in complete fiasco."}
+      ],
+      "gaps": [
+        {"s": "Усі його зусилля виявилися ___.", "a": "марними", "o": ["марні", "марним"], "t": "All his efforts proved futile."},
+        {"s": "Домовленості було досягнуто в ___ порядку.", "a": "кулуарному", "o": ["кулуарний", "кулуарна"], "t": "The agreement was reached behind closed doors."},
+        {"s": "Він дивився на нас ___, наче на дітей.", "a": "поблажливо", "o": ["поблажливий", "поблажливість"], "t": "He looked at us condescendingly, as if at children."},
+        {"s": "Це рішення ___ на хиткому підґрунті.", "a": "ґрунтується", "o": ["ґрунтуються", "ґрунтуватися"], "t": "This decision rests on shaky ground."},
+        {"s": "Народ покладав на реформу великі ___.", "a": "сподівання", "o": ["сподіванням", "сподіваннями"], "t": "The people pinned great hopes on the reform."},
+        {"s": "Проблема постала як ніколи ___.", "a": "гостро", "o": ["гострий", "гостра"], "t": "The problem has become more acute than ever."}
+      ],
+      "readings": [
+        {
+          "id": "uk-c2-1", "title": "Про користь нудьги",
+          "text": "В епоху, коли кожну вільну хвилину заповнює стрічка новин, нудьга перетворилася мало не на розкіш. Тим часом філософи здавна вбачали в ній не ваду, а живильне середовище для думки: саме в неробстві, коли свідомість позбавлена зовнішніх подразників, непомітно визрівають найнесподіваніші ідеї. Парадокс полягає в тому, що, марно намагаючись уникнути нудьги, ми, можливо, позбавляємо себе того самого стану, з якого народжується творчість.",
+          "translation": "In an age when every free minute is filled with a news feed, boredom has become almost a luxury. Meanwhile, philosophers have long seen it not as a vice but as fertile ground for thought: it is precisely in idleness, when the mind is deprived of external stimuli, that the most unexpected ideas quietly ripen. The paradox is that, by futilely trying to avoid boredom, we may be depriving ourselves of the very state from which creativity is born.",
+          "glossary": {"епоху": "era, age", "вільну": "free", "хвилину": "minute", "заповнює": "fills", "стрічка": "feed", "новин": "news", "нудьга": "boredom", "нудьги": "boredom", "перетворилася": "turned into", "мало": "little (мало не = almost)", "розкіш": "luxury", "тим": "that (тим часом = meanwhile)", "часом": "time", "філософи": "philosophers", "здавна": "since long ago", "вбачали": "saw, discerned", "ваду": "flaw, vice", "живильне": "nourishing", "середовище": "medium, environment", "думки": "thought", "неробстві": "idleness", "свідомість": "consciousness", "позбавлена": "deprived", "зовнішніх": "external", "подразників": "stimuli", "визрівають": "ripen", "найнесподіваніші": "most unexpected", "ідеї": "ideas", "парадокс": "paradox", "полягає": "consists, lies", "марно": "in vain", "намагаючись": "trying", "уникнути": "to avoid", "позбавляємо": "(we) deprive", "стану": "state", "народжується": "is born", "творчість": "creativity"},
+          "questions": [
+            {"q": "How does the author describe boredom today?", "o": ["As almost a luxury", "As a disease", "As a waste of time"], "a": 0},
+            {"q": "What did philosophers see in boredom?", "o": ["A vice", "Fertile ground for thought", "A sign of laziness"], "a": 1},
+            {"q": "What is the paradox?", "o": ["Boredom makes us busier", "Avoiding boredom may cost us creativity", "Philosophers were always bored"], "a": 1}
+          ]
+        }
+      ]
+    }
+  }
+}

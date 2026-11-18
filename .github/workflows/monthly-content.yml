@@ -1,0 +1,77 @@
+# Writes next month's lessons with Claude and publishes them for the app.
+#
+# Runs automatically on the 25th (writes next month's lessons) and on the 1st
+# (finishes any levels the spending cap cut short). You can also run it by hand:
+# GitHub → Actions → "Monthly content" → Run workflow.
+#
+# Spending is capped at MONTHLY_BUDGET_USD per calendar month, all runs together.
+# The running total is kept in packs/spend.json.
+#
+# Needs one repository secret: ANTHROPIC_API_KEY
+# (GitHub → Settings → Secrets and variables → Actions → New repository secret).
+
+name: Monthly content
+
+on:
+  schedule:
+    - cron: "0 6 25 * *"
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+    inputs:
+      month:
+        description: "Month to generate (YYYY-MM). Leave empty: this month before the 15th, next month after."
+        required: false
+        default: ""
+      force:
+        description: "Rewrite levels that already exist (still within the monthly cap)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monthly-content
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r content-pipeline/requirements.txt
+
+      - name: Generate pack
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MONTHLY_BUDGET_USD: "5"
+          MONTH: ${{ inputs.month }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          ARGS=""
+          if [ -n "$MONTH" ]; then ARGS="$ARGS --month $MONTH"; fi
+          if [ "$FORCE" = "true" ]; then ARGS="$ARGS --force"; fi
+          cd content-pipeline && python generate_pack.py $ARGS
+
+      - name: Check packs
+        run: cd content-pipeline && python validate_pack.py ../packs/*/*.json
+
+      - name: Publish
+        if: always()
+        run: |
+          git config user.name "content-bot"
+          git config user.email "content-bot@users.noreply.github.com"
+          git add packs
+          if git diff --cached --quiet; then
+            echo "No new content to publish."
+          else
+            git commit -m "Monthly content pack"
+            git push
+          fi

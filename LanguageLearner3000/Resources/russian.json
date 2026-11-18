@@ -1,0 +1,436 @@
+{
+  "version": "2026.11-base",
+  "levels": {
+    "A1": {
+      "vocab": [
+        {"w": "привет", "m": "hi", "e": "Привет, как дела?", "et": "Hi, how are you?"},
+        {"w": "здравствуйте", "m": "hello (formal)", "e": "Здравствуйте, меня зовут Анна.", "et": "Hello, my name is Anna."},
+        {"w": "спасибо", "m": "thank you", "e": "Спасибо за чай!", "et": "Thanks for the tea!"},
+        {"w": "пожалуйста", "m": "please / you're welcome"},
+        {"w": "да", "m": "yes"},
+        {"w": "нет", "m": "no"},
+        {"w": "мама", "m": "mom", "f": ["маму", "мамой", "мамы", "маме"]},
+        {"w": "папа", "m": "dad", "f": ["папу", "папой", "папы", "папе"]},
+        {"w": "дом", "m": "house, home", "f": ["дома", "доме", "домой"], "e": "Мой дом большой.", "et": "My house is big."},
+        {"w": "вода", "m": "water", "f": ["воду", "воды"]},
+        {"w": "хлеб", "m": "bread", "f": ["хлеба"]},
+        {"w": "кошка", "m": "cat", "f": ["кошку", "кошки"], "e": "У меня есть кошка.", "et": "I have a cat."},
+        {"w": "собака", "m": "dog", "f": ["собаку", "собаки"]},
+        {"w": "книга", "m": "book", "f": ["книгу", "книги"]},
+        {"w": "друг", "m": "friend", "f": ["друга", "друзья", "другом"], "e": "Это мой друг Иван.", "et": "This is my friend Ivan."},
+        {"w": "город", "m": "city, town", "f": ["города", "городе"]},
+        {"w": "работа", "m": "work, job", "f": ["работу", "работе"]},
+        {"w": "утро", "m": "morning", "f": ["утром"], "e": "Утром я пью кофе.", "et": "In the morning I drink coffee."},
+        {"w": "вечер", "m": "evening", "f": ["вечером"]},
+        {"w": "большой", "m": "big", "f": ["большая", "большое", "большие", "большом"]},
+        {"w": "маленький", "m": "small, little", "f": ["маленькая", "маленькое", "маленькие"]},
+        {"w": "хороший", "m": "good", "f": ["хорошая", "хорошее", "хорошо"]},
+        {"w": "читать", "m": "to read", "f": ["читаю", "читает", "читаешь", "читаем"], "e": "Я читаю книгу.", "et": "I am reading a book."},
+        {"w": "жить", "m": "to live", "f": ["живу", "живёт", "живёшь", "живут"], "e": "Я живу в Москве.", "et": "I live in Moscow."},
+        {"w": "любить", "m": "to love, to like", "f": ["люблю", "любит", "любишь"]},
+        {"w": "есть", "m": "to eat; there is", "f": ["ем", "ест"]},
+        {"w": "пить", "m": "to drink", "f": ["пью", "пьёт", "пьём"]},
+        {"w": "кофе", "m": "coffee"},
+        {"w": "чай", "m": "tea", "f": ["чаю", "чая"]},
+        {"w": "сегодня", "m": "today", "e": "Сегодня хороший день.", "et": "Today is a good day."}
+      ],
+      "sentences": [
+        {"s": "Я живу в Москве.", "t": "I live in Moscow."},
+        {"s": "Это мой дом.", "t": "This is my house."},
+        {"s": "У меня есть кошка.", "t": "I have a cat."},
+        {"s": "Мама пьёт чай.", "t": "Mom is drinking tea."},
+        {"s": "Мой друг читает книгу.", "t": "My friend is reading a book."},
+        {"s": "Сегодня хороший день.", "t": "Today is a good day."},
+        {"s": "Я люблю кофе.", "t": "I love coffee."},
+        {"s": "Папа на работе.", "t": "Dad is at work."}
+      ],
+      "gaps": [
+        {"s": "Я ___ в Москве.", "a": "живу", "o": ["живёт", "живут"], "t": "I live in Moscow."},
+        {"s": "Она ___ книгу.", "a": "читает", "o": ["читаю", "читаешь"], "t": "She is reading a book."},
+        {"s": "Это ___ дом.", "a": "мой", "o": ["моя", "моё"], "t": "This is my house."},
+        {"s": "Это ___ кошка.", "a": "моя", "o": ["мой", "моё"], "t": "This is my cat."},
+        {"s": "Мы ___ чай.", "a": "пьём", "o": ["пьёт", "пью"], "t": "We drink tea."},
+        {"s": "Ты ___ кофе?", "a": "любишь", "o": ["люблю", "любит"], "t": "Do you like coffee?"},
+        {"s": "Я живу в большом ___.", "a": "доме", "o": ["дом", "дома"], "t": "I live in a big house."}
+      ],
+      "readings": [
+        {
+          "id": "ru-a1-1", "title": "Моя семья",
+          "text": "Меня зовут Анна. Я живу в Москве. У меня есть мама, папа и брат. Мама работает в школе. Папа работает в банке. Мой брат маленький. У нас есть кошка. Её зовут Мурка.",
+          "translation": "My name is Anna. I live in Moscow. I have a mom, a dad and a brother. Mom works at a school. Dad works at a bank. My brother is little. We have a cat. Her name is Murka.",
+          "glossary": {"меня": "me (меня зовут = my name is)", "зовут": "(they) call — меня зовут = my name is", "брат": "brother", "работает": "works", "школе": "school (at a)", "банке": "bank (at a)", "нас": "us (у нас есть = we have)", "её": "her", "и": "and", "в": "in, at", "у": "at, by (у меня есть = I have)", "есть": "there is / have"},
+          "questions": [
+            {"q": "Where does Anna live?", "o": ["In Kyiv", "In Moscow", "In Minsk"], "a": 1},
+            {"q": "Where does Mom work?", "o": ["At a bank", "At a school", "At a shop"], "a": 1},
+            {"q": "What is the cat's name?", "o": ["Murka", "Anna", "Masha"], "a": 0}
+          ]
+        },
+        {
+          "id": "ru-a1-2", "title": "Утро",
+          "text": "Сегодня суббота. Утром я пью кофе и ем хлеб с маслом. Потом я читаю книгу. Вечером я иду в парк с другом. Там мы гуляем и говорим.",
+          "translation": "Today is Saturday. In the morning I drink coffee and eat bread with butter. Then I read a book. In the evening I go to the park with a friend. There we walk and talk.",
+          "glossary": {"суббота": "Saturday", "маслом": "butter (with)", "потом": "then, afterwards", "иду": "(I) go, on foot", "парк": "park", "с": "with", "там": "there", "гуляем": "(we) walk, stroll", "говорим": "(we) talk", "мы": "we", "я": "I", "и": "and"},
+          "questions": [
+            {"q": "What does the narrator drink in the morning?", "o": ["Tea", "Coffee", "Water"], "a": 1},
+            {"q": "What do they do after breakfast?", "o": ["Read a book", "Go to work", "Sleep"], "a": 0},
+            {"q": "Where do they go in the evening?", "o": ["To the shop", "To the park", "To school"], "a": 1}
+          ]
+        },
+        {
+          "id": "ru-a1-3", "title": "В кафе",
+          "text": "Иван в кафе. Он хочет есть. Он говорит: «Здравствуйте! Чай и пирог, пожалуйста». Пирог стоит двести рублей. Чай очень горячий. Иван говорит: «Спасибо!»",
+          "translation": "Ivan is in a café. He is hungry. He says: 'Hello! Tea and a pie, please.' The pie costs two hundred roubles. The tea is very hot. Ivan says: 'Thank you!'",
+          "glossary": {"кафе": "café", "он": "he", "хочет": "wants (хочет есть = is hungry)", "говорит": "says", "пирог": "pie", "стоит": "costs", "двести": "two hundred", "рублей": "roubles", "очень": "very", "горячий": "hot"},
+          "questions": [
+            {"q": "What does Ivan order?", "o": ["Coffee and bread", "Tea and a pie", "Water"], "a": 1},
+            {"q": "How much does the pie cost?", "o": ["100 roubles", "200 roubles", "300 roubles"], "a": 1},
+            {"q": "What is the tea like?", "o": ["Very hot", "Cold", "Sweet"], "a": 0}
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "vocab": [
+        {"w": "погода", "m": "weather", "f": ["погоду", "погоды", "погоде"], "e": "Какая сегодня погода?", "et": "What's the weather like today?"},
+        {"w": "дождь", "m": "rain", "f": ["дождя"]},
+        {"w": "снег", "m": "snow", "f": ["снега"]},
+        {"w": "холодно", "m": "(it's) cold"},
+        {"w": "тепло", "m": "(it's) warm"},
+        {"w": "магазин", "m": "shop, store", "f": ["магазине", "магазина"]},
+        {"w": "покупать", "m": "to buy", "f": ["покупаю", "покупает", "купить", "купил", "купила"], "e": "Я покупаю хлеб.", "et": "I'm buying bread."},
+        {"w": "деньги", "m": "money", "f": ["денег"]},
+        {"w": "дорогой", "m": "expensive; dear", "f": ["дорогая", "дорогое", "дорогие", "дорого"]},
+        {"w": "дешёвый", "m": "cheap", "f": ["дешёвая", "дёшево"]},
+        {"w": "поезд", "m": "train", "f": ["поезде", "поездом"]},
+        {"w": "билет", "m": "ticket", "f": ["билеты", "билета"]},
+        {"w": "вокзал", "m": "railway station", "f": ["вокзале", "вокзала"]},
+        {"w": "ехать", "m": "to go (by transport)", "f": ["еду", "едет", "едем", "едут", "ехали"], "e": "Завтра мы едем в Казань.", "et": "Tomorrow we're going to Kazan."},
+        {"w": "путешествовать", "m": "to travel", "f": ["путешествую", "путешествуем"]},
+        {"w": "неделя", "m": "week", "f": ["неделю", "недели"]},
+        {"w": "вчера", "m": "yesterday"},
+        {"w": "завтра", "m": "tomorrow"},
+        {"w": "часто", "m": "often"},
+        {"w": "иногда", "m": "sometimes"},
+        {"w": "врач", "m": "doctor", "f": ["врача", "врачу"]},
+        {"w": "болеть", "m": "to be ill; to hurt", "f": ["болит", "болею", "болеет", "болела"], "e": "У меня болит голова.", "et": "I have a headache."},
+        {"w": "помнить", "m": "to remember", "f": ["помню", "помнит"]},
+        {"w": "думать", "m": "to think", "f": ["думаю", "думает"]},
+        {"w": "рано", "m": "early"},
+        {"w": "поздно", "m": "late"},
+        {"w": "лето", "m": "summer", "f": ["летом"]},
+        {"w": "зима", "m": "winter", "f": ["зимой"]},
+        {"w": "отпуск", "m": "vacation, leave", "f": ["отпуске"]},
+        {"w": "голова", "m": "head", "f": ["голову", "головы"]}
+      ],
+      "sentences": [
+        {"s": "Вчера шёл сильный дождь.", "t": "It rained heavily yesterday."},
+        {"s": "Завтра мы едем на море.", "t": "Tomorrow we're going to the sea."},
+        {"s": "Этот билет очень дорогой.", "t": "This ticket is very expensive."},
+        {"s": "Я часто покупаю хлеб здесь.", "t": "I often buy bread here."},
+        {"s": "Летом мы путешествуем по России.", "t": "In summer we travel around Russia."},
+        {"s": "У меня болит голова.", "t": "I have a headache."},
+        {"s": "Поезд приходит в восемь часов.", "t": "The train arrives at eight o'clock."},
+        {"s": "Зимой здесь очень холодно.", "t": "In winter it's very cold here."}
+      ],
+      "gaps": [
+        {"s": "Вчера я ___ в кино.", "a": "ходил", "o": ["иду", "хожу"], "t": "Yesterday I went to the cinema."},
+        {"s": "Мы едем на ___.", "a": "поезде", "o": ["поезд", "поезда"], "t": "We are travelling by train."},
+        {"s": "Она ___ новое платье.", "a": "купила", "o": ["купил", "купили"], "t": "She bought a new dress."},
+        {"s": "У меня нет ___.", "a": "денег", "o": ["деньги", "деньгах"], "t": "I have no money."},
+        {"s": "Я думаю о ___.", "a": "работе", "o": ["работа", "работу"], "t": "I'm thinking about work."},
+        {"s": "Завтра я ___ к врачу.", "a": "пойду", "o": ["пошёл", "ходил"], "t": "Tomorrow I'll go to the doctor."},
+        {"s": "Мы были в отпуске две ___.", "a": "недели", "o": ["неделя", "неделю"], "t": "We were on vacation for two weeks."},
+        {"s": "Летом мы живём на ___.", "a": "даче", "o": ["дача", "дачу"], "t": "In summer we live at the dacha."}
+      ],
+      "readings": [
+        {
+          "id": "ru-a2-1", "title": "Поездка в Петербург",
+          "text": "В прошлом месяце мы с сестрой ездили в Петербург. Мы ехали на поезде четыре часа. Город очень красивый, но погода была плохая: каждый день шёл дождь. Мы ходили в музеи и много гуляли по набережной. Билеты в Эрмитаж были дорогие, но мы не жалеем.",
+          "translation": "Last month my sister and I went to St Petersburg. We travelled by train for four hours. The city is very beautiful, but the weather was bad: it rained every day. We went to museums and walked a lot along the embankment. Tickets to the Hermitage were expensive, but we have no regrets.",
+          "glossary": {"прошлом": "last, past", "месяце": "month (in)", "сестрой": "sister (with)", "ездили": "went (by transport)", "ехали": "travelled", "четыре": "four", "часа": "hours", "красивый": "beautiful", "но": "but", "была": "was", "плохая": "bad", "каждый": "every", "день": "day", "шёл": "was falling (of rain)", "ходили": "went (on foot)", "музеи": "museums", "много": "a lot", "гуляли": "walked", "по": "along, around", "набережной": "embankment", "эрмитаж": "the Hermitage (museum)", "были": "were", "дорогие": "expensive", "жалеем": "(we) regret"},
+          "questions": [
+            {"q": "How did they travel?", "o": ["By plane", "By train", "By car"], "a": 1},
+            {"q": "What was the weather like?", "o": ["Sunny", "Snowy", "Rainy"], "a": 2},
+            {"q": "What did they think of the Hermitage tickets?", "o": ["Cheap", "Expensive but worth it", "Free"], "a": 1}
+          ]
+        },
+        {
+          "id": "ru-a2-2", "title": "У врача",
+          "text": "Вчера Олег заболел. У него болела голова и была высокая температура. Утром он позвонил врачу. Врач сказал: «Пейте много чая и отдыхайте три дня». Сегодня Олегу уже лучше.",
+          "translation": "Yesterday Oleg fell ill. He had a headache and a high temperature. In the morning he called the doctor. The doctor said: 'Drink lots of tea and rest for three days.' Today Oleg is already feeling better.",
+          "glossary": {"заболел": "fell ill", "него": "him (у него = he has)", "болела": "hurt, ached", "высокая": "high", "температура": "temperature", "позвонил": "called (on the phone)", "сказал": "said", "пейте": "drink! (polite)", "отдыхайте": "rest! (polite)", "три": "three", "дня": "days", "олегу": "(to) Oleg", "уже": "already", "лучше": "better"},
+          "questions": [
+            {"q": "What was wrong with Oleg?", "o": ["A broken leg", "A headache and fever", "A toothache"], "a": 1},
+            {"q": "What did the doctor advise?", "o": ["Drink tea and rest", "Go to work", "Take a trip"], "a": 0},
+            {"q": "How is Oleg today?", "o": ["Worse", "The same", "Better"], "a": 2}
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "vocab": [
+        {"w": "образование", "m": "education", "f": ["образования"]},
+        {"w": "университет", "m": "university", "f": ["университете"]},
+        {"w": "экзамен", "m": "exam", "f": ["экзамены", "экзамена"]},
+        {"w": "сдавать", "m": "to take (an exam)", "f": ["сдать", "сдал", "сдала"], "e": "Я сдал экзамен!", "et": "I passed the exam!"},
+        {"w": "опыт", "m": "experience", "f": ["опыта"]},
+        {"w": "зарплата", "m": "salary", "f": ["зарплату", "зарплаты"]},
+        {"w": "начальник", "m": "boss", "f": ["начальника", "начальником"]},
+        {"w": "коллега", "m": "colleague", "f": ["коллеги", "коллегами", "коллегой"]},
+        {"w": "мнение", "m": "opinion", "f": ["мнения", "мнением", "мнению"]},
+        {"w": "соглашаться", "m": "to agree", "f": ["согласен", "согласна", "согласиться", "согласилась"], "e": "Я с тобой согласен.", "et": "I agree with you."},
+        {"w": "решение", "m": "decision; solution", "f": ["решения"]},
+        {"w": "возможность", "m": "opportunity, possibility", "f": ["возможности"]},
+        {"w": "надеяться", "m": "to hope", "f": ["надеюсь", "надеется"]},
+        {"w": "бояться", "m": "to be afraid", "f": ["боюсь", "боится"]},
+        {"w": "привыкнуть", "m": "to get used to", "f": ["привык", "привыкла"]},
+        {"w": "удобный", "m": "convenient, comfortable", "f": ["удобно", "удобная"]},
+        {"w": "здоровье", "m": "health", "f": ["здоровья"]},
+        {"w": "развитие", "m": "development", "f": ["развития"]},
+        {"w": "новости", "m": "news", "f": ["новостей"]},
+        {"w": "общество", "m": "society", "f": ["общества", "обществе"]},
+        {"w": "поэтому", "m": "therefore, that's why"},
+        {"w": "хотя", "m": "although"},
+        {"w": "однако", "m": "however"},
+        {"w": "пока", "m": "while; for now; bye"}
+      ],
+      "sentences": [
+        {"s": "Я надеюсь сдать экзамен в июне.", "t": "I hope to pass the exam in June."},
+        {"s": "По-моему, это хорошее решение.", "t": "In my opinion, it's a good decision."},
+        {"s": "Хотя было поздно, мы продолжали работать.", "t": "Although it was late, we kept working."},
+        {"s": "Мой начальник всегда приходит вовремя.", "t": "My boss always arrives on time."},
+        {"s": "Я быстро привык к новому городу.", "t": "I quickly got used to the new city."},
+        {"s": "Здоровье важнее денег.", "t": "Health is more important than money."},
+        {"s": "Я не согласен с твоим мнением.", "t": "I don't agree with your opinion."},
+        {"s": "У меня мало опыта, поэтому я учусь.", "t": "I have little experience, so I'm learning."}
+      ],
+      "gaps": [
+        {"s": "Если бы у меня было время, я ___ поехал.", "a": "бы", "o": ["был", "буду"], "t": "If I had time, I would go."},
+        {"s": "Я боюсь ___.", "a": "собак", "o": ["собаки", "собакам"], "t": "I'm afraid of dogs."},
+        {"s": "Она согласилась с ___.", "a": "коллегой", "o": ["коллега", "коллегу"], "t": "She agreed with her colleague."},
+        {"s": "Мне нужно ___ решение до пятницы.", "a": "принять", "o": ["принял", "примет"], "t": "I need to make a decision by Friday."},
+        {"s": "Он работает здесь уже три ___.", "a": "года", "o": ["год", "годом"], "t": "He has been working here for three years."},
+        {"s": "Я привык ___ рано.", "a": "вставать", "o": ["встаю", "встал"], "t": "I'm used to getting up early."},
+        {"s": "Это город, в ___ я родился.", "a": "котором", "o": ["который", "которого"], "t": "This is the city where I was born."},
+        {"s": "Мы обсуждали новости ___ ужина.", "a": "после", "o": ["перед", "за"], "t": "We discussed the news after dinner."}
+      ],
+      "readings": [
+        {
+          "id": "ru-b1-1", "title": "Новая работа",
+          "text": "Месяц назад Марина начала работать в крупной IT-компании. Сначала ей было трудно: новые коллеги, новые задачи, длинные совещания. Однако начальник помогал ей и терпеливо объяснял, как всё устроено. Теперь Марина привыкла к ритму и даже предложила идею для нового проекта. Зарплата у неё выше, чем на старой работе, но главное для неё — возможность развиваться.",
+          "translation": "A month ago Marina started working at a large IT company. At first it was hard for her: new colleagues, new tasks, long meetings. However, her boss helped her and patiently explained how everything works. Now Marina has got used to the pace and even suggested an idea for a new project. Her salary is higher than at her old job, but the main thing for her is the opportunity to grow.",
+          "glossary": {"назад": "ago", "начала": "began", "крупной": "large", "сначала": "at first", "ей": "to her", "трудно": "difficult", "задачи": "tasks", "длинные": "long", "совещания": "meetings", "помогал": "helped", "терпеливо": "patiently", "объяснял": "explained", "устроено": "is arranged, works", "теперь": "now", "привыкла": "got used to", "ритму": "rhythm, pace", "даже": "even", "предложила": "suggested", "идею": "idea", "проекта": "project", "выше": "higher", "чем": "than", "старой": "old", "главное": "the main thing", "развиваться": "to develop, to grow"},
+          "questions": [
+            {"q": "How long has Marina worked there?", "o": ["A year", "A month", "A week"], "a": 1},
+            {"q": "Who helped her?", "o": ["Her boss", "Her sister", "Nobody"], "a": 0},
+            {"q": "What matters most to Marina?", "o": ["The salary", "The office", "The chance to grow"], "a": 2}
+          ]
+        },
+        {
+          "id": "ru-b1-2", "title": "Московское метро",
+          "text": "В Москве метро — самый удобный вид транспорта. Поезда ходят каждые две минуты, а станции украшены мозаикой и скульптурами. Многие туристы спускаются в метро не только чтобы ехать, но и чтобы посмотреть на архитектуру. Правда, в час пик там бывает очень тесно, поэтому москвичи стараются выезжать пораньше.",
+          "translation": "In Moscow the metro is the most convenient form of transport. Trains run every two minutes, and the stations are decorated with mosaics and sculptures. Many tourists go down into the metro not only to travel but also to look at the architecture. True, at rush hour it can be very crowded, so Muscovites try to set off earlier.",
+          "glossary": {"самый": "the most", "вид": "type, form", "транспорта": "transport", "поезда": "trains", "ходят": "run, go", "каждые": "every", "минуты": "minutes", "станции": "stations", "украшены": "are decorated", "мозаикой": "mosaic", "скульптурами": "sculptures", "многие": "many", "туристы": "tourists", "спускаются": "go down", "только": "only", "чтобы": "in order to", "посмотреть": "to look", "архитектуру": "architecture", "правда": "true; truth", "час": "hour", "пик": "peak (час пик = rush hour)", "бывает": "can be, happens", "тесно": "crowded", "москвичи": "Muscovites", "стараются": "try", "выезжать": "to set off", "пораньше": "a bit earlier"},
+          "questions": [
+            {"q": "How often do trains run?", "o": ["Every 2 minutes", "Every 10 minutes", "Every hour"], "a": 0},
+            {"q": "Why do tourists visit the metro?", "o": ["It's free", "To see the architecture", "To shop"], "a": 1},
+            {"q": "What do Muscovites do to avoid crowds?", "o": ["Take taxis", "Leave earlier", "Stay home"], "a": 1}
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "vocab": [
+        {"w": "среда", "m": "environment; Wednesday", "f": ["среды", "среде"]},
+        {"w": "влияние", "m": "influence", "f": ["влияния", "влиять", "влияет"]},
+        {"w": "последствие", "m": "consequence", "f": ["последствия", "последствий"]},
+        {"w": "причина", "m": "cause, reason", "f": ["причины", "причину"]},
+        {"w": "уровень", "m": "level", "f": ["уровня"]},
+        {"w": "загрязнение", "m": "pollution", "f": ["загрязнения"]},
+        {"w": "исследование", "m": "research, study", "f": ["исследования"]},
+        {"w": "утверждать", "m": "to claim, assert", "f": ["утверждает", "утверждают"], "e": "Учёные утверждают, что климат меняется.", "et": "Scientists claim the climate is changing."},
+        {"w": "сомневаться", "m": "to doubt", "f": ["сомневаюсь", "сомневается"]},
+        {"w": "предлагать", "m": "to suggest, offer", "f": ["предлагает", "предложить", "предложил"]},
+        {"w": "требовать", "m": "to demand, require", "f": ["требует", "требуют"]},
+        {"w": "существовать", "m": "to exist", "f": ["существует"]},
+        {"w": "значительный", "m": "significant", "f": ["значительно", "значительная"]},
+        {"w": "очевидный", "m": "obvious", "f": ["очевидно"]},
+        {"w": "ответственность", "m": "responsibility", "f": ["ответственности"]},
+        {"w": "равенство", "m": "equality"},
+        {"w": "выбор", "m": "choice", "f": ["выбора"]},
+        {"w": "преимущество", "m": "advantage", "f": ["преимущества"]},
+        {"w": "недостаток", "m": "drawback, shortcoming", "f": ["недостатки"]},
+        {"w": "вместо", "m": "instead of"},
+        {"w": "благодаря", "m": "thanks to"},
+        {"w": "несмотря", "m": "despite (несмотря на)"},
+        {"w": "следовательно", "m": "consequently"}
+      ],
+      "sentences": [
+        {"s": "Несмотря на дождь, концерт состоялся.", "t": "Despite the rain, the concert took place."},
+        {"s": "Учёные утверждают, что климат меняется.", "t": "Scientists claim that the climate is changing."},
+        {"s": "Благодаря твоей помощи мы успели.", "t": "Thanks to your help, we made it in time."},
+        {"s": "У этого решения есть свои недостатки.", "t": "This decision has its drawbacks."},
+        {"s": "Я сомневаюсь, что он скажет правду.", "t": "I doubt that he will tell the truth."},
+        {"s": "Загрязнение воздуха влияет на здоровье.", "t": "Air pollution affects health."},
+        {"s": "Каждый несёт ответственность за свой выбор.", "t": "Everyone is responsible for their own choice."},
+        {"s": "Вместо машины я выбрал велосипед.", "t": "Instead of a car I chose a bicycle."}
+      ],
+      "gaps": [
+        {"s": "Несмотря ___ трудности, мы закончили проект.", "a": "на", "o": ["в", "о"], "t": "Despite the difficulties, we finished the project."},
+        {"s": "Если бы ты ___ раньше, мы бы успели.", "a": "пришёл", "o": ["придёшь", "приходишь"], "t": "If you had come earlier, we would have made it."},
+        {"s": "Это зависит ___ обстоятельств.", "a": "от", "o": ["из", "с"], "t": "That depends on the circumstances."},
+        {"s": "Мы обсудили проблему, ___ так и не нашли решения.", "a": "но", "o": ["поэтому", "потому что"], "t": "We discussed the problem but never found a solution."},
+        {"s": "Чем больше читаешь, ___ лучше понимаешь.", "a": "тем", "o": ["том", "чем"], "t": "The more you read, the better you understand."},
+        {"s": "Ему пришлось отказаться ___ поездки.", "a": "от", "o": ["из", "для"], "t": "He had to give up the trip."},
+        {"s": "Учёные провели ___ исследование.", "a": "масштабное", "o": ["масштабная", "масштабный"], "t": "The scientists conducted a large-scale study."}
+      ],
+      "readings": [
+        {
+          "id": "ru-b2-1", "title": "Удалённая работа",
+          "text": "После пандемии многие компании перешли на удалённый или гибридный формат работы. Сторонники такого подхода утверждают, что он экономит время на дорогу и позволяет лучше сочетать работу с личной жизнью. Однако критики указывают на обратную сторону: сотрудники чаще чувствуют себя одинокими, а границы между работой и отдыхом постепенно стираются. По данным недавнего исследования, наиболее продуктивными оказываются те, кто работает из дома два-три дня в неделю.",
+          "translation": "After the pandemic many companies switched to a remote or hybrid way of working. Supporters of this approach claim it saves commuting time and makes it easier to combine work with personal life. However, critics point to the downside: employees more often feel lonely, and the boundaries between work and rest gradually blur. According to a recent study, the most productive turn out to be those who work from home two or three days a week.",
+          "glossary": {"пандемии": "pandemic", "перешли": "switched", "удалённый": "remote", "гибридный": "hybrid", "формат": "format", "сторонники": "supporters", "подхода": "approach", "экономит": "saves", "дорогу": "commute (road)", "позволяет": "allows", "сочетать": "to combine", "личной": "personal", "жизнью": "life", "критики": "critics", "указывают": "point out", "обратную": "reverse", "сторону": "side", "сотрудники": "employees", "чаще": "more often", "чувствуют": "feel", "одинокими": "lonely", "границы": "boundaries", "отдыхом": "rest", "постепенно": "gradually", "стираются": "blur, get erased", "данным": "data (по данным = according to)", "недавнего": "recent", "наиболее": "most", "продуктивными": "productive", "оказываются": "turn out", "два-три": "two or three"},
+          "questions": [
+            {"q": "What do supporters say remote work saves?", "o": ["Money on lunch", "Commuting time", "Electricity"], "a": 1},
+            {"q": "What problem do critics mention?", "o": ["Loneliness and blurred boundaries", "Slow internet", "Higher taxes"], "a": 0},
+            {"q": "Who is most productive according to the study?", "o": ["Fully remote workers", "Fully office-based workers", "People working 2–3 days at home"], "a": 2}
+          ]
+        },
+        {
+          "id": "ru-b2-2", "title": "Байкал",
+          "text": "Байкал — самое глубокое озеро на планете и крупнейший резервуар пресной воды. Его возраст оценивается примерно в двадцать пять миллионов лет. В озере обитают сотни видов, которые не встречаются больше нигде, например байкальская нерпа. Однако экологи бьют тревогу: туризм и сточные воды угрожают уникальной экосистеме, поэтому защита Байкала требует совместных усилий.",
+          "translation": "Baikal is the deepest lake on the planet and the largest reservoir of fresh water. Its age is estimated at about twenty-five million years. Hundreds of species live in the lake that are found nowhere else, for example the Baikal seal. However, ecologists are sounding the alarm: tourism and wastewater threaten the unique ecosystem, so protecting Baikal requires joint efforts.",
+          "glossary": {"глубокое": "deep", "озеро": "lake", "планете": "planet", "крупнейший": "largest", "резервуар": "reservoir", "пресной": "fresh (water)", "возраст": "age", "оценивается": "is estimated", "примерно": "approximately", "двадцать": "twenty", "пять": "five", "миллионов": "million", "лет": "years", "обитают": "live, inhabit", "сотни": "hundreds", "видов": "species", "встречаются": "are found", "нигде": "nowhere", "например": "for example", "байкальская": "Baikal (adj.)", "нерпа": "freshwater seal", "экологи": "ecologists", "бьют": "beat (бить тревогу = sound the alarm)", "тревогу": "alarm", "туризм": "tourism", "сточные": "waste (сточные воды = wastewater)", "угрожают": "threaten", "уникальной": "unique", "экосистеме": "ecosystem", "защита": "protection", "совместных": "joint", "усилий": "efforts"},
+          "questions": [
+            {"q": "What is special about Baikal?", "o": ["It's the deepest lake", "It's the saltiest lake", "It's the newest lake"], "a": 0},
+            {"q": "How old is it?", "o": ["About 25,000 years", "About 25 million years", "About 2.5 billion years"], "a": 1},
+            {"q": "What threatens it?", "o": ["Volcanoes", "Tourism and wastewater", "Ice"], "a": 1}
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "vocab": [
+        {"w": "неизбежный", "m": "inevitable", "f": ["неизбежно", "неизбежность", "неизбежности"]},
+        {"w": "противоречие", "m": "contradiction", "f": ["противоречия"]},
+        {"w": "предпосылка", "m": "prerequisite, premise", "f": ["предпосылки"]},
+        {"w": "устойчивый", "m": "sustainable, stable", "f": ["устойчивое", "устойчивость"]},
+        {"w": "пренебрегать", "m": "to neglect, disregard", "f": ["пренебрегает", "пренебрегают"]},
+        {"w": "подчёркивать", "m": "to emphasize", "f": ["подчёркивает", "подчеркнуть"]},
+        {"w": "уязвимый", "m": "vulnerable", "f": ["уязвимость", "уязвимы"]},
+        {"w": "признавать", "m": "to acknowledge, admit", "f": ["признаёт", "признать", "признал"]},
+        {"w": "целесообразный", "m": "advisable, expedient", "f": ["целесообразно"]},
+        {"w": "тенденция", "m": "trend, tendency", "f": ["тенденции"]},
+        {"w": "побуждать", "m": "to prompt, motivate", "f": ["побуждает"]},
+        {"w": "вследствие", "m": "as a result of"},
+        {"w": "осмысление", "m": "comprehension, making sense of"},
+        {"w": "заблуждение", "m": "misconception, delusion", "f": ["заблуждения"]},
+        {"w": "сдержанный", "m": "reserved, restrained", "f": ["сдержанно", "сдержанной", "сдержанность"]},
+        {"w": "подразумевать", "m": "to imply", "f": ["подразумевает"]},
+        {"w": "насущный", "m": "pressing, vital", "f": ["насущные", "насущным"]},
+        {"w": "неоднозначный", "m": "ambiguous, mixed", "f": ["неоднозначно", "неоднозначной"]},
+        {"w": "опровергать", "m": "to refute", "f": ["опровергает", "опровергают", "опровергнуть"]},
+        {"w": "вопреки", "m": "contrary to, in spite of"}
+      ],
+      "sentences": [
+        {"s": "Вопреки ожиданиям, реформа оказалась успешной.", "t": "Contrary to expectations, the reform turned out successful."},
+        {"s": "Автор подчёркивает неизбежность перемен.", "t": "The author emphasizes the inevitability of change."},
+        {"s": "Это распространённое заблуждение.", "t": "That is a common misconception."},
+        {"s": "Его реакция была довольно сдержанной.", "t": "His reaction was rather restrained."},
+        {"s": "Нельзя пренебрегать мнением специалистов.", "t": "One must not neglect the opinion of specialists."},
+        {"s": "Новые данные опровергают прежнюю теорию.", "t": "New data refute the previous theory."},
+        {"s": "Что именно подразумевает этот термин?", "t": "What exactly does this term imply?"},
+        {"s": "Вследствие засухи урожай сократился вдвое.", "t": "As a result of the drought, the harvest halved."}
+      ],
+      "gaps": [
+        {"s": "___ засухи урожай резко сократился.", "a": "Вследствие", "o": ["Благодаря", "Вопреки"], "t": "As a result of the drought, the harvest fell sharply."},
+        {"s": "Он так и не признал ___ ошибку.", "a": "свою", "o": ["своей", "своя"], "t": "He never admitted his mistake."},
+        {"s": "Нам следует уделить больше внимания ___ вопросам.", "a": "насущным", "o": ["насущные", "насущных"], "t": "We should pay more attention to pressing issues."},
+        {"s": "Будь он внимательнее, ошибки ___ не произошло.", "a": "бы", "o": ["ли", "же"], "t": "Had he been more attentive, the error would not have happened."},
+        {"s": "Ситуация ___ неоднозначной.", "a": "остаётся", "o": ["оставаться", "остаются"], "t": "The situation remains ambiguous."},
+        {"s": "Ни один эксперт ___ смог дать точный прогноз.", "a": "не", "o": ["ни", "бы"], "t": "Not a single expert could give a precise forecast."},
+        {"s": "Эта тенденция ___ к росту цен.", "a": "приводит", "o": ["приводят", "привести"], "t": "This trend leads to rising prices."}
+      ],
+      "readings": [
+        {
+          "id": "ru-c1-1", "title": "Цифровая память",
+          "text": "Мы привыкли доверять смартфонам хранение номеров, дат и маршрутов. Некоторые исследователи называют это явление «цифровой амнезией»: зная, что информация всегда под рукой, мозг попросту не утруждает себя её запоминанием. Впрочем, ряд психологов подчёркивает, что речь идёт не о деградации, а о перераспределении ресурсов: освобождая память от рутины, человек якобы может сосредоточиться на анализе и творчестве. Насколько обоснован этот оптимизм, покажут лишь долгосрочные наблюдения.",
+          "translation": "We have grown used to trusting our smartphones to store numbers, dates and routes. Some researchers call this phenomenon 'digital amnesia': knowing that the information is always at hand, the brain simply doesn't bother memorising it. However, a number of psychologists stress that this is not degradation but a redistribution of resources: by freeing memory from routine, a person can supposedly focus on analysis and creativity. How justified this optimism is, only long-term observation will show.",
+          "glossary": {"привыкли": "have got used to", "доверять": "to entrust, to trust", "смартфонам": "smartphones", "хранение": "storage", "номеров": "numbers", "дат": "dates", "маршрутов": "routes", "исследователи": "researchers", "называют": "call", "явление": "phenomenon", "цифровой": "digital", "амнезией": "amnesia", "зная": "knowing", "под": "under", "рукой": "hand (под рукой = at hand)", "мозг": "brain", "попросту": "simply", "утруждает": "troubles (не утруждает себя = doesn't bother)", "запоминанием": "memorising", "впрочем": "that said, however", "ряд": "a number of", "психологов": "psychologists", "речь": "speech (речь идёт о = it's about)", "идёт": "goes", "деградации": "degradation", "перераспределении": "redistribution", "ресурсов": "resources", "освобождая": "freeing", "рутины": "routine", "якобы": "supposedly", "сосредоточиться": "to concentrate", "анализе": "analysis", "творчестве": "creativity", "насколько": "to what extent", "обоснован": "justified", "оптимизм": "optimism", "покажут": "will show", "лишь": "only", "долгосрочные": "long-term", "наблюдения": "observations"},
+          "questions": [
+            {"q": "What is 'digital amnesia'?", "o": ["Losing your phone", "Not memorising info because devices store it", "A computer virus"], "a": 1},
+            {"q": "What do some psychologists argue?", "o": ["It's a redistribution of mental resources", "Smartphones should be banned", "Memory improves with phones"], "a": 0},
+            {"q": "What is the author's conclusion?", "o": ["The optimism is fully proven", "Only long-term observation will tell", "The brain is degrading"], "a": 1}
+          ]
+        },
+        {
+          "id": "ru-c1-2", "title": "Чехов и краткость",
+          "text": "«Краткость — сестра таланта», — писал Антон Чехов, и сам следовал этому правилу. Его рассказы лишены пространных описаний и прямых нравоучений; автор доверяет читателю, предоставляя ему самостоятельно делать выводы. Именно эта сдержанность, по мнению многих критиков, сделала Чехова одним из самых влиятельных писателей двадцатого века.",
+          "translation": "'Brevity is the sister of talent,' wrote Anton Chekhov, and he followed this rule himself. His stories lack lengthy descriptions and direct moralising; the author trusts the reader, leaving them to draw conclusions on their own. It is precisely this restraint, in the view of many critics, that made Chekhov one of the most influential writers of the twentieth century.",
+          "glossary": {"краткость": "brevity", "сестра": "sister", "таланта": "talent", "писал": "wrote", "сам": "himself", "следовал": "followed", "правилу": "rule", "рассказы": "short stories", "лишены": "lack, are deprived of", "пространных": "lengthy", "описаний": "descriptions", "прямых": "direct", "нравоучений": "moralising", "доверяет": "trusts", "читателю": "the reader", "предоставляя": "leaving it to", "самостоятельно": "independently", "делать": "to make, to draw", "выводы": "conclusions", "именно": "precisely", "сдержанность": "restraint", "мнению": "opinion (по мнению = in the view of)", "многих": "many", "критиков": "critics", "сделала": "made", "влиятельных": "influential", "писателей": "writers", "двадцатого": "twentieth", "века": "century"},
+          "questions": [
+            {"q": "What did Chekhov say brevity is?", "o": ["The enemy of art", "The sister of talent", "A modern invention"], "a": 1},
+            {"q": "How does Chekhov treat the reader?", "o": ["Gives direct moral lessons", "Lets them draw their own conclusions", "Explains everything in detail"], "a": 1},
+            {"q": "Why is he considered influential?", "o": ["His long novels", "His restraint and brevity", "His poetry"], "a": 1}
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "vocab": [
+        {"w": "витиеватый", "m": "ornate, convoluted", "f": ["витиеват", "витиевато"]},
+        {"w": "злободневный", "m": "topical, burning (issue)", "f": ["злободневная"]},
+        {"w": "исподволь", "m": "gradually, imperceptibly"},
+        {"w": "кропотливый", "m": "painstaking", "f": ["кропотливая", "кропотливой", "кропотливо"]},
+        {"w": "незыблемый", "m": "unshakable", "f": ["незыблемые"]},
+        {"w": "подспудный", "m": "latent, hidden", "f": ["подспудно"]},
+        {"w": "тщетный", "m": "futile", "f": ["тщетно", "тщетны", "тщетными"]},
+        {"w": "упование", "m": "hope, trust (lofty)", "f": ["упования"]},
+        {"w": "пресловутый", "m": "notorious, much-vaunted", "f": ["пресловутая", "пресловутое"]},
+        {"w": "снисходительный", "m": "condescending; lenient", "f": ["снисходительно"]},
+        {"w": "всеобъемлющий", "m": "all-encompassing"},
+        {"w": "беспрецедентный", "m": "unprecedented"},
+        {"w": "сетовать", "m": "to lament, complain", "f": ["сетует", "сетуют"]},
+        {"w": "преисполненный", "m": "filled (with)", "f": ["преисполнен"]},
+        {"w": "зиждиться", "m": "to rest on, be based on", "f": ["зиждется"]},
+        {"w": "обыватель", "m": "philistine, ordinary person", "f": ["обывателя", "обыватели"]},
+        {"w": "лицемерие", "m": "hypocrisy"},
+        {"w": "чаяние", "m": "aspiration", "f": ["чаяния"]},
+        {"w": "фиаско", "m": "fiasco"},
+        {"w": "кулуарный", "m": "behind-the-scenes", "f": ["кулуарно", "кулуарном"]}
+      ],
+      "sentences": [
+        {"s": "Его попытки оправдаться были тщетны.", "t": "His attempts to justify himself were futile."},
+        {"s": "Пресловутая стабильность оказалась иллюзией.", "t": "The much-vaunted stability turned out to be an illusion."},
+        {"s": "Перемены назревали исподволь.", "t": "The changes were ripening imperceptibly."},
+        {"s": "Критики сетуют на лицемерие элит.", "t": "Critics lament the hypocrisy of the elites."},
+        {"s": "Его стиль слишком витиеват для широкой публики.", "t": "His style is too ornate for the general public."},
+        {"s": "Реставрация потребовала кропотливой работы.", "t": "The restoration required painstaking work."},
+        {"s": "Вся система зиждется на доверии.", "t": "The whole system rests on trust."},
+        {"s": "Переговоры потерпели полное фиаско.", "t": "The negotiations ended in complete fiasco."}
+      ],
+      "gaps": [
+        {"s": "Все его усилия оказались ___.", "a": "тщетными", "o": ["тщетные", "тщетным"], "t": "All his efforts proved futile."},
+        {"s": "Договорённость была достигнута в ___ порядке.", "a": "кулуарном", "o": ["кулуарный", "кулуарная"], "t": "The agreement was reached behind closed doors."},
+        {"s": "Он смотрел на нас ___, словно на детей.", "a": "снисходительно", "o": ["снисходительный", "снисхождение"], "t": "He looked at us condescendingly, as if at children."},
+        {"s": "Это решение ___ на зыбком фундаменте.", "a": "зиждется", "o": ["зиждутся", "зиждиться"], "t": "This decision rests on a shaky foundation."},
+        {"s": "Народ возлагал на реформу большие ___.", "a": "упования", "o": ["упованиями", "упование"], "t": "The people pinned great hopes on the reform."},
+        {"s": "Сколько ___ ни уговаривал, она не согласилась.", "a": "он", "o": ["его", "ему"], "t": "No matter how much he tried to persuade her, she didn't agree."},
+        {"s": "Проблема стоит как никогда ___.", "a": "остро", "o": ["острый", "острая"], "t": "The problem is more acute than ever."}
+      ],
+      "readings": [
+        {
+          "id": "ru-c2-1", "title": "О пользе скуки",
+          "text": "В эпоху, когда каждая свободная минута заполняется лентой новостей, скука превратилась едва ли не в роскошь. Между тем философы издавна усматривали в ней не порок, а питательную среду для мысли: именно в праздности, когда сознание лишено внешних раздражителей, исподволь вызревают самые неожиданные идеи. Парадокс в том, что, тщетно пытаясь избежать скуки, мы, возможно, лишаем себя того самого состояния, из которого рождается творчество.",
+          "translation": "In an age when every free minute is filled with a news feed, boredom has become almost a luxury. Meanwhile, philosophers have long seen it not as a vice but as fertile ground for thought: it is precisely in idleness, when the mind is deprived of external stimuli, that the most unexpected ideas quietly ripen. The paradox is that, by futilely trying to avoid boredom, we may be depriving ourselves of the very state from which creativity is born.",
+          "glossary": {"эпоху": "era, age", "свободная": "free", "заполняется": "is filled", "лентой": "feed", "скука": "boredom", "скуки": "boredom", "превратилась": "turned into", "едва": "hardly (едва ли не = almost)", "роскошь": "luxury", "между": "between (между тем = meanwhile)", "издавна": "since long ago", "усматривали": "saw, discerned", "порок": "vice", "питательную": "nourishing", "среду": "medium, environment", "мысли": "thought", "праздности": "idleness", "сознание": "consciousness", "лишено": "deprived", "внешних": "external", "раздражителей": "stimuli", "вызревают": "ripen", "неожиданные": "unexpected", "парадокс": "paradox", "пытаясь": "trying", "избежать": "to avoid", "лишаем": "(we) deprive", "состояния": "state", "рождается": "is born", "творчество": "creativity"},
+          "questions": [
+            {"q": "How does the author describe boredom today?", "o": ["As almost a luxury", "As a disease", "As a waste of time"], "a": 0},
+            {"q": "What did philosophers see in boredom?", "o": ["A vice", "Fertile ground for thought", "A sign of laziness"], "a": 1},
+            {"q": "What is the paradox?", "o": ["Boredom makes us busier", "Avoiding boredom may cost us creativity", "Philosophers were always bored"], "a": 1}
+          ]
+        }
+      ]
+    }
+  }
+}
