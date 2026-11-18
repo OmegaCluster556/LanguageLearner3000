@@ -208,6 +208,17 @@ Material to review:
 {json.dumps(draft, ensure_ascii=False, indent=1)}"""
 
 
+def month_arg(value: str) -> str:
+    """Accepts 2026-11, 2026 11, 2026/11, 2026.11 or 11/2026; returns 2026-11."""
+    import re
+    parts = re.findall(r"\d+", value or "")
+    if len(parts) == 2:
+        year, month = (parts if len(parts[0]) == 4 else parts[::-1])
+        if len(year) == 4 and 1 <= int(month) <= 12:
+            return f"{int(year):04d}-{int(month):02d}"
+    raise argparse.ArgumentTypeError(f"'{value}' is not a month. Type it like 2026-11 (year-month).")
+
+
 class CallFailed(RuntimeError):
     pass
 
@@ -267,7 +278,7 @@ def load_pack(path: Path, month: str) -> dict:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--month", default=default_month(), help="YYYY-MM")
+    parser.add_argument("--month", type=month_arg, default=default_month(), help="YYYY-MM, e.g. 2026-11")
     parser.add_argument("--languages", default="ru,uk", help="comma-separated: ru,uk")
     parser.add_argument("--levels", default=",".join(LEVELS), help="comma-separated, e.g. A1,A2")
     parser.add_argument("--budget", type=float, default=float(os.environ.get("MONTHLY_BUDGET_USD", "5")),

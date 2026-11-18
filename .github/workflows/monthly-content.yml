@@ -55,10 +55,10 @@ jobs:
           MONTH: ${{ inputs.month }}
           FORCE: ${{ inputs.force }}
         run: |
-          ARGS=""
-          if [ -n "$MONTH" ]; then ARGS="$ARGS --month $MONTH"; fi
-          if [ "$FORCE" = "true" ]; then ARGS="$ARGS --force"; fi
-          cd content-pipeline && python generate_pack.py $ARGS
+          ARGS=()
+          if [ -n "$MONTH" ]; then ARGS+=(--month "$MONTH"); fi
+          if [ "$FORCE" = "true" ]; then ARGS+=(--force); fi
+          cd content-pipeline && python generate_pack.py "${ARGS[@]}"
 
       - name: Check packs
         run: cd content-pipeline && python validate_pack.py ../packs/*/*.json
