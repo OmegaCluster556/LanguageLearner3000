@@ -1,0 +1,2966 @@
+{
+ "version": "2026-11",
+ "theme": "technology and the internet",
+ "levels": {
+  "A1": {
+   "vocab": [
+    {
+     "w": "комп'ютер",
+     "m": "computer",
+     "f": [
+      "комп'ютером"
+     ],
+     "e": "Мій комп'ютер дуже старий.",
+     "et": "My computer is very old."
+    },
+    {
+     "w": "телефон",
+     "m": "phone",
+     "e": "Де мій телефон?",
+     "et": "Where is my phone?"
+    },
+    {
+     "w": "інтернет",
+     "m": "internet",
+     "f": [
+      "інтернеті",
+      "інтернету"
+     ],
+     "e": "Інтернет тут швидкий.",
+     "et": "The internet here is fast."
+    },
+    {
+     "w": "сайт",
+     "m": "website",
+     "e": "Це дуже цікавий сайт.",
+     "et": "This is a very interesting website."
+    },
+    {
+     "w": "пошта",
+     "m": "mail, email",
+     "e": "Я читаю пошту на телефоні.",
+     "et": "I read my email on my phone."
+    },
+    {
+     "w": "лист",
+     "m": "letter, email",
+     "f": [
+      "листи"
+     ],
+     "e": "Я пишу лист сестрі.",
+     "et": "I am writing a letter to my sister."
+    },
+    {
+     "w": "пароль",
+     "m": "password",
+     "e": "Це мій новий пароль.",
+     "et": "This is my new password."
+    },
+    {
+     "w": "екран",
+     "m": "screen",
+     "f": [
+      "екрані"
+     ],
+     "e": "Екран ноутбука темний.",
+     "et": "The laptop screen is dark."
+    },
+    {
+     "w": "клавіатура",
+     "m": "keyboard",
+     "e": "У мене нова клавіатура.",
+     "et": "I have a new keyboard."
+    },
+    {
+     "w": "мишка",
+     "m": "computer mouse",
+     "e": "Мишка лежить на столі.",
+     "et": "The mouse is on the table."
+    },
+    {
+     "w": "ноутбук",
+     "m": "laptop",
+     "f": [
+      "ноутбуком"
+     ],
+     "e": "Ноутбук лежить у сумці.",
+     "et": "The laptop is in the bag."
+    },
+    {
+     "w": "програма",
+     "m": "program, app",
+     "e": "Це нова програма для фото.",
+     "et": "This is a new app for photos."
+    },
+    {
+     "w": "фото",
+     "m": "photo",
+     "e": "Я роблю фото.",
+     "et": "I am taking a photo."
+    },
+    {
+     "w": "відео",
+     "m": "video",
+     "e": "Це дуже смішне відео.",
+     "et": "This is a very funny video."
+    },
+    {
+     "w": "повідомлення",
+     "m": "message",
+     "e": "У мене нове повідомлення.",
+     "et": "I have a new message."
+    },
+    {
+     "w": "писати",
+     "m": "to write",
+     "f": [
+      "пише",
+      "пишу"
+     ],
+     "e": "Ми пишемо листи.",
+     "et": "We write letters."
+    },
+    {
+     "w": "дивитися",
+     "m": "to watch, to look",
+     "f": [
+      "дивимося",
+      "дивлюся",
+      "дивиться"
+     ],
+     "e": "Я дивлюся фільм.",
+     "et": "I am watching a film."
+    },
+    {
+     "w": "шукати",
+     "m": "to search, to look for",
+     "f": [
+      "шукаю"
+     ],
+     "e": "Я шукаю інформацію.",
+     "et": "I am looking for information."
+    },
+    {
+     "w": "працювати",
+     "m": "to work",
+     "f": [
+      "працює",
+      "працюю",
+      "працюємо",
+      "працюють"
+     ],
+     "e": "Вона працює в офісі.",
+     "et": "She works in an office."
+    },
+    {
+     "w": "новий",
+     "m": "new",
+     "e": "Це новий сайт.",
+     "et": "This is a new website."
+    },
+    {
+     "w": "швидкий",
+     "m": "fast",
+     "e": "У нас швидкий інтернет.",
+     "et": "We have fast internet."
+    },
+    {
+     "w": "повільний",
+     "m": "slow",
+     "e": "Мій комп'ютер повільний.",
+     "et": "My computer is slow."
+    },
+    {
+     "w": "завжди",
+     "m": "always",
+     "e": "Вона завжди відповідає швидко.",
+     "et": "She always answers quickly."
+    },
+    {
+     "w": "часто",
+     "m": "often",
+     "e": "Ми часто дивимося відео.",
+     "et": "We often watch videos."
+    },
+    {
+     "w": "сестра",
+     "m": "sister",
+     "f": [
+      "сестрі"
+     ],
+     "e": "Моя сестра студентка.",
+     "et": "My sister is a student."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "У мене новий телефон.",
+     "t": "I have a new phone."
+    },
+    {
+     "s": "Мій брат працює за комп'ютером.",
+     "t": "My brother works at the computer."
+    },
+    {
+     "s": "Моя сестра пише повідомлення.",
+     "t": "My sister is writing a message."
+    },
+    {
+     "s": "Удома інтернет дуже повільний.",
+     "t": "The internet at home is very slow."
+    },
+    {
+     "s": "Я шукаю цей сайт.",
+     "t": "I am looking for this website."
+    },
+    {
+     "s": "Ми дивимося відео разом.",
+     "t": "We are watching a video together."
+    },
+    {
+     "s": "Я не пам'ятаю пароль.",
+     "t": "I don't remember the password."
+    },
+    {
+     "s": "Мій ноутбук дуже швидкий.",
+     "t": "My laptop is very fast."
+    },
+    {
+     "s": "Вона часто пише листи.",
+     "t": "She often writes emails."
+    },
+    {
+     "s": "Ми завжди працюємо в інтернеті.",
+     "t": "We always work online."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Мій брат працює за ___.",
+     "a": "комп'ютером",
+     "o": [
+      "комп'ютер",
+      "комп'ютера",
+      "комп'ютеру"
+     ],
+     "t": "My brother works at the computer."
+    },
+    {
+     "s": "У мене немає ___.",
+     "a": "інтернету",
+     "o": [
+      "інтернет",
+      "інтернетом"
+     ],
+     "t": "I don't have internet."
+    },
+    {
+     "s": "Сестра ___ повідомлення.",
+     "a": "пише",
+     "o": [
+      "пишу",
+      "пишеш"
+     ],
+     "t": "My sister is writing a message."
+    },
+    {
+     "s": "Ми ___ фільм разом.",
+     "a": "дивимося",
+     "o": [
+      "дивиться",
+      "дивлюся"
+     ],
+     "t": "We are watching a film together."
+    },
+    {
+     "s": "Це мій ___ телефон.",
+     "a": "новий",
+     "o": [
+      "нова",
+      "нове"
+     ],
+     "t": "This is my new phone."
+    },
+    {
+     "s": "Я читаю новини ___ інтернеті.",
+     "a": "в",
+     "o": [
+      "на",
+      "до"
+     ],
+     "t": "I read the news on the internet."
+    },
+    {
+     "s": "Я ___ свій телефон.",
+     "a": "шукаю",
+     "o": [
+      "шукає",
+      "шукають"
+     ],
+     "t": "I am looking for my phone."
+    },
+    {
+     "s": "Вони ___ в офісі.",
+     "a": "працюють",
+     "o": [
+      "працює",
+      "працюю"
+     ],
+     "t": "They work in an office."
+    },
+    {
+     "s": "Я пишу повідомлення ___.",
+     "a": "сестрі",
+     "o": [
+      "сестра",
+      "сестру"
+     ],
+     "t": "I am writing a message to my sister."
+    },
+    {
+     "s": "Я не дивлюся відео, ___ інтернет повільний.",
+     "a": "бо",
+     "o": [
+      "але",
+      "що"
+     ],
+     "t": "I don't watch videos because the internet is slow."
+    }
+   ],
+   "readings": [
+    {
+     "id": "uk-a1-2026-11-1",
+     "title": "Мій новий ноутбук",
+     "text": "Мене звати Олег. Я студент. У мене новий ноутбук. Він дуже швидкий і легкий. Удома я працюю за ноутбуком. Я пишу листи і шукаю інформацію в інтернеті. Я також роблю проєкт для університету. Увечері я дивлюся відео або фільми. Іноді моя сестра теж працює за ним. Мій старий комп'ютер стоїть у шафі. Він дуже повільний. Мені подобається мій новий ноутбук.",
+     "translation": "My name is Oleh. I am a student. I have a new laptop. It is very fast and light. At home I work on the laptop. I write emails and search for information on the internet. I am also doing a project for university. In the evening I watch videos or films. Sometimes my sister also works on it. My old computer stands in the cupboard. It is very slow. I like my new laptop.",
+     "glossary": {
+      "мене": "me (мене звати = my name is; у мене = I have)",
+      "звати": "to call (мене звати = my name is)",
+      "студент": "student",
+      "у": "at, in (у мене = I have)",
+      "новий": "new",
+      "ноутбук": "laptop",
+      "він": "it",
+      "дуже": "very",
+      "швидкий": "fast",
+      "легкий": "light",
+      "удома": "at home",
+      "працюю": "I work",
+      "за": "at, on",
+      "ноутбуком": "laptop",
+      "пишу": "I write",
+      "листи": "emails",
+      "шукаю": "I search for",
+      "інформацію": "information",
+      "в": "in, on",
+      "інтернеті": "internet",
+      "також": "also",
+      "роблю": "I do, I make",
+      "проєкт": "project",
+      "для": "for",
+      "університету": "university",
+      "увечері": "in the evening",
+      "дивлюся": "I watch",
+      "відео": "videos",
+      "або": "or",
+      "фільми": "films",
+      "іноді": "sometimes",
+      "сестра": "sister",
+      "теж": "also, too",
+      "ним": "it",
+      "старий": "old",
+      "комп'ютер": "computer",
+      "стоїть": "stands",
+      "шафі": "cupboard",
+      "повільний": "slow",
+      "мені": "to me (мені подобається = I like)",
+      "подобається": "is pleasing (мені подобається = I like)"
+     },
+     "questions": [
+      {
+       "q": "What does Oleh have?",
+       "o": [
+        "A new phone",
+        "A new laptop",
+        "A new keyboard"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Where is his old computer?",
+       "o": [
+        "In the cupboard",
+        "At the university",
+        "At his sister's home"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Who sometimes works on the new laptop?",
+       "o": [
+        "His brother",
+        "His friend",
+        "His sister"
+       ],
+       "a": 2
+      }
+     ]
+    },
+    {
+     "id": "uk-a1-2026-11-2",
+     "title": "Повідомлення для бабусі",
+     "text": "Моя бабуся живе в селі. У неї є телефон, але він старий. Я часто пишу їй повідомлення. Вона читає повідомлення повільно, але завжди відповідає. Я також надсилаю їй фото мого кота. Бабуся дуже любить ці фото. Увечері ми говоримо через відеозв'язок. Бабуся бачить мене на екрані і сміється. Мій кіт теж дивиться на екран. Інтернет у селі повільний, але нам добре.",
+     "translation": "My grandmother lives in a village. She has a phone, but it is old. I often write messages to her. She reads messages slowly, but she always replies. I also send her photos of my cat. Grandmother really loves these photos. In the evening we talk by video call. Grandmother sees me on the screen and laughs. My cat also looks at the screen. The internet in the village is slow, but we are fine.",
+     "glossary": {
+      "бабуся": "grandmother",
+      "живе": "lives",
+      "в": "in",
+      "селі": "village",
+      "у": "at, in (у неї є = she has)",
+      "неї": "her (у неї є = she has)",
+      "є": "there is (у неї є = she has)",
+      "телефон": "phone",
+      "але": "but",
+      "він": "it",
+      "старий": "old",
+      "часто": "often",
+      "пишу": "I write",
+      "їй": "to her, her",
+      "повідомлення": "messages",
+      "вона": "she",
+      "читає": "reads",
+      "повільно": "slowly",
+      "завжди": "always",
+      "відповідає": "replies",
+      "також": "also",
+      "надсилаю": "I send",
+      "фото": "photos",
+      "мого": "my",
+      "кота": "cat",
+      "дуже": "very much",
+      "любить": "loves",
+      "ці": "these",
+      "увечері": "in the evening",
+      "ми": "we",
+      "говоримо": "we talk",
+      "через": "via, by (через відеозв'язок = by video call)",
+      "відеозв'язок": "video call (через відеозв'язок = by video call)",
+      "бачить": "sees",
+      "мене": "me",
+      "на": "on, at",
+      "екрані": "screen",
+      "сміється": "laughs",
+      "мій": "my",
+      "кіт": "cat",
+      "теж": "also, too",
+      "дивиться": "looks",
+      "екран": "screen",
+      "інтернет": "internet",
+      "повільний": "slow",
+      "нам": "to us (нам добре = we are fine)",
+      "добре": "good, fine (нам добре = we are fine)"
+     },
+     "questions": [
+      {
+       "q": "Where does the grandmother live?",
+       "o": [
+        "In a big city",
+        "In a village",
+        "Next door"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What does the narrator send to the grandmother?",
+       "o": [
+        "Photos of a cat",
+        "Films",
+        "Letters by post"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What is the internet like in the village?",
+       "o": [
+        "Fast",
+        "There is no internet",
+        "Slow"
+       ],
+       "a": 2
+      }
+     ]
+    }
+   ]
+  },
+  "A2": {
+   "vocab": [
+    {
+     "w": "комп'ютер",
+     "m": "computer",
+     "f": [
+      "комп'ютері"
+     ],
+     "e": "Мій комп'ютер стоїть на столі.",
+     "et": "My computer is on the desk."
+    },
+    {
+     "w": "телефон",
+     "m": "phone",
+     "e": "Де мій телефон?",
+     "et": "Where is my phone?"
+    },
+    {
+     "w": "інтернет",
+     "m": "internet",
+     "f": [
+      "інтернеті",
+      "інтернетом"
+     ],
+     "e": "Удома в нас швидкий інтернет.",
+     "et": "We have fast internet at home."
+    },
+    {
+     "w": "пароль",
+     "m": "password",
+     "e": "Цей пароль дуже простий.",
+     "et": "This password is very simple."
+    },
+    {
+     "w": "повідомлення",
+     "m": "message",
+     "e": "Я отримав нове повідомлення.",
+     "et": "I got a new message."
+    },
+    {
+     "w": "застосунок",
+     "m": "app, application",
+     "e": "Цей застосунок допомагає вчити мови.",
+     "et": "This app helps you learn languages."
+    },
+    {
+     "w": "завантажити",
+     "m": "to download (perfective)",
+     "f": [
+      "завантажимо"
+     ],
+     "e": "Я хочу завантажити цю пісню.",
+     "et": "I want to download this song."
+    },
+    {
+     "w": "надіслати",
+     "m": "to send (perfective)",
+     "f": [
+      "надішли",
+      "надіслав"
+     ],
+     "e": "Можеш надіслати мені адресу?",
+     "et": "Can you send me the address?"
+    },
+    {
+     "w": "екран",
+     "m": "screen",
+     "f": [
+      "екрані"
+     ],
+     "e": "У цього телефону великий екран.",
+     "et": "This phone has a big screen."
+    },
+    {
+     "w": "ноутбук",
+     "m": "laptop",
+     "f": [
+      "ноутбука"
+     ],
+     "e": "Сестра працює на ноутбуці.",
+     "et": "My sister works on a laptop."
+    },
+    {
+     "w": "пошта",
+     "m": "mail, post; email (electronic mail)",
+     "f": [
+      "пошти",
+      "пошту"
+     ],
+     "e": "Я перевіряю пошту щоранку.",
+     "et": "I check my email every morning."
+    },
+    {
+     "w": "фотографія",
+     "m": "photo, photograph",
+     "f": [
+      "фотографію",
+      "фотографії"
+     ],
+     "e": "Це гарна фотографія моря.",
+     "et": "This is a nice photo of the sea."
+    },
+    {
+     "w": "відео",
+     "m": "video",
+     "e": "Ми дивимося смішне відео.",
+     "et": "We are watching a funny video."
+    },
+    {
+     "w": "заряджати",
+     "m": "to charge (imperfective)",
+     "f": [
+      "заряджає"
+     ],
+     "e": "Я заряджаю телефон уночі.",
+     "et": "I charge my phone at night."
+    },
+    {
+     "w": "клавіатура",
+     "m": "keyboard",
+     "e": "Ця клавіатура дуже тиха.",
+     "et": "This keyboard is very quiet."
+    },
+    {
+     "w": "шукати",
+     "m": "to look for, to search",
+     "f": [
+      "шукаю",
+      "шукає"
+     ],
+     "e": "Ми шукаємо гарний ресторан.",
+     "et": "We are looking for a good restaurant."
+    },
+    {
+     "w": "працювати",
+     "m": "to work",
+     "f": [
+      "працює",
+      "працювала"
+     ],
+     "e": "Мама працює в лікарні.",
+     "et": "Mum works at a hospital."
+    },
+    {
+     "w": "зламатися",
+     "m": "to break (down)",
+     "f": [
+      "зламався"
+     ],
+     "e": "Мій ноутбук може зламатися.",
+     "et": "My laptop may break down."
+    },
+    {
+     "w": "швидкий",
+     "m": "fast, quick",
+     "e": "Це дуже швидкий комп'ютер.",
+     "et": "This is a very fast computer."
+    },
+    {
+     "w": "вмикати",
+     "m": "to turn on, to switch on (imperfective)",
+     "f": [
+      "вмикає",
+      "вмикався"
+     ],
+     "e": "Тато вмикає телевізор увечері.",
+     "et": "Dad turns on the TV in the evening."
+    },
+    {
+     "w": "користуватися",
+     "m": "to use",
+     "f": [
+      "користуюся"
+     ],
+     "e": "Ти користуєшся цим застосунком?",
+     "et": "Do you use this app?"
+    },
+    {
+     "w": "сайт",
+     "m": "website",
+     "e": "У нашої школи є новий сайт.",
+     "et": "Our school has a new website."
+    },
+    {
+     "w": "вимкнути",
+     "m": "to turn off, to switch off (perfective)",
+     "f": [
+      "вимкни"
+     ],
+     "e": "Не забудь вимкнути світло.",
+     "et": "Don't forget to turn off the light."
+    },
+    {
+     "w": "планшет",
+     "m": "tablet (device)",
+     "f": [
+      "планшеті"
+     ],
+     "e": "Брат читає книжку на планшеті.",
+     "et": "My brother reads a book on a tablet."
+    },
+    {
+     "w": "новина",
+     "m": "piece of news",
+     "f": [
+      "новини"
+     ],
+     "e": "У мене є добра новина.",
+     "et": "I have some good news."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "Я забув пароль від електронної пошти.",
+     "t": "I forgot my email password."
+    },
+    {
+     "s": "Надішли мені цю фотографію, будь ласка.",
+     "t": "Send me this photo, please."
+    },
+    {
+     "s": "Мій старий телефон зламався в понеділок.",
+     "t": "My old phone broke on Monday."
+    },
+    {
+     "s": "Ми завантажимо новий застосунок увечері.",
+     "t": "We will download the new app in the evening."
+    },
+    {
+     "s": "У цьому кафе дуже швидкий інтернет.",
+     "t": "This cafe has very fast internet."
+    },
+    {
+     "s": "Діти дивляться відео на планшеті.",
+     "t": "The children are watching videos on a tablet."
+    },
+    {
+     "s": "Я шукаю в інтернеті рецепт борщу.",
+     "t": "I am looking for a borscht recipe on the internet."
+    },
+    {
+     "s": "Вимкни комп'ютер перед сном.",
+     "t": "Turn off the computer before bed."
+    },
+    {
+     "s": "Мій брат працює програмістом у великій компанії.",
+     "t": "My brother works as a programmer at a big company."
+    },
+    {
+     "s": "Ти вже прочитав моє повідомлення?",
+     "t": "Have you read my message yet?"
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Я пишу лист на ___.",
+     "a": "комп'ютері",
+     "o": [
+      "комп'ютер",
+      "комп'ютера",
+      "комп'ютером"
+     ],
+     "t": "I am writing a letter on the computer."
+    },
+    {
+     "s": "Андрій уже ___ мені повідомлення.",
+     "a": "надіслав",
+     "o": [
+      "надіслала",
+      "надіслати",
+      "надіслало"
+     ],
+     "t": "Andriy has already sent me a message."
+    },
+    {
+     "s": "Я користуюся ___ щодня.",
+     "a": "інтернетом",
+     "o": [
+      "інтернет",
+      "інтернету",
+      "інтернеті"
+     ],
+     "t": "I use the internet every day."
+    },
+    {
+     "s": "Це моя ___ клавіатура.",
+     "a": "нова",
+     "o": [
+      "новий",
+      "нове",
+      "нові"
+     ],
+     "t": "This is my new keyboard."
+    },
+    {
+     "s": "Я знайшов цю інформацію ___ інтернеті.",
+     "a": "в",
+     "o": [
+      "на",
+      "з",
+      "до"
+     ],
+     "t": "I found this information on the internet."
+    },
+    {
+     "s": "Щовечора я ___ новини в інтернеті.",
+     "a": "читаю",
+     "o": [
+      "прочитаю",
+      "прочитав",
+      "читати"
+     ],
+     "t": "Every evening I read the news on the internet."
+    },
+    {
+     "s": "Телефон не працює, ___ батарея розрядилася.",
+     "a": "бо",
+     "o": [
+      "але",
+      "або",
+      "щоб"
+     ],
+     "t": "The phone isn't working because the battery is dead."
+    },
+    {
+     "s": "У мене немає ___.",
+     "a": "ноутбука",
+     "o": [
+      "ноутбук",
+      "ноутбуком",
+      "ноутбуці"
+     ],
+     "t": "I don't have a laptop."
+    },
+    {
+     "s": "Я надіслав фотографію ___.",
+     "a": "мамі",
+     "o": [
+      "мама",
+      "маму",
+      "мамою"
+     ],
+     "t": "I sent the photo to Mum."
+    },
+    {
+     "s": "Зараз я ___ до магазину по новий телефон.",
+     "a": "йду",
+     "o": [
+      "ходжу",
+      "ходив",
+      "ходити"
+     ],
+     "t": "Right now I am going to the shop for a new phone."
+    }
+   ],
+   "readings": [
+    {
+     "id": "uk-a2-2026-11-1",
+     "title": "Новий ноутбук",
+     "text": "Минулого місяця Олена отримала новий ноутбук від брата. Він легкий і дуже швидкий. Раніше вона працювала на старому комп'ютері, який постійно зависав. Тепер Олена працює вдома. Щоранку вона вмикає ноутбук, читає пошту і надсилає повідомлення колегам. Удень у неї відеозустрічі з клієнтами. Увечері Олена дивиться фільми або шукає в інтернеті нові рецепти. Одного разу ноутбук не вмикався. Олена дуже злякалася. Але проблема була проста: вона забула зарядити батарею. Тепер вона завжди заряджає ноутбук увечері.",
+     "translation": "Last month Olena received a new laptop from her brother. It is light and very fast. Before, she worked on an old computer that constantly froze. Now Olena works at home. Every morning she turns on the laptop, reads her email and sends messages to her colleagues. During the day she has video meetings with clients. In the evening Olena watches films or searches the internet for new recipes. One day the laptop would not turn on. Olena got very scared. But the problem was simple: she had forgotten to charge the battery. Now she always charges the laptop in the evening.",
+     "glossary": {
+      "минулого": "last (минулого місяця = last month)",
+      "місяця": "month (минулого місяця = last month)",
+      "отримала": "received",
+      "ноутбук": "laptop",
+      "від": "from",
+      "легкий": "light (not heavy)",
+      "швидкий": "fast",
+      "раніше": "before, earlier",
+      "працювала": "worked",
+      "старому": "old",
+      "комп'ютері": "computer",
+      "який": "which, that",
+      "постійно": "constantly",
+      "зависав": "froze (of a computer)",
+      "тепер": "now",
+      "працює": "works",
+      "вдома": "at home",
+      "щоранку": "every morning",
+      "вмикає": "turns on",
+      "пошту": "email, mail",
+      "надсилає": "sends",
+      "повідомлення": "messages",
+      "колегам": "to colleagues",
+      "удень": "during the day",
+      "відеозустрічі": "video meetings",
+      "клієнтами": "clients",
+      "шукає": "searches, looks for",
+      "інтернеті": "internet",
+      "рецепти": "recipes",
+      "одного": "one (одного разу = one day, once)",
+      "разу": "time (одного разу = one day, once)",
+      "вмикався": "would turn on (of a device)",
+      "злякалася": "got scared",
+      "проблема": "problem",
+      "проста": "simple",
+      "забула": "forgot",
+      "зарядити": "to charge",
+      "батарею": "battery",
+      "завжди": "always",
+      "заряджає": "charges"
+     },
+     "questions": [
+      {
+       "q": "Who gave Olena the new laptop?",
+       "o": [
+        "Her colleague",
+        "Her brother",
+        "A client"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Why did the laptop not turn on one day?",
+       "o": [
+        "It was broken",
+        "The internet was slow",
+        "Olena forgot to charge the battery"
+       ],
+       "a": 2
+      },
+      {
+       "q": "What does Olena do in the evening?",
+       "o": [
+        "She watches films or looks for recipes",
+        "She has video meetings",
+        "She reads her email"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "id": "uk-a2-2026-11-2",
+     "title": "Бабуся в інтернеті",
+     "text": "Моїй бабусі сімдесят років. Торік онук Андрій подарував їй смартфон. Спочатку бабуся боялася нової техніки. Андрій показав їй, як дзвонити, надсилати фотографії і читати новини. Він також встановив для неї зручний застосунок для відеодзвінків. Тепер бабуся щонеділі розмовляє з онуками через інтернет. Вона бачить їх на екрані і дуже радіє. Але є одна проблема. Бабуся постійно забуває свій пароль. Тому вона записала його в маленький зошит. Андрій сміється і каже, що це не дуже безпечно.",
+     "translation": "My grandmother is seventy years old. Last year her grandson Andriy gave her a smartphone. At first, Grandma was afraid of new technology. Andriy showed her how to call, send photos and read the news. He also installed a convenient app for video calls for her. Now every Sunday Grandma talks with her grandchildren over the internet. She sees them on the screen and is very happy. But there is one problem. Grandma constantly forgets her password. That is why she wrote it down in a small notebook. Andriy laughs and says that this is not very safe.",
+     "glossary": {
+      "сімдесят": "seventy",
+      "років": "years",
+      "торік": "last year",
+      "онук": "grandson",
+      "подарував": "gave (as a gift)",
+      "смартфон": "smartphone",
+      "спочатку": "at first",
+      "боялася": "was afraid (of)",
+      "нової": "new",
+      "техніки": "technology, devices",
+      "показав": "showed",
+      "дзвонити": "to call (by phone)",
+      "надсилати": "to send",
+      "фотографії": "photos",
+      "новини": "news",
+      "також": "also",
+      "встановив": "installed",
+      "зручний": "convenient, easy to use",
+      "застосунок": "app",
+      "відеодзвінків": "video calls",
+      "щонеділі": "every Sunday",
+      "розмовляє": "talks",
+      "онуками": "grandchildren",
+      "через": "over, via",
+      "екрані": "screen",
+      "радіє": "is happy",
+      "постійно": "constantly",
+      "забуває": "forgets",
+      "пароль": "password",
+      "тому": "that is why, so",
+      "записала": "wrote down",
+      "зошит": "notebook",
+      "сміється": "laughs",
+      "безпечно": "safe (it is safe)"
+     },
+     "questions": [
+      {
+       "q": "Who gave the grandmother a smartphone?",
+       "o": [
+        "Her daughter",
+        "Her grandson Andriy",
+        "Her neighbour"
+       ],
+       "a": 1
+      },
+      {
+       "q": "How often does the grandmother talk with her grandchildren online?",
+       "o": [
+        "Every day",
+        "Every Sunday",
+        "Once a month"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Where did the grandmother write down her password?",
+       "o": [
+        "In a small notebook",
+        "On the phone screen",
+        "On a piece of paper on the wall"
+       ],
+       "a": 0
+      }
+     ]
+    }
+   ]
+  },
+  "B1": {
+   "vocab": [
+    {
+     "w": "мережа",
+     "m": "network; the internet",
+     "f": [
+      "мережі"
+     ],
+     "e": "У нашому офісі сьогодні не працює мережа.",
+     "et": "The network isn't working in our office today."
+    },
+    {
+     "w": "пристрій",
+     "m": "device",
+     "e": "Цей пристрій допомагає рахувати кроки.",
+     "et": "This device helps count steps."
+    },
+    {
+     "w": "застосунок",
+     "m": "app, application",
+     "f": [
+      "застосунків"
+     ],
+     "e": "Я замовляю таксі через застосунок.",
+     "et": "I order a taxi through an app."
+    },
+    {
+     "w": "пароль",
+     "m": "password",
+     "e": "Мій пароль має дванадцять символів.",
+     "et": "My password has twelve characters."
+    },
+    {
+     "w": "завантажувати",
+     "m": "to download; to upload",
+     "f": [
+      "завантажив"
+     ],
+     "e": "Я часто завантажую музику на телефон.",
+     "et": "I often download music to my phone."
+    },
+    {
+     "w": "оновлення",
+     "m": "update",
+     "e": "Для програми вийшло нове оновлення.",
+     "et": "A new update has come out for the program."
+    },
+    {
+     "w": "екран",
+     "m": "screen",
+     "f": [
+      "екрана"
+     ],
+     "e": "Екран мого ноутбука дуже яскравий.",
+     "et": "The screen of my laptop is very bright."
+    },
+    {
+     "w": "зберігати",
+     "m": "to save, to keep, to store",
+     "f": [
+      "зберігаємо",
+      "зберегти"
+     ],
+     "e": "Я зберігаю всі фото на диску.",
+     "et": "I keep all my photos on a drive."
+    },
+    {
+     "w": "підключатися",
+     "m": "to connect",
+     "f": [
+      "підключайтеся",
+      "підключитися"
+     ],
+     "e": "Телефон автоматично підключається до домашньої мережі.",
+     "et": "The phone automatically connects to the home network."
+    },
+    {
+     "w": "повідомлення",
+     "m": "message",
+     "f": [
+      "повідомлень"
+     ],
+     "e": "Я отримав повідомлення від банку.",
+     "et": "I received a message from the bank."
+    },
+    {
+     "w": "користувач",
+     "m": "user",
+     "f": [
+      "користувачів"
+     ],
+     "e": "Кожен користувач має власний пароль.",
+     "et": "Every user has their own password."
+    },
+    {
+     "w": "безпека",
+     "m": "safety, security",
+     "e": "Безпека дітей в інтернеті дуже важлива.",
+     "et": "Children's safety on the internet is very important."
+    },
+    {
+     "w": "дані",
+     "m": "data",
+     "f": [
+      "даних"
+     ],
+     "e": "Компанія не продає дані клієнтів.",
+     "et": "The company does not sell customers' data."
+    },
+    {
+     "w": "надсилати",
+     "m": "to send",
+     "f": [
+      "надсилаємо",
+      "надішли",
+      "надіслав"
+     ],
+     "e": "Вона щодня надсилає мамі фото кота.",
+     "et": "She sends her mom a photo of the cat every day."
+    },
+    {
+     "w": "заряджати",
+     "m": "to charge (a battery)",
+     "f": [
+      "заряджаю"
+     ],
+     "e": "Я заряджаю ноутбук на роботі.",
+     "et": "I charge my laptop at work."
+    },
+    {
+     "w": "вимикати",
+     "m": "to switch off, to turn off",
+     "f": [
+      "вимикає",
+      "вимкнути",
+      "вимкніть"
+     ],
+     "e": "Я завжди вимикаю світло, коли виходжу.",
+     "et": "I always turn off the light when I leave."
+    },
+    {
+     "w": "соцмережа",
+     "m": "social network",
+     "f": [
+      "соцмережах"
+     ],
+     "e": "Ця соцмережа популярна серед молоді.",
+     "et": "This social network is popular among young people."
+    },
+    {
+     "w": "залежність",
+     "m": "dependence, addiction",
+     "e": "Залежність від ігор може бути серйозною проблемою.",
+     "et": "Gaming addiction can be a serious problem."
+    },
+    {
+     "w": "звичка",
+     "m": "habit",
+     "f": [
+      "звичкою"
+     ],
+     "e": "Читати перед сном — моя добра звичка.",
+     "et": "Reading before bed is a good habit of mine."
+    },
+    {
+     "w": "посилання",
+     "m": "link",
+     "e": "Надішли мені посилання на цю статтю.",
+     "et": "Send me the link to this article."
+    },
+    {
+     "w": "насправді",
+     "m": "actually, in reality",
+     "e": "Насправді ця програма зовсім не складна.",
+     "et": "Actually, this program isn't difficult at all."
+    },
+    {
+     "w": "помічати",
+     "m": "to notice",
+     "f": [
+      "помітила"
+     ],
+     "e": "Я не помічаю, як швидко минає час.",
+     "et": "I don't notice how quickly time passes."
+    },
+    {
+     "w": "швидкий",
+     "m": "fast, quick",
+     "f": [
+      "швидше"
+     ],
+     "e": "У нас дуже швидкий інтернет.",
+     "et": "We have very fast internet."
+    },
+    {
+     "w": "спілкуватися",
+     "m": "to communicate, to talk",
+     "f": [
+      "спілкуються",
+      "спілкуюся"
+     ],
+     "e": "Ми спілкуємося англійською на роботі.",
+     "et": "We communicate in English at work."
+    },
+    {
+     "w": "справжній",
+     "m": "real, true",
+     "f": [
+      "справжні"
+     ],
+     "e": "Він справжній експерт із комп'ютерів.",
+     "et": "He is a real computer expert."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "Я заряджаю телефон щоночі біля ліжка.",
+     "t": "I charge my phone every night next to the bed."
+    },
+    {
+     "s": "Мій брат завантажив новий застосунок для вивчення мов.",
+     "t": "My brother downloaded a new app for learning languages."
+    },
+    {
+     "s": "Якщо ти забув пароль, натисни на це посилання.",
+     "t": "If you forgot your password, click this link."
+    },
+    {
+     "s": "Цей пристрій працює швидше, ніж мій старий ноутбук.",
+     "t": "This device works faster than my old laptop."
+    },
+    {
+     "s": "Я не можу підключитися до мережі в готелі.",
+     "t": "I can't connect to the network in the hotel."
+    },
+    {
+     "s": "Надішли мені, будь ласка, фото, яке ти зробив учора.",
+     "t": "Please send me the photo you took yesterday."
+    },
+    {
+     "s": "Батьки хочуть, щоб діти менше сиділи в соцмережах.",
+     "t": "Parents want their children to spend less time on social networks."
+    },
+    {
+     "s": "Насправді справжні друзі рідко спілкуються лише через інтернет.",
+     "t": "Actually, real friends rarely communicate only via the internet."
+    },
+    {
+     "s": "Не забудь зберегти файл, перш ніж вимкнути комп'ютер.",
+     "t": "Don't forget to save the file before you turn off the computer."
+    },
+    {
+     "s": "Мільйони користувачів щодня відвідують цей сайт.",
+     "t": "Millions of users visit this website every day."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Вчора я ___ нову програму, але вона не працює.",
+     "a": "завантажив",
+     "o": [
+      "завантажу",
+      "завантажувати",
+      "завантажиш"
+     ],
+     "t": "Yesterday I downloaded a new program, but it doesn't work."
+    },
+    {
+     "s": "Я забув пароль від своєї ___.",
+     "a": "пошти",
+     "o": [
+      "пошта",
+      "пошту",
+      "поштою"
+     ],
+     "t": "I forgot the password to my email."
+    },
+    {
+     "s": "Будь ласка, ___ телефон, коли починається фільм.",
+     "a": "вимкніть",
+     "o": [
+      "вимикаєте",
+      "вимкнути",
+      "вимкнете"
+     ],
+     "t": "Please turn off your phone when the film starts."
+    },
+    {
+     "s": "Я не купив цей ноутбук, ___ він був занадто дорогий.",
+     "a": "бо",
+     "o": [
+      "якщо",
+      "щоб",
+      "ніж"
+     ],
+     "t": "I didn't buy this laptop because it was too expensive."
+    },
+    {
+     "s": "Мама хоче, ___ я менше грав у комп'ютерні ігри.",
+     "a": "щоб",
+     "o": [
+      "що",
+      "бо",
+      "якщо"
+     ],
+     "t": "Mom wants me to play computer games less."
+    },
+    {
+     "s": "Я часто спілкуюся з ___ через відеозв'язок.",
+     "a": "бабусею",
+     "o": [
+      "бабуся",
+      "бабусі",
+      "бабусю"
+     ],
+     "t": "I often talk with my grandmother via video call."
+    },
+    {
+     "s": "Наступного тижня ми ___ до Львова на технологічну конференцію.",
+     "a": "поїдемо",
+     "o": [
+      "їздимо",
+      "поїхали",
+      "їздили"
+     ],
+     "t": "Next week we will go to Lviv for a technology conference."
+    },
+    {
+     "s": "Новий застосунок працює набагато ___, ніж старий.",
+     "a": "швидше",
+     "o": [
+      "швидкий",
+      "швидко",
+      "найшвидше"
+     ],
+     "t": "The new app works much faster than the old one."
+    },
+    {
+     "s": "Я надіслав ___ посилання на відео.",
+     "a": "другові",
+     "o": [
+      "друга",
+      "другом",
+      "друг"
+     ],
+     "t": "I sent my friend a link to the video."
+    },
+    {
+     "s": "У мене на телефоні п'ятдесят ___.",
+     "a": "застосунків",
+     "o": [
+      "застосунки",
+      "застосунок",
+      "застосунка"
+     ],
+     "t": "I have fifty apps on my phone."
+    }
+   ],
+   "readings": [
+    {
+     "id": "uk-b1-2026-11-1",
+     "title": "Тиждень без телефону",
+     "text": "Минулого місяця Оксана вирішила провести тиждень без смартфона. Вона помітила, що щодня проводить у соцмережах понад чотири години. Спочатку було дуже важко. Вранці вона за звичкою шукала телефон біля ліжка, а в автобусі не знала, куди дивитися. Але вже на третій день Оксана почала читати паперові книжки і більше спілкуватися з сусідами. Вона також зрозуміла, що насправді важливі повідомлення можна перевірити на комп'ютері ввечері. Наприкінці тижня дівчина знову увімкнула телефон, проте видалила кілька застосунків. Тепер вона вимикає інтернет після дев'ятої вечора. Оксана каже, що така звичка допомагає їй краще спати і менше нервувати. Залежність від екрана не зникла повністю, але стала значно меншою.",
+     "translation": "Last month Oksana decided to spend a week without her smartphone. She had noticed that she spent more than four hours a day on social networks. At first it was very hard. In the morning, out of habit, she looked for her phone next to the bed, and on the bus she didn't know where to look. But already on the third day Oksana began reading paper books and talking more with her neighbours. She also realised that important messages can actually be checked on the computer in the evening. At the end of the week the girl turned her phone on again, but she deleted several apps. Now she switches off the internet after nine in the evening. Oksana says that this habit helps her sleep better and be less nervous. Her dependence on the screen has not disappeared completely, but it has become much smaller.",
+     "glossary": {
+      "минулого": "last (минулого місяця = last month)",
+      "місяця": "month (минулого місяця = last month)",
+      "вирішила": "decided",
+      "провести": "to spend (time)",
+      "смартфона": "smartphone",
+      "помітила": "noticed",
+      "щодня": "every day",
+      "проводить": "spends (time)",
+      "соцмережах": "social networks",
+      "понад": "more than",
+      "спочатку": "at first",
+      "важко": "hard, difficult",
+      "за": "out of (за звичкою = out of habit)",
+      "звичкою": "habit (за звичкою = out of habit)",
+      "шукала": "looked for",
+      "ліжка": "bed",
+      "паперові": "paper (adj.)",
+      "спілкуватися": "to communicate, to talk",
+      "сусідами": "neighbours",
+      "зрозуміла": "realised, understood",
+      "насправді": "actually, in fact",
+      "повідомлення": "messages",
+      "перевірити": "to check",
+      "наприкінці": "at the end of",
+      "увімкнула": "turned on",
+      "проте": "but, however",
+      "видалила": "deleted",
+      "застосунків": "apps",
+      "вимикає": "switches off",
+      "дев'ятої": "nine (o'clock)",
+      "нервувати": "to be nervous, to worry",
+      "залежність": "dependence, addiction",
+      "екрана": "screen",
+      "зникла": "disappeared",
+      "повністю": "completely",
+      "значно": "much, considerably"
+     },
+     "questions": [
+      {
+       "q": "How much time did Oksana spend on social networks every day?",
+       "o": [
+        "About two hours",
+        "More than four hours",
+        "About nine hours"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What did Oksana start doing on the third day?",
+       "o": [
+        "Reading paper books",
+        "Going to the gym",
+        "Writing a blog"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What does Oksana do now after nine in the evening?",
+       "o": [
+        "She checks her messages",
+        "She switches off the internet",
+        "She deletes apps"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "id": "uk-b1-2026-11-2",
+     "title": "Як захистити свої дані",
+     "text": "Сьогодні майже кожен користувач інтернету має десятки облікових записів. Ми купуємо речі онлайн, надсилаємо документи і зберігаємо фотографії в хмарі. Через це безпека даних стає дуже важливою. Експерти радять кілька простих правил. По-перше, не використовуйте однаковий пароль для різних сайтів. Добрий пароль має бути довгим і містити літери, цифри та символи. По-друге, завжди встановлюйте оновлення, бо вони виправляють помилки в програмах. По-третє, не підключайтеся до відкритої мережі в кафе, якщо хочете перевірити банківський рахунок. Шахраї можуть легко побачити ваші дані. Нарешті, не відкривайте посилання з дивних повідомлень, навіть якщо їх нібито надіслав друг. Ці прості кроки займають кілька хвилин, але можуть зберегти ваші гроші й нерви.",
+     "translation": "Today almost every internet user has dozens of accounts. We buy things online, send documents and store photos in the cloud. Because of this, data security is becoming very important. Experts recommend a few simple rules. First, do not use the same password for different websites. A good password should be long and contain letters, numbers and symbols. Second, always install updates, because they fix errors in programs. Third, do not connect to an open network in a café if you want to check your bank account. Scammers can easily see your data. Finally, do not open links from strange messages, even if a friend supposedly sent them. These simple steps take a few minutes, but they can save your money and your nerves.",
+     "glossary": {
+      "захистити": "to protect",
+      "майже": "almost",
+      "користувач": "user",
+      "десятки": "dozens",
+      "облікових": "account (облікових записів = accounts)",
+      "записів": "records (облікових записів = accounts)",
+      "надсилаємо": "we send",
+      "зберігаємо": "we store, we keep",
+      "хмарі": "cloud",
+      "через": "because of (через це = because of this)",
+      "безпека": "security",
+      "даних": "data",
+      "радять": "advise, recommend",
+      "правил": "rules",
+      "по-перше": "first, firstly",
+      "використовуйте": "use",
+      "однаковий": "the same, identical",
+      "містити": "to contain",
+      "літери": "letters",
+      "цифри": "digits, numbers",
+      "по-друге": "second, secondly",
+      "встановлюйте": "install",
+      "оновлення": "updates",
+      "виправляють": "fix, correct",
+      "помилки": "errors, mistakes",
+      "по-третє": "third, thirdly",
+      "підключайтеся": "connect",
+      "відкритої": "open",
+      "мережі": "network",
+      "банківський": "bank (adj.) (банківський рахунок = bank account)",
+      "рахунок": "account (банківський рахунок = bank account)",
+      "шахраї": "scammers, fraudsters",
+      "легко": "easily",
+      "нарешті": "finally",
+      "посилання": "links",
+      "дивних": "strange",
+      "повідомлень": "messages",
+      "нібито": "supposedly, allegedly",
+      "надіслав": "sent",
+      "кроки": "steps",
+      "займають": "take (time)",
+      "зберегти": "to save",
+      "нерви": "nerves"
+     },
+     "questions": [
+      {
+       "q": "What should a good password contain, according to the text?",
+       "o": [
+        "Only the user's name",
+        "Letters, numbers and symbols",
+        "Only numbers"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Why should you always install updates?",
+       "o": [
+        "They fix errors in programs",
+        "They make the screen brighter",
+        "They delete old photos"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What should you avoid doing on an open network in a café?",
+       "o": [
+        "Reading the news",
+        "Sending photos to friends",
+        "Checking your bank account"
+       ],
+       "a": 2
+      }
+     ]
+    }
+   ]
+  },
+  "B2": {
+   "vocab": [
+    {
+     "w": "застосунок",
+     "m": "app, application",
+     "f": [
+      "застосунків"
+     ],
+     "e": "Цей застосунок допомагає вивчати мови щодня.",
+     "et": "This app helps you learn languages every day."
+    },
+    {
+     "w": "пристрій",
+     "m": "device",
+     "f": [
+      "пристрої"
+     ],
+     "e": "Вимкніть усі пристрої перед початком іспиту.",
+     "et": "Turn off all devices before the exam begins."
+    },
+    {
+     "w": "мережа",
+     "m": "network; (social) network",
+     "f": [
+      "мережах"
+     ],
+     "e": "Уся інформація в мережі залишається надовго.",
+     "et": "All information on the internet stays there for a long time."
+    },
+    {
+     "w": "обліковий запис",
+     "m": "account (online)",
+     "f": [
+      "облікового запису"
+     ],
+     "e": "Щоб купити квиток, треба створити обліковий запис.",
+     "et": "To buy a ticket, you need to create an account."
+    },
+    {
+     "w": "пароль",
+     "m": "password",
+     "e": "Ніколи не використовуйте той самий пароль для різних сайтів.",
+     "et": "Never use the same password for different websites."
+    },
+    {
+     "w": "безпека",
+     "m": "security, safety",
+     "f": [
+      "безпеку"
+     ],
+     "e": "Безпека дітей в інтернеті турбує багатьох батьків.",
+     "et": "Children's safety on the internet worries many parents."
+    },
+    {
+     "w": "зламати",
+     "m": "to hack; to break",
+     "f": [
+      "зламали"
+     ],
+     "e": "Хакери зламали сайт міської ради вночі.",
+     "et": "Hackers hacked the city council's website at night."
+    },
+    {
+     "w": "оновлення",
+     "m": "update",
+     "e": "Нове оновлення виправило кілька серйозних помилок.",
+     "et": "The new update fixed several serious bugs."
+    },
+    {
+     "w": "штучний інтелект",
+     "m": "artificial intelligence",
+     "e": "Штучний інтелект уже пише тексти і малює картини.",
+     "et": "Artificial intelligence already writes texts and paints pictures."
+    },
+    {
+     "w": "дані",
+     "m": "data",
+     "f": [
+      "даних"
+     ],
+     "e": "Компанія зобов'язана захищати дані своїх клієнтів.",
+     "et": "The company is obliged to protect its clients' data."
+    },
+    {
+     "w": "зберігати",
+     "m": "to store, to keep, to save",
+     "f": [
+      "зберігає"
+     ],
+     "e": "Я зберігаю всі світлини на зовнішньому диску.",
+     "et": "I keep all my photos on an external drive."
+    },
+    {
+     "w": "залежність",
+     "m": "addiction, dependence",
+     "e": "Цифрова залежність стає поширеною проблемою серед підлітків.",
+     "et": "Digital addiction is becoming a common problem among teenagers."
+    },
+    {
+     "w": "приватність",
+     "m": "privacy",
+     "f": [
+      "приватності"
+     ],
+     "e": "Багато людей не думають про приватність, коли публікують світлини.",
+     "et": "Many people do not think about privacy when they post photos."
+    },
+    {
+     "w": "поширювати",
+     "m": "to spread, to share",
+     "f": [
+      "поширюйте"
+     ],
+     "e": "Не варто поширювати чужі листи без дозволу.",
+     "et": "You shouldn't share other people's letters without permission."
+    },
+    {
+     "w": "достовірний",
+     "m": "reliable, credible",
+     "f": [
+      "достовірних"
+     ],
+     "e": "Ця енциклопедія вважається достовірним джерелом.",
+     "et": "This encyclopedia is considered a reliable source."
+    },
+    {
+     "w": "джерело",
+     "m": "source",
+     "f": [
+      "джерел"
+     ],
+     "e": "Журналіст не назвав джерело інформації.",
+     "et": "The journalist did not name the source of the information."
+    },
+    {
+     "w": "перевіряти",
+     "m": "to check, to verify",
+     "f": [
+      "перевіряйте",
+      "перевіряє"
+     ],
+     "e": "Редактори завжди перевіряють факти перед публікацією.",
+     "et": "Editors always check the facts before publication."
+    },
+    {
+     "w": "неправдивий",
+     "m": "false, untrue",
+     "f": [
+      "неправдивої",
+      "неправдивою"
+     ],
+     "e": "Через неправдивий допис люди почали панікувати.",
+     "et": "Because of a false post, people started to panic."
+    },
+    {
+     "w": "спілкування",
+     "m": "communication",
+     "e": "Живе спілкування неможливо повністю замінити чатами.",
+     "et": "Face-to-face communication cannot be fully replaced by chats."
+    },
+    {
+     "w": "користувач",
+     "m": "user",
+     "f": [
+      "користувачів",
+      "користувачі"
+     ],
+     "e": "Кожен користувач може змінити мову інтерфейсу.",
+     "et": "Every user can change the interface language."
+    },
+    {
+     "w": "налаштування",
+     "m": "settings",
+     "f": [
+      "налаштуваннях"
+     ],
+     "e": "Відкрий налаштування і вимкни сповіщення.",
+     "et": "Open the settings and turn off notifications."
+    },
+    {
+     "w": "вразливий",
+     "m": "vulnerable",
+     "f": [
+      "вразливі",
+      "вразливими"
+     ],
+     "e": "Стара версія програми особливо вразлива до вірусів.",
+     "et": "The old version of the program is especially vulnerable to viruses."
+    },
+    {
+     "w": "зручний",
+     "m": "convenient, comfortable",
+     "f": [
+      "зручні"
+     ],
+     "e": "Онлайн-оплата рахунків дуже зручна.",
+     "et": "Paying bills online is very convenient."
+    },
+    {
+     "w": "водночас",
+     "m": "at the same time",
+     "e": "Смартфон корисний, але водночас він забирає багато часу.",
+     "et": "A smartphone is useful, but at the same time it takes up a lot of time."
+    },
+    {
+     "w": "поступово",
+     "m": "gradually",
+     "e": "Місто поступово переходить на електронні квитки.",
+     "et": "The city is gradually switching to electronic tickets."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "Якби я вчасно встановив оновлення, мій ноутбук не зламали б.",
+     "t": "If I had installed the update on time, my laptop would not have been hacked."
+    },
+    {
+     "s": "Застосунок, завантажений з неофіційного сайту, може містити шкідливу програму.",
+     "t": "An app downloaded from an unofficial website may contain malware."
+    },
+    {
+     "s": "Користувачі дедалі частіше замислюються над тим, хто зберігає їхні дані.",
+     "t": "Users are increasingly wondering who stores their data."
+    },
+    {
+     "s": "Водночас інтернет відкриває безліч можливостей для навчання і спілкування.",
+     "t": "At the same time, the internet opens up countless opportunities for learning and communication."
+    },
+    {
+     "s": "Перш ніж поширювати новину, варто перевірити її джерело.",
+     "t": "Before sharing a piece of news, it is worth checking its source."
+    },
+    {
+     "s": "Лікарі попереджають, що надмірне користування смартфоном може спричинити залежність.",
+     "t": "Doctors warn that excessive smartphone use can cause addiction."
+    },
+    {
+     "s": "У налаштуваннях приватності можна обмежити, хто бачить ваші світлини.",
+     "t": "In the privacy settings you can restrict who sees your photos."
+    },
+    {
+     "s": "Старі пристрої часто вразливі до атак, бо виробники перестають їх оновлювати.",
+     "t": "Old devices are often vulnerable to attacks because manufacturers stop updating them."
+    },
+    {
+     "s": "Чим довший і складніший пароль, тим важче його зламати.",
+     "t": "The longer and more complex a password is, the harder it is to crack."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Я забув пароль від свого облікового ___.",
+     "a": "запису",
+     "o": [
+      "запис",
+      "записом",
+      "записі"
+     ],
+     "t": "I forgot the password to my account."
+    },
+    {
+     "s": "Перш ніж купувати новий ___, порівняй ціни в кількох магазинах.",
+     "a": "пристрій",
+     "o": [
+      "пристрою",
+      "пристроєм"
+     ],
+     "t": "Before buying a new device, compare prices in several shops."
+    },
+    {
+     "s": "Учора я нарешті ___ оновлення, і телефон почав працювати швидше.",
+     "a": "встановив",
+     "o": [
+      "встановлю",
+      "встановиш",
+      "встановлюю"
+     ],
+     "t": "Yesterday I finally installed the update, and the phone started working faster."
+    },
+    {
+     "s": "Без достовірних ___ неможливо зробити правильний висновок.",
+     "a": "джерел",
+     "o": [
+      "джерело",
+      "джерелами",
+      "джерелах"
+     ],
+     "t": "Without reliable sources it is impossible to draw the right conclusion."
+    },
+    {
+     "s": "Він щодня ___ свою пошту, щоб не пропустити важливий лист.",
+     "a": "перевіряє",
+     "o": [
+      "перевірить",
+      "перевірити"
+     ],
+     "t": "He checks his email every day so as not to miss an important letter."
+    },
+    {
+     "s": "Ми довго сперечалися ___ безпеку даних в інтернеті.",
+     "a": "про",
+     "o": [
+      "на",
+      "до",
+      "над"
+     ],
+     "t": "We argued for a long time about data security on the internet."
+    },
+    {
+     "s": "Ця новина виявилася ___, тому її видалили.",
+     "a": "неправдивою",
+     "o": [
+      "неправдивий",
+      "неправдивим",
+      "неправдивої"
+     ],
+     "t": "This news turned out to be false, so it was deleted."
+    },
+    {
+     "s": "Якби компанія краще захищала дані, хакери не ___ б її сервер.",
+     "a": "зламали",
+     "o": [
+      "зламають",
+      "зламувати",
+      "зламав"
+     ],
+     "t": "If the company had protected its data better, the hackers would not have hacked its server."
+    },
+    {
+     "s": "Мій брат ___ до комп'ютерного клубу щосуботи.",
+     "a": "ходить",
+     "o": [
+      "іде",
+      "піде",
+      "пішов"
+     ],
+     "t": "My brother goes to the computer club every Saturday."
+    },
+    {
+     "s": "Я не встиг зберегти файл, ___ комп'ютер раптово вимкнувся.",
+     "a": "бо",
+     "o": [
+      "тому",
+      "щоб",
+      "хоча"
+     ],
+     "t": "I didn't manage to save the file because the computer suddenly shut down."
+    }
+   ],
+   "readings": [
+    {
+     "id": "uk-b2-2026-11-1",
+     "title": "Підозріле повідомлення",
+     "text": "Минулої осені моя бабуся Ганна вирішила, що настав час опанувати смартфон. Онук встановив їй кілька застосунків, створив обліковий запис і записав пароль на папірці. Спершу все здавалося складним, але поступово бабуся навчилася робити відеодзвінки й читати новини. Одного вечора їй надійшло повідомлення нібито від банку: її просили негайно підтвердити дані картки. Бабуся вже майже ввела номер, коли згадала пораду онука: банк ніколи не просить таких даних у повідомленнях. Вона закрила посилання і зателефонувала до банку. Виявилося, що шахраї розсилали такі повідомлення тисячам користувачів. Наступного дня онук допоміг їй змінити пароль і увімкнути додатковий захист у налаштуваннях. Тепер бабуся з гордістю розповідає сусідкам, як не дала себе ошукати. Вона каже, що технології зручні, але водночас потребують уважності, і що вчитися ніколи не пізно.",
+     "translation": "Last autumn my grandmother Hanna decided that the time had come to master a smartphone. Her grandson installed several apps for her, created an account and wrote the password down on a slip of paper. At first everything seemed complicated, but gradually Grandma learned to make video calls and read the news. One evening she received a message supposedly from the bank: she was asked to confirm her card details immediately. Grandma had almost entered the number when she remembered her grandson's advice: a bank never asks for such data in messages. She closed the link and phoned the bank. It turned out that fraudsters had been sending such messages to thousands of users. The next day her grandson helped her change the password and turn on additional protection in the settings. Now Grandma proudly tells her neighbours how she didn't let herself be cheated. She says that technology is convenient, but at the same time requires attentiveness, and that it is never too late to learn.",
+     "glossary": {
+      "опанувати": "to master",
+      "онук": "grandson",
+      "встановив": "installed",
+      "застосунків": "apps",
+      "обліковий": "accounting, registered (обліковий запис = account)",
+      "запис": "record (обліковий запис = account)",
+      "папірці": "slip of paper",
+      "спершу": "at first",
+      "поступово": "gradually",
+      "відеодзвінки": "video calls",
+      "надійшло": "arrived, came in",
+      "нібито": "supposedly",
+      "негайно": "immediately",
+      "підтвердити": "to confirm",
+      "дані": "data, details",
+      "ввела": "entered, typed in",
+      "пораду": "advice",
+      "даних": "data",
+      "посилання": "link",
+      "виявилося": "it turned out",
+      "шахраї": "fraudsters, scammers",
+      "розсилали": "were sending out",
+      "користувачів": "users",
+      "увімкнути": "to turn on",
+      "додатковий": "additional",
+      "захист": "protection",
+      "налаштуваннях": "settings",
+      "гордістю": "pride (з гордістю = proudly)",
+      "дала": "let (не дала себе ошукати = didn't let herself be cheated)",
+      "ошукати": "to deceive, to cheat",
+      "зручні": "convenient",
+      "водночас": "at the same time",
+      "потребують": "require, need",
+      "уважності": "attentiveness, care"
+     },
+     "questions": [
+      {
+       "q": "Who installed the apps on Hanna's smartphone?",
+       "o": [
+        "Her neighbour",
+        "Her grandson",
+        "A bank employee"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What did Hanna do after she remembered the advice?",
+       "o": [
+        "She entered the card number anyway",
+        "She closed the link and phoned the bank",
+        "She deleted all her apps"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What did the grandson help her do the next day?",
+       "o": [
+        "Change the password and turn on extra protection",
+        "Buy a new smartphone",
+        "Open a new bank card"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "id": "uk-b2-2026-11-2",
+     "title": "Міст, який не падав",
+     "text": "Минулого тижня в соціальних мережах швидко поширилася світлина: нібито в центрі міста обвалився старий міст. За кілька годин її побачили сотні тисяч людей, а дехто навіть скасував свої поїздки. Згодом з'ясувалося, що зображення створив штучний інтелект, а жодної аварії не було. Подібні випадки трапляються дедалі частіше. Сучасні програми дають змогу за лічені хвилини створити фото чи відео, яке важко відрізнити від справжнього. Через це користувачі стають особливо вразливими до неправдивої інформації. Фахівці радять дотримуватися кількох простих правил. По-перше, перевіряйте джерело: чи це відоме медіа, чи анонімна сторінка? По-друге, шукайте ту саму новину на кількох достовірних сайтах. По-третє, не поширюйте повідомлення, якщо воно викликає сильні емоції, а підтверджень немає. Якби кожен із нас витрачав на перевірку бодай хвилину, фейки втратили б велику частину своєї сили.",
+     "translation": "Last week a photo spread quickly on social networks: supposedly an old bridge had collapsed in the city centre. Within a few hours hundreds of thousands of people saw it, and some even cancelled their trips. Later it turned out that the image had been created by artificial intelligence and there had been no accident at all. Similar cases are happening more and more often. Modern programs make it possible to create, in just a few minutes, a photo or video that is hard to tell apart from a real one. Because of this, users become especially vulnerable to false information. Experts advise following a few simple rules. First, check the source: is it a well-known media outlet or an anonymous page? Second, look for the same news on several reliable websites. Third, do not share a message if it provokes strong emotions and there is no confirmation. If each of us spent at least a minute on checking, fakes would lose a large part of their power.",
+     "glossary": {
+      "мережах": "networks (соціальних мережах = social networks)",
+      "поширилася": "spread",
+      "світлина": "photo",
+      "нібито": "supposedly",
+      "обвалився": "collapsed",
+      "скасував": "cancelled",
+      "поїздки": "trips",
+      "згодом": "later",
+      "з'ясувалося": "it turned out",
+      "зображення": "image",
+      "штучний": "artificial (штучний інтелект = artificial intelligence)",
+      "інтелект": "intelligence (штучний інтелект = artificial intelligence)",
+      "жодної": "not a single, no",
+      "аварії": "accident",
+      "подібні": "similar",
+      "випадки": "cases",
+      "трапляються": "happen",
+      "дедалі": "increasingly (дедалі частіше = more and more often)",
+      "дають": "give (дають змогу = make it possible)",
+      "змогу": "possibility (дають змогу = make it possible)",
+      "лічені": "just a few, a handful (за лічені хвилини = in a matter of minutes)",
+      "відрізнити": "to tell apart, to distinguish",
+      "справжнього": "real, genuine",
+      "вразливими": "vulnerable",
+      "неправдивої": "false",
+      "фахівці": "experts",
+      "дотримуватися": "to follow, to observe",
+      "по-перше": "firstly",
+      "перевіряйте": "check",
+      "джерело": "source",
+      "сторінка": "page",
+      "по-друге": "secondly",
+      "достовірних": "reliable",
+      "по-третє": "thirdly",
+      "поширюйте": "share, spread",
+      "викликає": "provokes, causes",
+      "підтверджень": "confirmations",
+      "витрачав": "spent",
+      "перевірку": "checking, verification",
+      "бодай": "at least",
+      "фейки": "fakes, fake news",
+      "втратили": "lost (втратили б = would lose)"
+     },
+     "questions": [
+      {
+       "q": "What did the viral photo supposedly show?",
+       "o": [
+        "A fire in a shopping centre",
+        "A collapsed old bridge",
+        "A flooded city square"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Who or what created the image?",
+       "o": [
+        "A local journalist",
+        "Artificial intelligence",
+        "A tourist with a phone"
+       ],
+       "a": 1
+      },
+      {
+       "q": "According to the third rule, when should you not share a message?",
+       "o": [
+        "When it comes from a well-known media outlet",
+        "When it provokes strong emotions and has no confirmation",
+        "When it was published more than a week ago"
+       ],
+       "a": 1
+      }
+     ]
+    }
+   ]
+  },
+  "C1": {
+   "vocab": [
+    {
+     "w": "алгоритм",
+     "m": "algorithm",
+     "f": [
+      "алгоритми"
+     ],
+     "e": "Цей алгоритм аналізує мільйони запитів за лічені секунди.",
+     "et": "This algorithm analyses millions of queries in a matter of seconds."
+    },
+    {
+     "w": "шифрування",
+     "m": "encryption",
+     "e": "Без надійного шифрування будь-яке повідомлення можна перехопити.",
+     "et": "Without reliable encryption, any message can be intercepted."
+    },
+    {
+     "w": "витік",
+     "m": "leak",
+     "f": [
+      "витоку"
+     ],
+     "e": "Витік паролів завдав компанії серйозної шкоди.",
+     "et": "The password leak caused the company serious damage."
+    },
+    {
+     "w": "конфіденційність",
+     "m": "privacy, confidentiality",
+     "f": [
+      "конфіденційності"
+     ],
+     "e": "Користувачі вимагають гарантій конфіденційності своїх даних.",
+     "et": "Users demand guarantees of the confidentiality of their data."
+    },
+    {
+     "w": "посилювати",
+     "m": "to intensify, to amplify",
+     "f": [
+      "посилює"
+     ],
+     "e": "Соціальні мережі нерідко посилюють поляризацію суспільства.",
+     "et": "Social networks often intensify the polarisation of society."
+    },
+    {
+     "w": "зловмисник",
+     "m": "attacker, malicious actor",
+     "f": [
+      "зловмисники",
+      "зловмисникам"
+     ],
+     "e": "Зловмисник отримав доступ до сервера через застарілий пароль.",
+     "et": "The attacker gained access to the server through an outdated password."
+    },
+    {
+     "w": "вбудований",
+     "m": "built-in",
+     "e": "Вбудований фільтр блокує більшість небажаних листів.",
+     "et": "The built-in filter blocks most unwanted emails."
+    },
+    {
+     "w": "оновлення",
+     "m": "update",
+     "e": "Останнє оновлення усунуло кілька критичних помилок.",
+     "et": "The latest update fixed several critical bugs."
+    },
+    {
+     "w": "стрімкий",
+     "m": "rapid, swift",
+     "e": "Стрімке поширення чат-ботів змінило ринок праці.",
+     "et": "The rapid spread of chatbots has changed the labour market."
+    },
+    {
+     "w": "залежність",
+     "m": "dependence, addiction",
+     "e": "Психологи дедалі частіше говорять про залежність від смартфонів.",
+     "et": "Psychologists increasingly talk about smartphone addiction."
+    },
+    {
+     "w": "маніпулювати",
+     "m": "to manipulate",
+     "e": "Деякі сайти вміло маніпулюють емоціями читачів.",
+     "et": "Some websites skilfully manipulate readers' emotions."
+    },
+    {
+     "w": "достовірність",
+     "m": "reliability, authenticity",
+     "e": "Перш ніж поширювати новину, варто перевірити її достовірність.",
+     "et": "Before sharing a news story, it is worth checking its reliability."
+    },
+    {
+     "w": "поширювати",
+     "m": "to spread, to share",
+     "f": [
+      "поширюються"
+     ],
+     "e": "Боти масово поширюють неправдиві повідомлення.",
+     "et": "Bots spread false messages on a mass scale."
+    },
+    {
+     "w": "впроваджувати",
+     "m": "to implement, to introduce",
+     "f": [
+      "впровадили",
+      "впроваджують"
+     ],
+     "e": "Школи поступово впроваджують електронні журнали.",
+     "et": "Schools are gradually introducing electronic grade books."
+    },
+    {
+     "w": "невід'ємний",
+     "m": "integral, inseparable",
+     "e": "Інтернет став невід'ємною частиною нашого повсякдення.",
+     "et": "The internet has become an integral part of our everyday life."
+    },
+    {
+     "w": "запобігати",
+     "m": "to prevent",
+     "f": [
+      "запобігти"
+     ],
+     "e": "Антивірус запобігає зараженню комп'ютера.",
+     "et": "The antivirus prevents the computer from being infected."
+    },
+    {
+     "w": "застосунок",
+     "m": "app, application",
+     "f": [
+      "застосунку"
+     ],
+     "e": "Я завантажив застосунок для вивчення мов.",
+     "et": "I downloaded a language-learning app."
+    },
+    {
+     "w": "відстежувати",
+     "m": "to track, to monitor",
+     "f": [
+      "відстежує"
+     ],
+     "e": "Багато сайтів відстежують поведінку відвідувачів без їхньої згоди.",
+     "et": "Many websites track visitors' behaviour without their consent."
+    },
+    {
+     "w": "спотворювати",
+     "m": "to distort",
+     "f": [
+      "спотворюється"
+     ],
+     "e": "Вирвана з контексту цитата спотворює зміст висловлювання.",
+     "et": "A quote taken out of context distorts the meaning of the statement."
+    },
+    {
+     "w": "неупереджений",
+     "m": "impartial, unbiased",
+     "f": [
+      "неупереджене"
+     ],
+     "e": "Журналіст має залишатися неупередженим навіть у гострих дискусіях.",
+     "et": "A journalist must remain impartial even in heated debates."
+    },
+    {
+     "w": "зумовлювати",
+     "m": "to cause, to determine",
+     "f": [
+      "зумовлена"
+     ],
+     "e": "Низька швидкість інтернету зумовлює затримки у відеозв'язку.",
+     "et": "Low internet speed causes delays in video calls."
+    },
+    {
+     "w": "довіра",
+     "m": "trust",
+     "e": "Після скандалу довіра до платформи різко впала.",
+     "et": "After the scandal, trust in the platform fell sharply."
+    },
+    {
+     "w": "безпідставний",
+     "m": "groundless, unfounded",
+     "f": [
+      "безпідставними"
+     ],
+     "e": "Його побоювання щодо нової технології виявилися безпідставними.",
+     "et": "His fears about the new technology proved groundless."
+    },
+    {
+     "w": "посередник",
+     "m": "intermediary, middleman",
+     "e": "Платформа виступає посередником між продавцями та покупцями.",
+     "et": "The platform acts as an intermediary between sellers and buyers."
+    },
+    {
+     "w": "вичерпний",
+     "m": "exhaustive, complete",
+     "f": [
+      "вичерпного"
+     ],
+     "e": "Інструкція не дає вичерпної відповіді на це питання.",
+     "et": "The manual does not give an exhaustive answer to this question."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "Попри стрімкий розвиток технологій, цифрова грамотність населення досі залишається недостатньою.",
+     "t": "Despite the rapid development of technology, the population's digital literacy still remains insufficient."
+    },
+    {
+     "s": "Після масштабного витоку даних компанія була змушена переглянути свою політику конфіденційності.",
+     "t": "After a large-scale data leak, the company was forced to revise its privacy policy."
+    },
+    {
+     "s": "Зловмисники дедалі частіше вдаються до штучного інтелекту, щоб підробляти голоси знайомих людей.",
+     "t": "Attackers increasingly resort to artificial intelligence to fake the voices of people we know."
+    },
+    {
+     "s": "Якби розробники вчасно впровадили наскрізне шифрування, листування користувачів залишилося б захищеним.",
+     "t": "If the developers had implemented end-to-end encryption in time, users' correspondence would have remained protected."
+    },
+    {
+     "s": "Чимало експертів вважають, що звинувачення на адресу платформи є безпідставними.",
+     "t": "Many experts believe that the accusations against the platform are groundless."
+    },
+    {
+     "s": "Довіра до онлайн-джерел значною мірою зумовлена тим, наскільки прозоро вони перевіряють інформацію.",
+     "t": "Trust in online sources is largely determined by how transparently they verify information."
+    },
+    {
+     "s": "Регулярні оновлення програмного забезпечення допомагають запобігти більшості відомих атак.",
+     "t": "Regular software updates help prevent most known attacks."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Щоб запобігти ___ даних, компанія запровадила двофакторну автентифікацію.",
+     "a": "витоку",
+     "o": [
+      "витік",
+      "витоком"
+     ],
+     "t": "To prevent data leaks, the company introduced two-factor authentication."
+    },
+    {
+     "s": "Програма автоматично ___ оновлення щоночі, тож користувачеві не треба нічого робити.",
+     "a": "встановлює",
+     "o": [
+      "встановить",
+      "встановила"
+     ],
+     "t": "The program automatically installs updates every night, so the user does not have to do anything."
+    },
+    {
+     "s": "Відповідальність ___ поширення фейків лежить не лише на платформах.",
+     "a": "за",
+     "o": [
+      "про",
+      "на"
+     ],
+     "t": "Responsibility for spreading fake news lies not only with the platforms."
+    },
+    {
+     "s": "Зловмисники намагалися заволодіти ___ користувачів.",
+     "a": "паролями",
+     "o": [
+      "паролі",
+      "паролів"
+     ],
+     "t": "The attackers tried to get hold of users' passwords."
+    },
+    {
+     "s": "___ дані було зашифровано, зловмисники так і не змогли їх прочитати.",
+     "a": "Оскільки",
+     "o": [
+      "Хоча",
+      "Щоб"
+     ],
+     "t": "Since the data had been encrypted, the attackers never managed to read it."
+    },
+    {
+     "s": "Нова версія застосунку ___ значно швидшою за попередню.",
+     "a": "виявилася",
+     "o": [
+      "виявився",
+      "виявилося"
+     ],
+     "t": "The new version of the app turned out to be much faster than the previous one."
+    },
+    {
+     "s": "Минулого тижня ми двічі ___ на конференції до Львова.",
+     "a": "їздили",
+     "o": [
+      "їхали",
+      "їздять"
+     ],
+     "t": "Last week we went to conferences in Lviv twice."
+    },
+    {
+     "s": "Що надійніший пароль, ___ важче його зламати.",
+     "a": "то",
+     "o": [
+      "тим",
+      "так"
+     ],
+     "t": "The stronger the password, the harder it is to crack."
+    },
+    {
+     "s": "Якби ми зробили резервну копію, ми б не ___ всі фотографії.",
+     "a": "втратили",
+     "o": [
+      "втратимо",
+      "втрачаємо"
+     ],
+     "t": "If we had made a backup, we would not have lost all the photos."
+    },
+    {
+     "s": "За добу платформа видалила понад п'ять тисяч фейкових ___.",
+     "a": "акаунтів",
+     "o": [
+      "акаунти",
+      "акаунта"
+     ],
+     "t": "In one day the platform removed over five thousand fake accounts."
+    }
+   ],
+   "readings": [
+    {
+     "id": "uk-c1-2026-11-1",
+     "title": "Невидимий редактор",
+     "text": "Щоранку мільйони людей гортають стрічки новин, переконані, що самі обирають, що читати. Насправді між ними та інформацією стоїть невидимий посередник — алгоритм, який безперервно відстежує кожен клік, кожну затримку погляду на дописі. На основі цих даних він вибудовує для кожного користувача окремий світ, де переважають звичні думки й знайомі обличчя. Розробники запевняють, що прагнуть лише зробити платформи зручнішими. Проте дослідники медіа звертають увагу на побічний ефект: алгоритми віддають перевагу емоційному контентові, бо саме він утримує аудиторію найдовше. Через це обурливі заголовки поширюються значно швидше за виважену аналітику, а картина подій поступово спотворюється. Чи можна вирватися з такої «бульбашки»? Фахівці радять свідомо читати джерела з різними поглядами, періодично очищувати історію переглядів і не сприймати жодну стрічку як неупереджене віддзеркалення реальності. Зрештою, алгоритм не має власних переконань: він лише посилює те, на що ми самі найохочіше реагуємо. Відповідальність за те, яким буде наш інформаційний простір, лежить не тільки на корпораціях, а й на кожному з нас.",
+     "translation": "Every morning millions of people scroll through their news feeds, convinced that they themselves choose what to read. In reality, between them and the information stands an invisible intermediary — an algorithm that continuously tracks every click, every lingering glance at a post. Based on this data, it constructs a separate world for each user, in which familiar opinions and familiar faces predominate. Developers assure us that they only strive to make platforms more convenient. However, media researchers draw attention to a side effect: algorithms prefer emotional content, because it is precisely this that holds the audience longest. As a result, outrageous headlines spread much faster than balanced analysis, and the picture of events gradually becomes distorted. Is it possible to break free of such a \"bubble\"? Experts advise consciously reading sources with different views, periodically clearing one's browsing history, and not perceiving any feed as an impartial reflection of reality. After all, an algorithm has no beliefs of its own: it merely amplifies whatever we ourselves react to most willingly. Responsibility for what our information space will be like lies not only with corporations, but with each of us.",
+     "glossary": {
+      "гортають": "scroll through",
+      "стрічки": "feeds (стрічки новин = news feeds)",
+      "переконані": "convinced",
+      "посередник": "intermediary",
+      "безперервно": "continuously",
+      "відстежує": "tracks",
+      "затримку": "pause, lingering (затримку погляду = lingering glance)",
+      "погляду": "gaze (затримку погляду = lingering glance)",
+      "дописі": "post",
+      "вибудовує": "constructs, builds",
+      "переважають": "predominate",
+      "запевняють": "assure",
+      "прагнуть": "strive",
+      "побічний": "side (побічний ефект = side effect)",
+      "віддають": "give (віддають перевагу = prefer)",
+      "перевагу": "preference (віддають перевагу = prefer)",
+      "утримує": "holds, retains",
+      "обурливі": "outrageous",
+      "виважену": "balanced, measured",
+      "спотворюється": "becomes distorted",
+      "вирватися": "to break free",
+      "бульбашки": "bubble",
+      "свідомо": "consciously",
+      "очищувати": "to clear",
+      "неупереджене": "impartial",
+      "віддзеркалення": "reflection",
+      "переконань": "beliefs",
+      "посилює": "amplifies",
+      "найохочіше": "most willingly",
+      "відповідальність": "responsibility"
+     },
+     "questions": [
+      {
+       "q": "According to the text, why do algorithms favour emotional content?",
+       "o": [
+        "It keeps the audience engaged the longest",
+        "It is cheaper to produce",
+        "Developers are required to promote it"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What does the text say about an algorithm's own beliefs?",
+       "o": [
+        "It reflects the political views of corporations",
+        "It has none and only amplifies what we react to",
+        "It prefers balanced analysis"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Which piece of advice is mentioned in the text?",
+       "o": [
+        "Deleting all social media accounts",
+        "Relying on a single trusted feed",
+        "Consciously reading sources with different views"
+       ],
+       "a": 2
+      }
+     ]
+    },
+    {
+     "id": "uk-c1-2026-11-2",
+     "title": "Голос, якого не було",
+     "text": "Минулої осені пані Оксана, вчителька з Полтави, отримала дзвінок від «сина». Голос у слухавці був до болю знайомий: та сама інтонація, ті самі слівця. Син благав терміново переказати гроші, бо нібито потрапив у халепу. Лише випадково згадане ім'я собаки, якого в родині ніколи не було, змусило жінку засумніватися. Подібні історії вже давно не поодинокі. Зловмисникам досить кількох секунд запису з відео в соцмережах, щоб штучний інтелект відтворив будь-чий голос. Технологія, яку створювали для дублювання фільмів і допомоги людям, які втратили мовлення, стала зручним знаряддям шахраїв. Як запобігти обману? Фахівці з кібербезпеки радять домовитися з близькими про кодове слово, яке знатимуть лише члени родини, і завжди передзвонювати на відомий номер. Банки тим часом впроваджують системи, що розпізнають синтезоване мовлення, однак вичерпного захисту поки не існує. Тож найнадійнішим запобіжником залишається здоровий скептицизм. Довіра — надто цінна річ, щоб віддавати її першому-ліпшому голосу, навіть якщо він звучить зовсім як рідний.",
+     "translation": "Last autumn Ms Oksana, a teacher from Poltava, received a call from her \"son\". The voice on the line was painfully familiar: the same intonation, the same pet phrases. The son begged her to transfer money urgently, because he had supposedly got into trouble. Only the casually mentioned name of a dog that the family had never had made the woman start to doubt. Such stories have long ceased to be isolated cases. A few seconds of recording from a social media video are enough for fraudsters to have artificial intelligence reproduce anyone's voice. A technology that was created for dubbing films and helping people who had lost the ability to speak has become a handy tool for swindlers. How can deception be prevented? Cybersecurity experts advise agreeing with loved ones on a code word that only family members will know, and always calling back on a known number. Banks, meanwhile, are introducing systems that recognise synthesised speech, but there is no complete protection yet. So healthy scepticism remains the most reliable safeguard. Trust is too valuable a thing to hand over to just any voice, even if it sounds exactly like a loved one's.",
+     "glossary": {
+      "слухавці": "telephone receiver (у слухавці = on the line)",
+      "до": "to (до болю знайомий = painfully familiar)",
+      "болю": "pain (до болю знайомий = painfully familiar)",
+      "слівця": "pet phrases, favourite expressions",
+      "благав": "begged",
+      "переказати": "to transfer (money)",
+      "нібито": "supposedly",
+      "потрапив": "got (потрапив у халепу = got into trouble)",
+      "халепу": "mess, trouble (потрапив у халепу = got into trouble)",
+      "засумніватися": "to start doubting",
+      "поодинокі": "isolated, rare",
+      "зловмисникам": "to fraudsters, attackers",
+      "відтворив": "reproduced",
+      "дублювання": "dubbing",
+      "мовлення": "speech, ability to speak",
+      "знаряддям": "tool",
+      "шахраїв": "swindlers, fraudsters",
+      "запобігти": "to prevent",
+      "обману": "deception",
+      "передзвонювати": "to call back",
+      "впроваджують": "are introducing",
+      "розпізнають": "recognise",
+      "синтезоване": "synthesised",
+      "вичерпного": "complete, exhaustive",
+      "запобіжником": "safeguard",
+      "першому-ліпшому": "just any, the first one that comes along",
+      "рідний": "(the voice of) a loved one, a family member"
+     },
+     "questions": [
+      {
+       "q": "What made Oksana doubt the caller?",
+       "o": [
+        "He mentioned a dog the family never had",
+        "His voice sounded robotic",
+        "He asked for an unusually large sum"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What was the voice technology originally created for?",
+       "o": [
+        "Protecting bank accounts",
+        "Teaching foreign languages",
+        "Dubbing films and helping people who lost their speech"
+       ],
+       "a": 2
+      },
+      {
+       "q": "What conclusion does the text reach?",
+       "o": [
+        "Banks have fully solved the problem",
+        "Healthy scepticism remains the most reliable safeguard",
+        "People should stop answering unknown calls"
+       ],
+       "a": 1
+      }
+     ]
+    }
+   ]
+  },
+  "C2": {
+   "vocab": [
+    {
+     "w": "вразливість",
+     "m": "vulnerability (security flaw)",
+     "e": "Кожна нова функція може містити вразливість, про яку розробники ще не здогадуються.",
+     "et": "Every new feature may contain a vulnerability that the developers do not yet suspect."
+    },
+    {
+     "w": "шахрайство",
+     "m": "fraud, scam",
+     "e": "Інтернет-шахрайство щороку завдає мільйонних збитків.",
+     "et": "Internet fraud causes losses worth millions every year."
+    },
+    {
+     "w": "зловмисник",
+     "m": "malicious actor, attacker",
+     "f": [
+      "зловмисники",
+      "зловмисників"
+     ],
+     "e": "Зловмисник отримав доступ до листування через слабкий пароль.",
+     "et": "The attacker gained access to the correspondence because of a weak password."
+    },
+    {
+     "w": "стрічка",
+     "m": "feed (news or social media)",
+     "f": [
+      "стрічку"
+     ],
+     "e": "У стрічці новин знову з'явилася реклама.",
+     "et": "An advertisement appeared in the news feed again."
+    },
+    {
+     "w": "залежність",
+     "m": "addiction, dependence",
+     "e": "Залежність від смартфона вже визнають серйозною проблемою.",
+     "et": "Smartphone addiction is already recognised as a serious problem."
+    },
+    {
+     "w": "оприлюднити",
+     "m": "to make public, to publish",
+     "f": [
+      "оприлюднювати",
+      "оприлюднює"
+     ],
+     "e": "Компанія оприлюднила звіт про витік даних.",
+     "et": "The company published a report on the data leak."
+    },
+    {
+     "w": "невпинний",
+     "m": "relentless, incessant",
+     "f": [
+      "невпинним"
+     ],
+     "e": "Невпинний розвиток технологій лякає старше покоління.",
+     "et": "The relentless development of technology frightens the older generation."
+    },
+    {
+     "w": "ошукати",
+     "m": "to deceive, to swindle",
+     "f": [
+      "ошукає"
+     ],
+     "e": "Шахраї ошукали пенсіонерку, видаючи себе за банківських працівників.",
+     "et": "Swindlers deceived a pensioner by posing as bank employees."
+    },
+    {
+     "w": "застосунок",
+     "m": "app, application",
+     "f": [
+      "застосунки"
+     ],
+     "e": "Цей застосунок допомагає вивчати мови щодня.",
+     "et": "This app helps you learn languages every day."
+    },
+    {
+     "w": "знеособлений",
+     "m": "depersonalised, faceless",
+     "f": [
+      "знеособлену"
+     ],
+     "e": "Знеособлене спілкування в мережі породжує жорстокість.",
+     "et": "Faceless communication online breeds cruelty."
+    },
+    {
+     "w": "нав'язливий",
+     "m": "obtrusive, intrusive; obsessive",
+     "f": [
+      "найнав'язливіше"
+     ],
+     "e": "Нав'язлива реклама змусила мене відмовитися від підписки.",
+     "et": "Intrusive advertising made me cancel my subscription."
+    },
+    {
+     "w": "кмітливий",
+     "m": "quick-witted, savvy",
+     "f": [
+      "кмітливим"
+     ],
+     "e": "Кмітлива студентка швидко знайшла помилку в коді.",
+     "et": "The quick-witted student quickly found the bug in the code."
+    },
+    {
+     "w": "збій",
+     "m": "glitch, malfunction, failure",
+     "f": [
+      "збої"
+     ],
+     "e": "Через збій у системі рейс затримали на дві години.",
+     "et": "Because of a system glitch, the flight was delayed by two hours."
+    },
+    {
+     "w": "позірний",
+     "m": "apparent, seeming, illusory",
+     "f": [
+      "позірна",
+      "позірну"
+     ],
+     "e": "За позірним спокоєм ховалася тривога.",
+     "et": "Anxiety lurked behind the apparent calm."
+    },
+    {
+     "w": "оманливий",
+     "m": "deceptive, misleading",
+     "f": [
+      "оманливою"
+     ],
+     "e": "Перше враження буває оманливим.",
+     "et": "First impressions can be deceptive."
+    },
+    {
+     "w": "сповіщення",
+     "m": "notification",
+     "f": [
+      "сповіщень"
+     ],
+     "e": "Я вимкнув сповіщення, щоб спокійно попрацювати.",
+     "et": "I turned off notifications so I could work in peace."
+    },
+    {
+     "w": "прискіпливий",
+     "m": "meticulous, nitpicking",
+     "f": [
+      "прискіпливо"
+     ],
+     "e": "Прискіпливий редактор не пропустив жодної коми.",
+     "et": "The meticulous editor did not miss a single comma."
+    },
+    {
+     "w": "зневіра",
+     "m": "despondency, loss of faith",
+     "f": [
+      "зневіру"
+     ],
+     "e": "Після чергової невдачі його охопила зневіра.",
+     "et": "After yet another failure he was overcome by despondency."
+    },
+    {
+     "w": "безтямно",
+     "m": "mindlessly, senselessly",
+     "e": "Вона безтямно дивилася в екран, не бачачи слів.",
+     "et": "She stared mindlessly at the screen without seeing the words."
+    },
+    {
+     "w": "гортати",
+     "m": "to scroll, to leaf through",
+     "f": [
+      "гортав",
+      "гортає"
+     ],
+     "e": "Перед сном він звик гортати новини.",
+     "et": "He is used to scrolling through the news before bed."
+    },
+    {
+     "w": "уподобайка",
+     "m": "a like (on social media)",
+     "f": [
+      "уподобайок",
+      "уподобайками"
+     ],
+     "e": "Її світлина зібрала тисячу уподобайок за годину.",
+     "et": "Her photo got a thousand likes in an hour."
+    },
+    {
+     "w": "зухвалий",
+     "m": "audacious, brazen",
+     "f": [
+      "зухвалу",
+      "зухвалою"
+     ],
+     "e": "Це була зухвала спроба зламати урядовий сайт.",
+     "et": "It was a brazen attempt to hack a government website."
+    },
+    {
+     "w": "відлюдник",
+     "m": "recluse, hermit",
+     "f": [
+      "відлюдником"
+     ],
+     "e": "Після переїзду в село він жив як відлюдник.",
+     "et": "After moving to the village he lived like a hermit."
+    },
+    {
+     "w": "марнославство",
+     "m": "vanity",
+     "e": "Марнославство змушує людей виставляти напоказ кожен свій крок.",
+     "et": "Vanity makes people put their every step on display."
+    },
+    {
+     "w": "схибити",
+     "m": "to err, to slip up",
+     "f": [
+      "схибив"
+     ],
+     "e": "Хоч би як ти старався, колись неодмінно схибиш.",
+     "et": "However hard you try, sooner or later you will inevitably slip up."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "Телефонне шахрайство набуло таких масштабів, що банки змушені щотижня попереджати клієнтів.",
+     "t": "Phone fraud has reached such a scale that banks are forced to warn their customers every week."
+    },
+    {
+     "s": "Зловмисники дедалі частіше видають себе за працівників служби підтримки.",
+     "t": "Attackers increasingly pose as customer support staff."
+    },
+    {
+     "s": "Її дописи вирізнялися зухвалою іронією, яка водночас дратувала і приваблювала читачів.",
+     "t": "Her posts stood out for their brazen irony, which both irritated and attracted readers."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Учора я нарешті ___ цей застосунок і відразу відчув полегшення.",
+     "a": "видалив",
+     "o": [
+      "видалю",
+      "видаляти"
+     ],
+     "t": "Yesterday I finally deleted this app and immediately felt relief."
+    },
+    {
+     "s": "Користувачі скаржаться ___ постійні збої в роботі сайту.",
+     "a": "на",
+     "o": [
+      "про",
+      "за",
+      "у"
+     ],
+     "t": "Users complain about constant glitches in the website's operation."
+    },
+    {
+     "s": "Без надійного пароля ваш обліковий запис стає легкою здобиччю для ___.",
+     "a": "зловмисників",
+     "o": [
+      "зловмисники",
+      "зловмисникам",
+      "зловмисниках"
+     ],
+     "t": "Without a strong password, your account becomes easy prey for attackers."
+    },
+    {
+     "s": "Щоранку він ___ до офісу пішки, слухаючи подкасти.",
+     "a": "ходить",
+     "o": [
+      "піде",
+      "сходить",
+      "їздить"
+     ],
+     "t": "Every morning he walks to the office, listening to podcasts."
+    },
+    {
+     "s": "Я не можу зосередитися, ___ телефон постійно вібрує.",
+     "a": "бо",
+     "o": [
+      "щоб",
+      "хоча"
+     ],
+     "t": "I can't concentrate because my phone keeps vibrating."
+    },
+    {
+     "s": "Мені набридло стежити ___ новинами щогодини.",
+     "a": "за",
+     "o": [
+      "на",
+      "у",
+      "про"
+     ],
+     "t": "I'm tired of following the news every hour."
+    },
+    {
+     "s": "Ця програма захищає дані від ___ доступу.",
+     "a": "несанкціонованого",
+     "o": [
+      "несанкціонований",
+      "несанкціонованому",
+      "несанкціонованим"
+     ],
+     "t": "This program protects data from unauthorised access."
+    },
+    {
+     "s": "Якби ти вчасно ___ систему, вірус не потрапив би на комп'ютер.",
+     "a": "оновив",
+     "o": [
+      "оновиш",
+      "оновлюєш",
+      "оновити"
+     ],
+     "t": "If you had updated the system in time, the virus would not have got onto the computer."
+    },
+    {
+     "s": "Повідомлення надійшло о ___ годині ночі.",
+     "a": "третій",
+     "o": [
+      "третя",
+      "третю",
+      "третьої"
+     ],
+     "t": "The message arrived at three o'clock at night."
+    },
+    {
+     "s": "Вона годинами сидить ___ комп'ютером, забуваючи про сон.",
+     "a": "за",
+     "o": [
+      "на",
+      "під",
+      "біля"
+     ],
+     "t": "She sits at the computer for hours, forgetting about sleep."
+    }
+   ],
+   "readings": [
+    {
+     "id": "uk-c2-2026-11-1",
+     "title": "Відлюдник мимоволі",
+     "text": "Колись Остап вважав себе кмітливим користувачем, якого жоден зловмисник не ошукає. Він прискіпливо перевіряв кожне посилання, оновлював застосунки й посміювався з довірливих знайомих. Та одного вечора, втомлений і роздратований, він безтямно гортав стрічку й натрапив на зухвалу пропозицію: банк нібито виявив вразливість у його рахунку і просив терміново підтвердити дані. Позірна турбота виявилася оманливою, і за кілька хвилин з картки зникли всі заощадження. Наступного ранку Остап довго не міг отямитися. Його гнітила не так втрата грошей, як усвідомлення, що він схибив саме там, де почувався найсильнішим. Зневіра штовхнула його на крайній крок: він видалив усі соціальні мережі, вимкнув сповіщення і на місяць став справжнім відлюдником. Згодом, однак, він зрозумів, що втеча нічого не змінює. Шахрайство процвітає не через техніку, а через людську неуважність і марнославство, яке шепоче, ніби тебе це не стосується. Тепер Остап веде невеликий блог, де без зайвого пафосу розповідає про свою помилку. Уподобайок там небагато, проте кілька читачів уже подякували йому за те, що вчасно розпізнали пастку.",
+     "translation": "Ostap used to consider himself a savvy user whom no attacker could ever deceive. He meticulously checked every link, updated his apps and chuckled at his gullible acquaintances. But one evening, tired and irritated, he was mindlessly scrolling his feed and came across a brazen offer: the bank had supposedly discovered a vulnerability in his account and was asking him to confirm his details urgently. The apparent concern turned out to be deceptive, and within a few minutes all his savings vanished from his card. The next morning Ostap could not come to his senses for a long time. What weighed on him was not so much the loss of money as the realisation that he had slipped up precisely where he felt strongest. Despondency pushed him to an extreme step: he deleted all his social media, turned off notifications and for a month became a true hermit. Later, however, he realised that running away changes nothing. Fraud thrives not because of technology but because of human carelessness and the vanity that whispers that it has nothing to do with you. Now Ostap runs a small blog where, without unnecessary pathos, he tells the story of his mistake. It does not get many likes, but a few readers have already thanked him because they recognised the trap in time.",
+     "glossary": {
+      "мимоволі": "involuntarily, unwittingly",
+      "кмітливим": "savvy, quick-witted",
+      "користувачем": "user",
+      "зловмисник": "attacker, malicious actor",
+      "ошукає": "will deceive, will swindle",
+      "прискіпливо": "meticulously",
+      "посилання": "link",
+      "оновлював": "updated",
+      "застосунки": "apps",
+      "посміювався": "chuckled, mocked lightly",
+      "довірливих": "gullible, trusting",
+      "роздратований": "irritated",
+      "безтямно": "mindlessly",
+      "гортав": "was scrolling",
+      "стрічку": "feed",
+      "натрапив": "came across, stumbled upon",
+      "зухвалу": "brazen, audacious",
+      "нібито": "supposedly, allegedly",
+      "вразливість": "vulnerability",
+      "рахунку": "account",
+      "позірна": "apparent, seeming",
+      "турбота": "concern, care",
+      "оманливою": "deceptive",
+      "заощадження": "savings",
+      "отямитися": "to come to one's senses, to recover",
+      "гнітила": "weighed on, oppressed",
+      "усвідомлення": "realisation, awareness",
+      "схибив": "slipped up, erred",
+      "зневіра": "despondency, loss of faith",
+      "штовхнула": "pushed",
+      "крайній": "extreme (крайній крок = an extreme step, a drastic measure)",
+      "крок": "step (крайній крок = an extreme step, a drastic measure)",
+      "вимкнув": "turned off",
+      "сповіщення": "notifications",
+      "відлюдником": "hermit, recluse",
+      "втеча": "escape, running away",
+      "шахрайство": "fraud",
+      "процвітає": "thrives, flourishes",
+      "неуважність": "carelessness, inattention",
+      "марнославство": "vanity",
+      "шепоче": "whispers",
+      "пафосу": "pathos, grandiloquence",
+      "уподобайок": "likes (on social media)",
+      "розпізнали": "recognised",
+      "пастку": "trap"
+     },
+     "questions": [
+      {
+       "q": "How did Ostap lose his savings?",
+       "o": [
+        "He responded to a fake bank message about a vulnerability in his account.",
+        "His phone was stolen on the way home.",
+        "He invested in a fraudulent company."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What troubled Ostap most after the incident?",
+       "o": [
+        "His friends laughing at him.",
+        "Realising he had slipped up where he felt strongest.",
+        "The bank's refusal to help him."
+       ],
+       "a": 1
+      },
+      {
+       "q": "What does Ostap do now?",
+       "o": [
+        "He works for a bank's security department.",
+        "He has given up the internet for good.",
+        "He runs a small blog about his mistake."
+       ],
+       "a": 2
+      }
+     ]
+    },
+    {
+     "id": "uk-c2-2026-11-2",
+     "title": "Під дощем сповіщень",
+     "text": "Сучасна людина живе під невпинним дощем сповіщень. Кожен застосунок змагається за її увагу, і перемагає той, що найнав'язливіше нагадує про себе. Розробники давно збагнули, що залежність вигідніша за задоволення: користувач, який безтямно оновлює стрічку, приносить більше прибутку, ніж той, хто прийшов по конкретну інформацію і пішов. Соціальні мережі обіцяють спілкування, але часто пропонують лише його позірну подобу. Ми обмінюємося уподобайками, мов дрібними монетами, і, самі того не помічаючи, перетворюємося на знеособлену юрбу, що однаково реагує на ті самі подразники. Марнославство, якому колись потрібна була бодай якась публіка, тепер задовольняється лічильником переглядів. Утім, було б помилкою впадати в зневіру. Чимало людей свідомо обмежують час у мережі, вимикають зайві сигнали й повертаються до книжок, прогулянок і розмов наживо. Дехто навіть оприлюднює власні правила цифрової гігієни, аби надихнути інших. Технологія сама по собі не є ні добром, ні злом. Збій стається тоді, коли ми передовіряємо їй право вирішувати, на що витрачати власне життя.",
+     "translation": "Modern people live under a relentless rain of notifications. Every app competes for their attention, and the winner is the one that reminds them of itself most intrusively. Developers realised long ago that addiction is more profitable than satisfaction: a user who mindlessly refreshes the feed brings in more profit than one who came for specific information and left. Social networks promise communication but often offer only its illusory semblance. We exchange likes as if they were small coins and, without even noticing it, turn into a faceless crowd that reacts in the same way to the same stimuli. Vanity, which once needed at least some kind of audience, is now satisfied with a view counter. Still, it would be a mistake to fall into despair. Many people consciously limit their time online, turn off unnecessary alerts and return to books, walks and face-to-face conversations. Some even publish their own rules of digital hygiene in order to inspire others. Technology in itself is neither good nor evil. The failure occurs when we hand over to it the right to decide what to spend our own lives on.",
+     "glossary": {
+      "невпинним": "relentless, incessant",
+      "сповіщень": "of notifications",
+      "застосунок": "app",
+      "змагається": "competes",
+      "найнав'язливіше": "most intrusively",
+      "розробники": "developers",
+      "збагнули": "realised, grasped",
+      "залежність": "addiction",
+      "вигідніша": "more profitable",
+      "безтямно": "mindlessly",
+      "оновлює": "refreshes, updates",
+      "стрічку": "feed",
+      "прибутку": "profit",
+      "позірну": "illusory, apparent",
+      "подобу": "semblance, likeness",
+      "уподобайками": "likes (on social media)",
+      "мов": "like, as if",
+      "помічаючи": "noticing (самі того не помічаючи = without even noticing it)",
+      "знеособлену": "faceless, depersonalised",
+      "юрбу": "crowd, mob",
+      "подразники": "stimuli",
+      "марнославство": "vanity",
+      "бодай": "at least",
+      "задовольняється": "is satisfied, makes do",
+      "лічильником": "counter",
+      "переглядів": "of views",
+      "утім": "still, however",
+      "впадати": "to fall (впадати в зневіру = to fall into despair)",
+      "зневіру": "despair, despondency (впадати в зневіру = to fall into despair)",
+      "свідомо": "consciously, deliberately",
+      "наживо": "live, face to face",
+      "оприлюднює": "publishes, makes public",
+      "гігієни": "hygiene",
+      "надихнути": "to inspire",
+      "збій": "failure, malfunction",
+      "стається": "occurs, happens",
+      "передовіряємо": "hand over, delegate (trust to another)"
+     },
+     "questions": [
+      {
+       "q": "According to the text, why do developers encourage addiction?",
+       "o": [
+        "Because users demand it.",
+        "Because it is more profitable than satisfaction.",
+        "Because the law requires constant notifications."
+       ],
+       "a": 1
+      },
+      {
+       "q": "What does vanity now settle for, according to the author?",
+       "o": [
+        "A view counter.",
+        "A large live audience.",
+        "Praise from close friends."
+       ],
+       "a": 0
+      },
+      {
+       "q": "When, in the author's view, does the real failure occur?",
+       "o": [
+        "When an app crashes.",
+        "When people read too many books.",
+        "When we let technology decide what to spend our lives on."
+       ],
+       "a": 2
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

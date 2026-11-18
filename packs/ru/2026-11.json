@@ -1,0 +1,3016 @@
+{
+ "version": "2026-11",
+ "theme": "technology and the internet",
+ "levels": {
+  "A1": {
+   "vocab": [
+    {
+     "w": "компьютер",
+     "m": "computer",
+     "f": [
+      "компьютере"
+     ],
+     "e": "Компьютер стоит на столе.",
+     "et": "The computer is on the table."
+    },
+    {
+     "w": "телефон",
+     "m": "phone",
+     "f": [
+      "телефоне"
+     ],
+     "e": "Где мой телефон?",
+     "et": "Where is my phone?"
+    },
+    {
+     "w": "интернет",
+     "m": "internet",
+     "f": [
+      "интернете",
+      "интернета"
+     ],
+     "e": "Дома есть интернет.",
+     "et": "There is internet at home."
+    },
+    {
+     "w": "сайт",
+     "m": "website",
+     "e": "Это хороший сайт.",
+     "et": "This is a good website."
+    },
+    {
+     "w": "письмо",
+     "m": "letter, email",
+     "f": [
+      "письма"
+     ],
+     "e": "Это письмо от брата.",
+     "et": "This is a letter from my brother."
+    },
+    {
+     "w": "фото",
+     "m": "photo",
+     "e": "Вот моё фото.",
+     "et": "Here is my photo."
+    },
+    {
+     "w": "видео",
+     "m": "video",
+     "e": "Это видео очень смешное.",
+     "et": "This video is very funny."
+    },
+    {
+     "w": "пароль",
+     "m": "password",
+     "e": "Пароль очень длинный.",
+     "et": "The password is very long."
+    },
+    {
+     "w": "ноутбук",
+     "m": "laptop",
+     "f": [
+      "ноутбуке"
+     ],
+     "e": "Мой ноутбук старый.",
+     "et": "My laptop is old."
+    },
+    {
+     "w": "сообщение",
+     "m": "message",
+     "f": [
+      "сообщения"
+     ],
+     "e": "У вас новое сообщение.",
+     "et": "You have a new message."
+    },
+    {
+     "w": "игра",
+     "m": "game",
+     "f": [
+      "игры"
+     ],
+     "e": "Это интересная игра.",
+     "et": "This is an interesting game."
+    },
+    {
+     "w": "музыка",
+     "m": "music",
+     "f": [
+      "музыку"
+     ],
+     "e": "Я люблю музыку.",
+     "et": "I love music."
+    },
+    {
+     "w": "новый",
+     "m": "new",
+     "e": "У нас новый телевизор.",
+     "et": "We have a new TV."
+    },
+    {
+     "w": "быстрый",
+     "m": "fast",
+     "e": "Это быстрый компьютер.",
+     "et": "This is a fast computer."
+    },
+    {
+     "w": "писать",
+     "m": "to write",
+     "f": [
+      "пишу",
+      "пишет"
+     ],
+     "e": "Я пишу письмо.",
+     "et": "I am writing a letter."
+    },
+    {
+     "w": "смотреть",
+     "m": "to watch, to look",
+     "f": [
+      "смотрим",
+      "смотрю",
+      "смотрит"
+     ],
+     "e": "Они смотрят телевизор.",
+     "et": "They are watching TV."
+    },
+    {
+     "w": "слушать",
+     "m": "to listen",
+     "f": [
+      "слушает",
+      "слушаю"
+     ],
+     "e": "Он слушает радио.",
+     "et": "He is listening to the radio."
+    },
+    {
+     "w": "играть",
+     "m": "to play",
+     "f": [
+      "играет"
+     ],
+     "e": "Дети играют на компьютере.",
+     "et": "The children play on the computer."
+    },
+    {
+     "w": "работать",
+     "m": "to work",
+     "f": [
+      "работает",
+      "работаю"
+     ],
+     "e": "Телефон не работает.",
+     "et": "The phone does not work."
+    },
+    {
+     "w": "звонить",
+     "m": "to call (by phone)",
+     "f": [
+      "звонит"
+     ],
+     "e": "Я звоню брату.",
+     "et": "I am calling my brother."
+    },
+    {
+     "w": "знать",
+     "m": "to know",
+     "f": [
+      "знаю",
+      "знаешь"
+     ],
+     "e": "Я знаю его пароль.",
+     "et": "I know his password."
+    },
+    {
+     "w": "сын",
+     "m": "son",
+     "f": [
+      "сыну"
+     ],
+     "e": "Мой сын любит игры.",
+     "et": "My son loves games."
+    },
+    {
+     "w": "брат",
+     "m": "brother",
+     "f": [
+      "брату"
+     ],
+     "e": "У меня есть брат.",
+     "et": "I have a brother."
+    },
+    {
+     "w": "школа",
+     "m": "school",
+     "f": [
+      "школу"
+     ],
+     "e": "Школа рядом с домом.",
+     "et": "The school is near the house."
+    },
+    {
+     "w": "часто",
+     "m": "often",
+     "e": "Я часто смотрю видео.",
+     "et": "I often watch videos."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "У меня новый компьютер.",
+     "t": "I have a new computer."
+    },
+    {
+     "s": "Брат играет в игры.",
+     "t": "My brother plays games."
+    },
+    {
+     "s": "Я пишу сообщение брату.",
+     "t": "I am writing a message to my brother."
+    },
+    {
+     "s": "Интернет сегодня очень быстрый.",
+     "t": "The internet is very fast today."
+    },
+    {
+     "s": "Мы смотрим видео дома.",
+     "t": "We are watching a video at home."
+    },
+    {
+     "s": "Какой у тебя пароль?",
+     "t": "What is your password?"
+    },
+    {
+     "s": "Сын слушает музыку на телефоне.",
+     "t": "My son is listening to music on his phone."
+    },
+    {
+     "s": "Папа часто работает на ноутбуке.",
+     "t": "Dad often works on the laptop."
+    },
+    {
+     "s": "Я не знаю этот сайт.",
+     "t": "I don't know this website."
+    },
+    {
+     "s": "Она звонит мне вечером.",
+     "t": "She calls me in the evening."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Я работаю на ___.",
+     "a": "компьютере",
+     "o": [
+      "компьютер",
+      "компьютера"
+     ],
+     "t": "I work on a computer."
+    },
+    {
+     "s": "Мы ___ фильм.",
+     "a": "смотрим",
+     "o": [
+      "смотрит",
+      "смотрю"
+     ],
+     "t": "We are watching a film."
+    },
+    {
+     "s": "У меня нет ___.",
+     "a": "интернета",
+     "o": [
+      "интернет",
+      "интернетом"
+     ],
+     "t": "I don't have internet."
+    },
+    {
+     "s": "Это мой ___ телефон.",
+     "a": "новый",
+     "o": [
+      "новая",
+      "новое"
+     ],
+     "t": "This is my new phone."
+    },
+    {
+     "s": "Я пишу ___ брату.",
+     "a": "письмо",
+     "o": [
+      "письмом",
+      "письме"
+     ],
+     "t": "I am writing a letter to my brother."
+    },
+    {
+     "s": "Сын ___ в игры.",
+     "a": "играет",
+     "o": [
+      "играю",
+      "играют"
+     ],
+     "t": "My son plays games."
+    },
+    {
+     "s": "Она звонит ___.",
+     "a": "сыну",
+     "o": [
+      "сын",
+      "сына"
+     ],
+     "t": "She calls her son."
+    },
+    {
+     "s": "Я слушаю ___.",
+     "a": "музыку",
+     "o": [
+      "музыка",
+      "музыке"
+     ],
+     "t": "I am listening to music."
+    },
+    {
+     "s": "Он идёт в ___.",
+     "a": "школу",
+     "o": [
+      "школа",
+      "школе"
+     ],
+     "t": "He is going to school."
+    },
+    {
+     "s": "Ты ___ пароль?",
+     "a": "знаешь",
+     "o": [
+      "знает",
+      "знаю"
+     ],
+     "t": "Do you know the password?"
+    }
+   ],
+   "readings": [
+    {
+     "id": "ru-a1-2026-11-1",
+     "title": "Новый ноутбук",
+     "text": "Меня зовут Анна. Я живу в Москве. У меня новый ноутбук. Он маленький и быстрый. Утром я читаю новости в интернете. Днём я работаю на ноутбуке. Я пишу письма и сообщения. Вечером я смотрю видео и слушаю музыку. Мой брат тоже любит этот ноутбук. Он часто играет в игры. Но ноутбук мой, а не его.",
+     "translation": "My name is Anna. I live in Moscow. I have a new laptop. It is small and fast. In the morning I read the news on the internet. In the afternoon I work on the laptop. I write letters and messages. In the evening I watch videos and listen to music. My brother also loves this laptop. He often plays games. But the laptop is mine, not his.",
+     "glossary": {
+      "меня": "me (меня зовут = my name is)",
+      "зовут": "they call (меня зовут = my name is)",
+      "москве": "Moscow (в Москве = in Moscow)",
+      "новый": "new",
+      "ноутбук": "laptop",
+      "быстрый": "fast",
+      "утром": "in the morning",
+      "новости": "news",
+      "интернете": "internet (в интернете = on the internet)",
+      "днём": "in the afternoon, during the day",
+      "работаю": "I work",
+      "ноутбуке": "laptop (на ноутбуке = on the laptop)",
+      "пишу": "I write",
+      "письма": "letters, emails",
+      "сообщения": "messages",
+      "вечером": "in the evening",
+      "смотрю": "I watch",
+      "видео": "videos",
+      "слушаю": "I listen to",
+      "музыку": "music",
+      "брат": "brother",
+      "тоже": "also, too",
+      "этот": "this",
+      "часто": "often",
+      "играет": "plays (играет в игры = plays games)",
+      "игры": "games (играет в игры = plays games)",
+      "но": "but",
+      "а": "and, but (а не = and not, rather than)",
+      "его": "his"
+     },
+     "questions": [
+      {
+       "q": "What is Anna's laptop like?",
+       "o": [
+        "Big and old",
+        "Small and fast",
+        "Big and slow"
+       ],
+       "a": 1
+      },
+      {
+       "q": "When does Anna watch videos?",
+       "o": [
+        "In the morning",
+        "In the afternoon",
+        "In the evening"
+       ],
+       "a": 2
+      },
+      {
+       "q": "What does Anna's brother often do on the laptop?",
+       "o": [
+        "He plays games",
+        "He writes letters",
+        "He reads the news"
+       ],
+       "a": 0
+      }
+     ]
+    },
+    {
+     "id": "ru-a1-2026-11-2",
+     "title": "Бабушка и интернет",
+     "text": "Моя бабушка живёт в деревне. Она не умеет работать на компьютере. Но у неё есть телефон. Её внук Миша часто звонит ей. Он учит её писать сообщения. Теперь бабушка пишет сообщения каждый день. Она смотрит фото внука и читает новости. Ещё она слушает музыку в интернете. Бабушка очень рада. Интернет — это просто и удобно.",
+     "translation": "My grandmother lives in a village. She does not know how to work on a computer. But she has a phone. Her grandson Misha often calls her. He teaches her to write messages. Now Grandma writes messages every day. She looks at her grandson's photos and reads the news. She also listens to music on the internet. Grandma is very happy. The internet is simple and convenient.",
+     "glossary": {
+      "бабушка": "grandmother",
+      "живёт": "lives",
+      "деревне": "village (в деревне = in a village)",
+      "не": "not",
+      "умеет": "knows how, can (не умеет = does not know how)",
+      "работать": "to work",
+      "компьютере": "computer (на компьютере = on a computer)",
+      "у": "at, by (у неё есть = she has)",
+      "неё": "her (у неё есть = she has)",
+      "телефон": "phone",
+      "её": "her",
+      "внук": "grandson",
+      "часто": "often",
+      "звонит": "calls (by phone)",
+      "ей": "her, to her",
+      "учит": "teaches",
+      "писать": "to write",
+      "сообщения": "messages",
+      "теперь": "now",
+      "пишет": "writes",
+      "каждый": "every (каждый день = every day)",
+      "день": "day (каждый день = every day)",
+      "смотрит": "looks at",
+      "фото": "photos",
+      "внука": "of the grandson",
+      "новости": "news",
+      "ещё": "also, in addition",
+      "слушает": "listens to",
+      "музыку": "music",
+      "интернете": "internet (в интернете = on the internet)",
+      "рада": "happy, glad",
+      "интернет": "internet",
+      "просто": "simple",
+      "удобно": "convenient"
+     },
+     "questions": [
+      {
+       "q": "Where does the grandmother live?",
+       "o": [
+        "In a big city",
+        "In a village",
+        "With her grandson"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Who teaches the grandmother to write messages?",
+       "o": [
+        "Her son",
+        "Her neighbour",
+        "Her grandson Misha"
+       ],
+       "a": 2
+      },
+      {
+       "q": "What does the grandmother do every day now?",
+       "o": [
+        "She writes messages",
+        "She works on a computer",
+        "She plays games"
+       ],
+       "a": 0
+      }
+     ]
+    }
+   ]
+  },
+  "A2": {
+   "vocab": [
+    {
+     "w": "компьютер",
+     "m": "computer",
+     "f": [
+      "компьютера"
+     ],
+     "e": "Мой компьютер работает медленно.",
+     "et": "My computer works slowly."
+    },
+    {
+     "w": "телефон",
+     "m": "phone",
+     "e": "Мой телефон лежит на столе.",
+     "et": "My phone is on the table."
+    },
+    {
+     "w": "интернет",
+     "m": "internet",
+     "f": [
+      "интернете",
+      "интернета"
+     ],
+     "e": "В деревне плохой интернет.",
+     "et": "The internet is bad in the village."
+    },
+    {
+     "w": "сайт",
+     "m": "website",
+     "e": "Этот сайт помогает учить русский язык.",
+     "et": "This website helps you learn Russian."
+    },
+    {
+     "w": "пароль",
+     "m": "password",
+     "e": "Придумай сложный пароль.",
+     "et": "Come up with a strong password."
+    },
+    {
+     "w": "сообщение",
+     "m": "message",
+     "f": [
+      "сообщения"
+     ],
+     "e": "Я получил сообщение от мамы.",
+     "et": "I got a message from Mom."
+    },
+    {
+     "w": "приложение",
+     "m": "app, application",
+     "f": [
+      "приложением"
+     ],
+     "e": "Скачай это приложение, оно бесплатное.",
+     "et": "Download this app, it is free."
+    },
+    {
+     "w": "скачать",
+     "m": "to download",
+     "f": [
+      "скачала",
+      "скачал"
+     ],
+     "e": "Я хочу скачать эту игру.",
+     "et": "I want to download this game."
+    },
+    {
+     "w": "отправить",
+     "m": "to send",
+     "f": [
+      "отправь",
+      "отправила"
+     ],
+     "e": "Я отправлю тебе письмо вечером.",
+     "et": "I will send you a letter in the evening."
+    },
+    {
+     "w": "экран",
+     "m": "screen",
+     "f": [
+      "экране"
+     ],
+     "e": "У этого телефона большой экран.",
+     "et": "This phone has a big screen."
+    },
+    {
+     "w": "клавиатура",
+     "m": "keyboard",
+     "e": "Моя клавиатура совсем новая.",
+     "et": "My keyboard is completely new."
+    },
+    {
+     "w": "зарядка",
+     "m": "charger",
+     "f": [
+      "зарядку"
+     ],
+     "e": "Ты не видел мою зарядку?",
+     "et": "Have you seen my charger?"
+    },
+    {
+     "w": "ноутбук",
+     "m": "laptop",
+     "e": "Я беру ноутбук на работу.",
+     "et": "I take my laptop to work."
+    },
+    {
+     "w": "планшет",
+     "m": "tablet (device)",
+     "e": "Дети смотрят мультфильмы на планшете.",
+     "et": "The children watch cartoons on the tablet."
+    },
+    {
+     "w": "фотография",
+     "m": "photo",
+     "f": [
+      "фотографию",
+      "фотографии"
+     ],
+     "e": "Это фотография моей семьи.",
+     "et": "This is a photo of my family."
+    },
+    {
+     "w": "сеть",
+     "m": "network",
+     "f": [
+      "сети"
+     ],
+     "e": "В метро нет сети.",
+     "et": "There is no network in the metro."
+    },
+    {
+     "w": "включить",
+     "m": "to turn on",
+     "f": [
+      "включи"
+     ],
+     "e": "Включи, пожалуйста, свет.",
+     "et": "Please turn on the light."
+    },
+    {
+     "w": "выключить",
+     "m": "to turn off",
+     "f": [
+      "выключила",
+      "выключил",
+      "выключится"
+     ],
+     "e": "Выключи компьютер перед сном.",
+     "et": "Turn off the computer before bed."
+    },
+    {
+     "w": "искать",
+     "m": "to look for, to search",
+     "f": [
+      "ищу"
+     ],
+     "e": "Что ты ищешь?",
+     "et": "What are you looking for?"
+    },
+    {
+     "w": "забыть",
+     "m": "to forget",
+     "f": [
+      "забыл"
+     ],
+     "e": "Не забудь зарядку!",
+     "et": "Don't forget the charger!"
+    },
+    {
+     "w": "удобный",
+     "m": "convenient, comfortable",
+     "f": [
+      "удобная",
+      "удобное"
+     ],
+     "e": "Этот стул очень удобный.",
+     "et": "This chair is very comfortable."
+    },
+    {
+     "w": "новый",
+     "m": "new",
+     "f": [
+      "новое"
+     ],
+     "e": "У брата новый телефон.",
+     "et": "My brother has a new phone."
+    },
+    {
+     "w": "быстро",
+     "m": "quickly, fast",
+     "e": "Интернет работает быстро.",
+     "et": "The internet works fast."
+    },
+    {
+     "w": "сломаться",
+     "m": "to break (stop working)",
+     "f": [
+      "сломался"
+     ],
+     "e": "Телевизор опять сломался.",
+     "et": "The TV broke again."
+    },
+    {
+     "w": "проверить",
+     "m": "to check",
+     "f": [
+      "проверь"
+     ],
+     "e": "Проверь, пожалуйста, мой текст.",
+     "et": "Please check my text."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "Я забыл пароль от почты.",
+     "t": "I forgot my email password."
+    },
+    {
+     "s": "Мой старый ноутбук сломался.",
+     "t": "My old laptop broke."
+    },
+    {
+     "s": "Отправь мне фотографию, пожалуйста.",
+     "t": "Send me the photo, please."
+    },
+    {
+     "s": "В нашем кафе есть бесплатный интернет.",
+     "t": "Our café has free internet."
+    },
+    {
+     "s": "Я скачала новое приложение для изучения языков.",
+     "t": "I downloaded a new app for learning languages."
+    },
+    {
+     "s": "Телефон скоро выключится, где зарядка?",
+     "t": "The phone will turn off soon, where is the charger?"
+    },
+    {
+     "s": "Этот сайт очень удобный.",
+     "t": "This website is very convenient."
+    },
+    {
+     "s": "Включи компьютер и проверь сообщения.",
+     "t": "Turn on the computer and check the messages."
+    },
+    {
+     "s": "Я ищу информацию в интернете.",
+     "t": "I am looking for information on the internet."
+    },
+    {
+     "s": "Вечером я выключила телефон и читала книгу.",
+     "t": "In the evening I turned off my phone and read a book."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Мама ___ мне фотографию.",
+     "a": "отправила",
+     "o": [
+      "отправил",
+      "отправили",
+      "отправило"
+     ],
+     "t": "Mom sent me a photo."
+    },
+    {
+     "s": "Я читаю новости в ___.",
+     "a": "интернете",
+     "o": [
+      "интернет",
+      "интернета",
+      "интернету"
+     ],
+     "t": "I read the news on the internet."
+    },
+    {
+     "s": "Я не могу найти свою ___.",
+     "a": "зарядку",
+     "o": [
+      "зарядка",
+      "зарядки",
+      "зарядкой"
+     ],
+     "t": "I can't find my charger."
+    },
+    {
+     "s": "У меня нет ___.",
+     "a": "компьютера",
+     "o": [
+      "компьютер",
+      "компьютеру",
+      "компьютером"
+     ],
+     "t": "I don't have a computer."
+    },
+    {
+     "s": "Каждый день я ___ почту.",
+     "a": "проверяю",
+     "o": [
+      "проверю",
+      "проверил"
+     ],
+     "t": "I check my email every day."
+    },
+    {
+     "s": "Каждое утро я ___ в офис на метро.",
+     "a": "езжу",
+     "o": [
+      "иду",
+      "хожу",
+      "поеду"
+     ],
+     "t": "Every morning I go to the office by metro."
+    },
+    {
+     "s": "Я не умею пользоваться этим ___.",
+     "a": "приложением",
+     "o": [
+      "приложение",
+      "приложения",
+      "приложению"
+     ],
+     "t": "I don't know how to use this app."
+    },
+    {
+     "s": "Я не позвонил, ___ телефон сломался.",
+     "a": "потому что",
+     "o": [
+      "поэтому",
+      "если"
+     ],
+     "t": "I didn't call because the phone broke."
+    },
+    {
+     "s": "Я покажу ___ новый сайт.",
+     "a": "тебе",
+     "o": [
+      "ты",
+      "тебя",
+      "тобой"
+     ],
+     "t": "I will show you the new website."
+    },
+    {
+     "s": "Это очень ___ клавиатура.",
+     "a": "удобная",
+     "o": [
+      "удобный",
+      "удобное",
+      "удобную"
+     ],
+     "t": "This is a very comfortable keyboard."
+    }
+   ],
+   "readings": [
+    {
+     "id": "ru-a2-2026-11-1",
+     "title": "Бабушка и смартфон",
+     "text": "Бабушка Ольга живёт одна в маленьком городе. Раньше у неё был старый телефон без интернета. В прошлом месяце внук Миша подарил ей смартфон. Сначала бабушка боялась нажимать на кнопки. Миша показал ей, как включать телефон, писать сообщения и отправлять фотографии. Он скачал ей удобное приложение для видеозвонков. Теперь каждый вечер бабушка звонит внуку по видео. Она видит его лицо на экране и очень радуется. Ещё она нашла в интернете рецепты и читает новости. Бабушка говорит, что техника — это не так страшно.",
+     "translation": "Grandma Olga lives alone in a small town. Before, she had an old phone without internet. Last month her grandson Misha gave her a smartphone. At first Grandma was afraid to press the buttons. Misha showed her how to turn on the phone, write messages and send photos. He downloaded a convenient app for video calls for her. Now every evening Grandma calls her grandson by video. She sees his face on the screen and is very happy. She also found recipes on the internet and reads the news. Grandma says that technology is not so scary.",
+     "glossary": {
+      "одна": "alone",
+      "раньше": "before, earlier",
+      "без": "without",
+      "прошлом": "last (в прошлом месяце = last month)",
+      "месяце": "month (в прошлом месяце = last month)",
+      "внук": "grandson",
+      "внуку": "grandson (to the grandson)",
+      "подарил": "gave as a present",
+      "смартфон": "smartphone",
+      "сначала": "at first",
+      "боялась": "was afraid",
+      "нажимать": "to press",
+      "кнопки": "buttons",
+      "показал": "showed",
+      "включать": "to turn on",
+      "сообщения": "messages",
+      "отправлять": "to send",
+      "фотографии": "photos",
+      "скачал": "downloaded",
+      "удобное": "convenient",
+      "приложение": "app",
+      "видеозвонков": "video calls",
+      "теперь": "now",
+      "звонит": "calls",
+      "по": "by (звонит по видео = makes a video call)",
+      "видео": "video (звонит по видео = makes a video call)",
+      "лицо": "face",
+      "экране": "screen (on the screen)",
+      "радуется": "is happy",
+      "нашла": "found",
+      "рецепты": "recipes",
+      "новости": "news",
+      "техника": "technology, devices",
+      "страшно": "scary"
+     },
+     "questions": [
+      {
+       "q": "Who gave Grandma the smartphone?",
+       "o": [
+        "Her grandson Misha",
+        "Her daughter",
+        "A neighbour"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What does Grandma do every evening now?",
+       "o": [
+        "She reads books",
+        "She calls her grandson by video",
+        "She goes to the shop"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What did Grandma find on the internet?",
+       "o": [
+        "Films",
+        "Games",
+        "Recipes"
+       ],
+       "a": 2
+      }
+     ]
+    },
+    {
+     "id": "ru-a2-2026-11-2",
+     "title": "День без интернета",
+     "text": "В субботу в нашем доме не было интернета. Сначала я очень расстроился. Я не мог проверить почту, посмотреть фильм или поиграть в онлайн-игру. Без интернета мой ноутбук был почти не нужен. Потом я выключил компьютер и вышел на улицу. Я позвонил другу, и мы пошли в парк. Мы долго гуляли, разговаривали и пили кофе. Вечером я прочитал половину интересной книги. Интернет снова заработал только в воскресенье. Я понял, что день без сети — это тоже хорошо.",
+     "translation": "On Saturday there was no internet in our building. At first I was very upset. I couldn't check my email, watch a film or play an online game. Without the internet my laptop was almost useless. Then I turned off the computer and went outside. I called a friend, and we went to the park. We walked for a long time, talked and drank coffee. In the evening I read half of an interesting book. The internet started working again only on Sunday. I realised that a day without the network is also good.",
+     "glossary": {
+      "субботу": "Saturday (в субботу = on Saturday)",
+      "не": "not (не было = there was no)",
+      "было": "was (не было = there was no)",
+      "сначала": "at first",
+      "расстроился": "got upset",
+      "мог": "could",
+      "проверить": "to check",
+      "почту": "email, mail",
+      "посмотреть": "to watch",
+      "поиграть": "to play (for a while)",
+      "онлайн-игру": "online game",
+      "ноутбук": "laptop",
+      "почти": "almost",
+      "нужен": "needed (не нужен = not needed, useless)",
+      "потом": "then",
+      "выключил": "turned off",
+      "вышел": "went out",
+      "улицу": "street (вышел на улицу = went outside)",
+      "позвонил": "called",
+      "пошли": "went",
+      "долго": "for a long time",
+      "гуляли": "walked",
+      "разговаривали": "talked",
+      "пили": "drank",
+      "прочитал": "read",
+      "половину": "half",
+      "интересной": "interesting",
+      "снова": "again",
+      "заработал": "started working",
+      "воскресенье": "Sunday (в воскресенье = on Sunday)",
+      "понял": "realised",
+      "сети": "network",
+      "тоже": "also"
+     },
+     "questions": [
+      {
+       "q": "When did the internet start working again?",
+       "o": [
+        "On Saturday evening",
+        "On Sunday",
+        "On Monday"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Where did the narrator go with his friend?",
+       "o": [
+        "To the park",
+        "To the cinema",
+        "To a shop"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What did the narrator do in the evening?",
+       "o": [
+        "He watched a film",
+        "He played an online game",
+        "He read half of a book"
+       ],
+       "a": 2
+      }
+     ]
+    }
+   ]
+  },
+  "B1": {
+   "vocab": [
+    {
+     "w": "сеть",
+     "m": "network; signal",
+     "e": "В метро часто пропадает сеть.",
+     "et": "The signal often drops out in the metro."
+    },
+    {
+     "w": "скачивать",
+     "m": "to download",
+     "f": [
+      "скачивала",
+      "скачаю"
+     ],
+     "e": "Я часто скачиваю музыку на телефон.",
+     "et": "I often download music to my phone."
+    },
+    {
+     "w": "пароль",
+     "m": "password",
+     "f": [
+      "пароля"
+     ],
+     "e": "Придумай сложный пароль из букв и цифр.",
+     "et": "Come up with a complex password of letters and numbers."
+    },
+    {
+     "w": "приложение",
+     "m": "app, application",
+     "f": [
+      "приложений"
+     ],
+     "e": "Я заказываю такси через приложение.",
+     "et": "I order taxis through an app."
+    },
+    {
+     "w": "сообщение",
+     "m": "message",
+     "f": [
+      "сообщения"
+     ],
+     "e": "Напиши мне сообщение, когда приедешь.",
+     "et": "Send me a message when you arrive."
+    },
+    {
+     "w": "экран",
+     "m": "screen",
+     "f": [
+      "экране"
+     ],
+     "e": "У этого телефона очень большой экран.",
+     "et": "This phone has a very big screen."
+    },
+    {
+     "w": "зарядка",
+     "m": "charger",
+     "e": "Я забыл зарядку в гостинице.",
+     "et": "I left my charger at the hotel."
+    },
+    {
+     "w": "подключаться",
+     "m": "to connect",
+     "f": [
+      "подключиться"
+     ],
+     "e": "Телефон автоматически подключается к домашней сети.",
+     "et": "The phone automatically connects to the home network."
+    },
+    {
+     "w": "сайт",
+     "m": "website",
+     "f": [
+      "сайтов",
+      "сайта"
+     ],
+     "e": "На сайте музея можно купить билеты.",
+     "et": "You can buy tickets on the museum's website."
+    },
+    {
+     "w": "ссылка",
+     "m": "link",
+     "f": [
+      "ссылкам",
+      "ссылку"
+     ],
+     "e": "Нажми на ссылку, чтобы открыть страницу.",
+     "et": "Click the link to open the page."
+    },
+    {
+     "w": "пользователь",
+     "m": "user",
+     "f": [
+      "пользователи"
+     ],
+     "e": "У этой соцсети миллионы пользователей.",
+     "et": "This social network has millions of users."
+    },
+    {
+     "w": "данные",
+     "m": "data",
+     "e": "Не давай свои данные незнакомым людям.",
+     "et": "Don't give your data to strangers."
+    },
+    {
+     "w": "обновление",
+     "m": "update",
+     "f": [
+      "обновления"
+     ],
+     "e": "Вчера вышло новое обновление программы.",
+     "et": "A new update of the program came out yesterday."
+    },
+    {
+     "w": "безопасность",
+     "m": "safety, security",
+     "f": [
+      "безопасности"
+     ],
+     "e": "Безопасность детей в интернете очень важна.",
+     "et": "Children's safety on the internet is very important."
+    },
+    {
+     "w": "зависимость",
+     "m": "addiction, dependence",
+     "e": "У многих подростков зависимость от компьютерных игр.",
+     "et": "Many teenagers are addicted to computer games."
+    },
+    {
+     "w": "искать",
+     "m": "to look for, to search",
+     "f": [
+      "искала",
+      "искал"
+     ],
+     "e": "Я ищу работу через интернет.",
+     "et": "I am looking for a job on the internet."
+    },
+    {
+     "w": "отправлять",
+     "m": "to send",
+     "f": [
+      "отправляла",
+      "отправлю"
+     ],
+     "e": "Мама каждый день отправляет мне фотографии кота.",
+     "et": "Mum sends me photos of the cat every day."
+    },
+    {
+     "w": "удалять",
+     "m": "to delete",
+     "f": [
+      "удалила",
+      "удаляла"
+     ],
+     "e": "Я удаляю старые письма каждую неделю.",
+     "et": "I delete old emails every week."
+    },
+    {
+     "w": "сохранять",
+     "m": "to save",
+     "f": [
+      "сохранить"
+     ],
+     "e": "Сохраняй важные файлы на флешке.",
+     "et": "Save important files on a flash drive."
+    },
+    {
+     "w": "облако",
+     "m": "cloud (also online storage)",
+     "f": [
+      "облаке"
+     ],
+     "e": "Я храню документы в облаке.",
+     "et": "I keep my documents in the cloud."
+    },
+    {
+     "w": "программист",
+     "m": "programmer",
+     "f": [
+      "программистом"
+     ],
+     "e": "Мой друг хочет стать программистом.",
+     "et": "My friend wants to become a programmer."
+    },
+    {
+     "w": "реклама",
+     "m": "advertising, ads",
+     "e": "По телевизору слишком много рекламы.",
+     "et": "There is too much advertising on TV."
+    },
+    {
+     "w": "личный",
+     "m": "personal",
+     "f": [
+      "личные"
+     ],
+     "e": "Это мой личный компьютер.",
+     "et": "This is my personal computer."
+    },
+    {
+     "w": "мешать",
+     "m": "to bother, to get in the way",
+     "f": [
+      "мешает"
+     ],
+     "e": "Музыка мешает мне работать.",
+     "et": "The music keeps me from working."
+    },
+    {
+     "w": "вместо",
+     "m": "instead of",
+     "e": "Вместо письма он отправил короткое сообщение.",
+     "et": "Instead of a letter, he sent a short message."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "Я забыл пароль от своей почты.",
+     "t": "I forgot the password to my email."
+    },
+    {
+     "s": "Это приложение помогает учить иностранные языки.",
+     "t": "This app helps you learn foreign languages."
+    },
+    {
+     "s": "В деревне плохая сеть, и звонить трудно.",
+     "t": "The signal in the village is bad, and it is hard to make calls."
+    },
+    {
+     "s": "Не забудь сохранить файл, прежде чем выключить компьютер.",
+     "t": "Don't forget to save the file before you turn off the computer."
+    },
+    {
+     "s": "Мой брат работает программистом в большой компании.",
+     "t": "My brother works as a programmer at a big company."
+    },
+    {
+     "s": "Я отправлю тебе ссылку на этот сайт.",
+     "t": "I will send you the link to this website."
+    },
+    {
+     "s": "Пользователи жалуются, что после обновления телефон работает медленно.",
+     "t": "Users complain that the phone works slowly after the update."
+    },
+    {
+     "s": "У меня садится телефон, у тебя есть зарядка?",
+     "t": "My phone is dying, do you have a charger?"
+    },
+    {
+     "s": "Все мои фотографии хранятся в облаке.",
+     "t": "All my photos are stored in the cloud."
+    },
+    {
+     "s": "Я не люблю, когда реклама мешает смотреть видео.",
+     "t": "I don't like it when ads get in the way of watching videos."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Я не могу подключиться ___ интернету.",
+     "a": "к",
+     "o": [
+      "в",
+      "на",
+      "с"
+     ],
+     "t": "I can't connect to the internet."
+    },
+    {
+     "s": "Вчера я весь вечер ___ нужную информацию в интернете.",
+     "a": "искал",
+     "o": [
+      "нашёл",
+      "ищу",
+      "найду"
+     ],
+     "t": "Yesterday I spent the whole evening searching for the information I needed on the internet."
+    },
+    {
+     "s": "Отправь мне, пожалуйста, ___ на эту статью.",
+     "a": "ссылку",
+     "o": [
+      "ссылка",
+      "ссылкой",
+      "ссылке"
+     ],
+     "t": "Please send me the link to this article."
+    },
+    {
+     "s": "У меня нет ___ от этого сайта.",
+     "a": "пароля",
+     "o": [
+      "пароль",
+      "паролем",
+      "паролю"
+     ],
+     "t": "I don't have the password for this website."
+    },
+    {
+     "s": "Мне нравится это приложение, ___ оно бесплатное.",
+     "a": "потому что",
+     "o": [
+      "поэтому",
+      "чтобы"
+     ],
+     "t": "I like this app because it is free."
+    },
+    {
+     "s": "Когда я ___ этот фильм, я тебе позвоню.",
+     "a": "скачаю",
+     "o": [
+      "скачиваю",
+      "скачал",
+      "скачивал"
+     ],
+     "t": "When I have downloaded this film, I will call you."
+    },
+    {
+     "s": "Мы долго говорили о ___ в интернете.",
+     "a": "безопасности",
+     "o": [
+      "безопасность",
+      "безопасностью"
+     ],
+     "t": "We talked for a long time about safety on the internet."
+    },
+    {
+     "s": "Завтра я ___ в магазин за новым ноутбуком.",
+     "a": "пойду",
+     "o": [
+      "хожу",
+      "ходил",
+      "пошёл"
+     ],
+     "t": "Tomorrow I will go to the shop for a new laptop."
+    },
+    {
+     "s": "Каждый вечер мой сын ___ в компьютерные игры.",
+     "a": "играет",
+     "o": [
+      "сыграет",
+      "поиграет",
+      "играть"
+     ],
+     "t": "Every evening my son plays computer games."
+    },
+    {
+     "s": "Я пользуюсь ___ телефоном уже пять лет.",
+     "a": "этим",
+     "o": [
+      "этот",
+      "этого",
+      "этому"
+     ],
+     "t": "I have been using this phone for five years already."
+    }
+   ],
+   "readings": [
+    {
+     "id": "ru-b1-2026-11-1",
+     "title": "Неделя без телефона",
+     "text": "В прошлом месяце Марина решила провести неделю без смартфона. Она давно заметила, что у неё появилась настоящая зависимость: утром она сразу проверяла сообщения, а вечером часами смотрела видео. Первые два дня были очень трудными. Марина постоянно искала телефон в кармане и не знала, который час. Но потом она начала читать бумажные книги и гулять в парке вместо того, чтобы сидеть в соцсетях. Она звонила родителям с домашнего телефона и встречалась с друзьями чаще. Когда неделя закончилась, Марина снова включила смартфон. Она удалила несколько приложений, которые отнимали у неё слишком много времени. Теперь она проверяет почту только два раза в день и чувствует себя спокойнее.",
+     "translation": "Last month Marina decided to spend a week without her smartphone. She had noticed long ago that she had developed a real addiction: in the morning she immediately checked her messages, and in the evening she watched videos for hours. The first two days were very hard. Marina constantly looked for the phone in her pocket and didn't know what time it was. But then she began reading paper books and walking in the park instead of sitting on social networks. She called her parents from the landline and met her friends more often. When the week was over, Marina turned her smartphone on again. She deleted several apps that took up too much of her time. Now she checks her email only twice a day and feels calmer.",
+     "glossary": {
+      "провести": "to spend (time)",
+      "смартфона": "smartphone",
+      "заметила": "noticed",
+      "появилась": "had appeared, had developed",
+      "настоящая": "real",
+      "зависимость": "addiction",
+      "сразу": "immediately",
+      "проверяла": "checked",
+      "сообщения": "messages",
+      "часами": "for hours",
+      "постоянно": "constantly",
+      "искала": "looked for",
+      "кармане": "pocket",
+      "который": "which (который час = what time it is)",
+      "час": "hour (который час = what time it is)",
+      "бумажные": "paper",
+      "вместо": "instead (вместо того, чтобы = instead of doing)",
+      "того": "that (вместо того, чтобы = instead of doing)",
+      "соцсетях": "social networks",
+      "домашнего": "home (домашний телефон = landline)",
+      "чаще": "more often",
+      "закончилась": "ended",
+      "включила": "turned on",
+      "удалила": "deleted",
+      "приложений": "apps",
+      "отнимали": "took away (time)",
+      "почту": "email",
+      "чувствует": "feels (чувствует себя = feels)",
+      "себя": "oneself (чувствует себя = feels)",
+      "спокойнее": "calmer"
+     },
+     "questions": [
+      {
+       "q": "Why did Marina decide to spend a week without her phone?",
+       "o": [
+        "She noticed she was addicted to it.",
+        "Her phone was broken.",
+        "Her parents asked her to."
+       ],
+       "a": 0
+      },
+      {
+       "q": "What did Marina do instead of sitting on social networks?",
+       "o": [
+        "She watched TV.",
+        "She played computer games.",
+        "She read paper books and walked in the park."
+       ],
+       "a": 2
+      },
+      {
+       "q": "How often does Marina check her email now?",
+       "o": [
+        "Once a week.",
+        "Twice a day.",
+        "Every hour."
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "id": "ru-b1-2026-11-2",
+     "title": "Бабушка в интернете",
+     "text": "Моей бабушке семьдесят два года. Ещё год назад она совсем не пользовалась интернетом и говорила, что это не для неё. Всё изменилось, когда мой брат уехал работать в другой город. Бабушка очень скучала и попросила меня научить её звонить по видеосвязи. Сначала было непросто: она забывала пароль, нажимала не те кнопки и случайно удаляла фотографии. Я написал ей простую инструкцию крупными буквами. Через месяц бабушка уже сама отправляла сообщения и скачивала рецепты с кулинарных сайтов. Теперь она каждое воскресенье разговаривает с братом и видит его лицо на экране. Недавно она даже спросила меня, как защитить личные данные. Я объяснил ей правила безопасности: никогда не переходить по странным ссылкам и не сообщать никому свой пароль.",
+     "translation": "My grandmother is seventy-two years old. Just a year ago she did not use the internet at all and said that it was not for her. Everything changed when my brother moved to another city for work. Grandma missed him very much and asked me to teach her to make video calls. At first it was not easy: she forgot her password, pressed the wrong buttons and accidentally deleted photos. I wrote her simple instructions in large letters. A month later Grandma was already sending messages and downloading recipes from cooking websites on her own. Now every Sunday she talks with my brother and sees his face on the screen. Recently she even asked me how to protect her personal data. I explained the safety rules to her: never click on strange links and never tell anyone your password.",
+     "glossary": {
+      "пользовалась": "used",
+      "изменилось": "changed",
+      "уехал": "moved away, left",
+      "скучала": "missed (him)",
+      "попросила": "asked",
+      "научить": "to teach",
+      "по": "by, via (звонить по видеосвязи = to make video calls; переходить по ссылкам = to click on links)",
+      "видеосвязи": "video link (звонить по видеосвязи = to make video calls)",
+      "непросто": "not easy",
+      "забывала": "forgot",
+      "пароль": "password",
+      "нажимала": "pressed",
+      "те": "those (не те кнопки = the wrong buttons)",
+      "кнопки": "buttons",
+      "случайно": "accidentally",
+      "удаляла": "deleted",
+      "простую": "simple",
+      "инструкцию": "instructions",
+      "крупными": "large",
+      "буквами": "letters",
+      "отправляла": "sent",
+      "скачивала": "downloaded",
+      "рецепты": "recipes",
+      "кулинарных": "cooking",
+      "сайтов": "websites",
+      "экране": "screen",
+      "недавно": "recently",
+      "защитить": "to protect",
+      "личные": "personal",
+      "данные": "data",
+      "объяснил": "explained",
+      "правила": "rules",
+      "безопасности": "safety, security",
+      "переходить": "to go over (переходить по ссылкам = to click on links)",
+      "странным": "strange",
+      "ссылкам": "links",
+      "сообщать": "to tell, to give out",
+      "никому": "to nobody"
+     },
+     "questions": [
+      {
+       "q": "Why did the grandmother want to learn to make video calls?",
+       "o": [
+        "She wanted to shop online.",
+        "Her grandson moved to another city for work.",
+        "Her doctor advised it."
+       ],
+       "a": 1
+      },
+      {
+       "q": "How did the narrator help his grandmother?",
+       "o": [
+        "He bought her a new computer.",
+        "He took her to a computer course.",
+        "He wrote her simple instructions in large letters."
+       ],
+       "a": 2
+      },
+      {
+       "q": "What did the grandmother recently ask about?",
+       "o": [
+        "How to protect her personal data.",
+        "How to download films.",
+        "How to create a website."
+       ],
+       "a": 0
+      }
+     ]
+    }
+   ]
+  },
+  "B2": {
+   "vocab": [
+    {
+     "w": "устройство",
+     "m": "device",
+     "f": [
+      "устройства",
+      "устройств",
+      "устройстве"
+     ],
+     "e": "Я могу открыть эту программу с любого устройства.",
+     "et": "I can open this program from any device."
+    },
+    {
+     "w": "приложение",
+     "m": "app, application",
+     "f": [
+      "приложении",
+      "приложения"
+     ],
+     "e": "Это приложение помогает следить за расходами.",
+     "et": "This app helps you keep track of your expenses."
+    },
+    {
+     "w": "пароль",
+     "m": "password",
+     "f": [
+      "пароли",
+      "пароля"
+     ],
+     "e": "Никогда не сообщайте свой пароль незнакомым людям.",
+     "et": "Never tell your password to strangers."
+    },
+    {
+     "w": "пользователь",
+     "m": "user",
+     "f": [
+      "пользователи"
+     ],
+     "e": "Каждый пользователь может настроить программу под себя.",
+     "et": "Every user can customize the program to suit themselves."
+    },
+    {
+     "w": "данные",
+     "m": "data",
+     "f": [
+      "данным"
+     ],
+     "e": "Компания обещает не передавать наши данные третьим лицам.",
+     "et": "The company promises not to share our data with third parties."
+    },
+    {
+     "w": "уведомление",
+     "m": "notification",
+     "f": [
+      "уведомления"
+     ],
+     "e": "Я отключил уведомления, чтобы спокойно поработать.",
+     "et": "I turned off notifications so I could work in peace."
+    },
+    {
+     "w": "обновление",
+     "m": "update",
+     "f": [
+      "обновления"
+     ],
+     "e": "После обновления телефон стал работать медленнее.",
+     "et": "After the update the phone started working more slowly."
+    },
+    {
+     "w": "подписка",
+     "m": "subscription",
+     "f": [
+      "подписки",
+      "подписку"
+     ],
+     "e": "Подписка на этот сервис стоит недорого.",
+     "et": "A subscription to this service is inexpensive."
+    },
+    {
+     "w": "зависимость",
+     "m": "addiction, dependence",
+     "e": "Зависимость от смартфона мешает ему учиться.",
+     "et": "His smartphone addiction gets in the way of his studies."
+    },
+    {
+     "w": "мошенник",
+     "m": "fraudster, scammer",
+     "f": [
+      "мошенники"
+     ],
+     "e": "Мошенник представился сотрудником банка.",
+     "et": "The scammer introduced himself as a bank employee."
+    },
+    {
+     "w": "доступ",
+     "m": "access",
+     "e": "У гостей нет доступа к этой папке.",
+     "et": "Guests have no access to this folder."
+    },
+    {
+     "w": "сеть",
+     "m": "network; the internet",
+     "f": [
+      "сети",
+      "сетей"
+     ],
+     "e": "Эта фотография быстро появилась в сети.",
+     "et": "This photo quickly appeared online."
+    },
+    {
+     "w": "алгоритм",
+     "m": "algorithm",
+     "f": [
+      "алгоритмы"
+     ],
+     "e": "Новый алгоритм лучше понимает запросы пользователей.",
+     "et": "The new algorithm understands users' queries better."
+    },
+    {
+     "w": "скачать",
+     "m": "to download (perfective)",
+     "f": [
+      "скачал"
+     ],
+     "e": "Можно скачать эту книгу бесплатно?",
+     "et": "Can this book be downloaded for free?"
+    },
+    {
+     "w": "удалять",
+     "m": "to delete, to remove",
+     "f": [
+      "удалить",
+      "удалённые"
+     ],
+     "e": "Я регулярно удаляю старые письма.",
+     "et": "I regularly delete old emails."
+    },
+    {
+     "w": "хранить",
+     "m": "to store, to keep",
+     "e": "Где лучше хранить семейные фотографии?",
+     "et": "Where is the best place to store family photos?"
+    },
+    {
+     "w": "подключаться",
+     "m": "to connect (to)",
+     "f": [
+      "подключившиеся"
+     ],
+     "e": "Телефон автоматически подключается к домашней сети.",
+     "et": "The phone automatically connects to the home network."
+    },
+    {
+     "w": "отвлекаться",
+     "m": "to get distracted",
+     "f": [
+      "отвлекается",
+      "отвлекаюсь"
+     ],
+     "e": "Постарайся не отвлекаться во время экзамена.",
+     "et": "Try not to get distracted during the exam."
+    },
+    {
+     "w": "распространять",
+     "m": "to spread, to distribute",
+     "f": [
+      "распространяет",
+      "распространяются"
+     ],
+     "e": "Некоторые сайты специально распространяют ложную информацию.",
+     "et": "Some websites deliberately spread false information."
+    },
+    {
+     "w": "взламывать",
+     "m": "to hack, to break into",
+     "f": [
+      "взломали",
+      "взломать"
+     ],
+     "e": "Хакеры взламывают аккаунты с простыми паролями.",
+     "et": "Hackers break into accounts with simple passwords."
+    },
+    {
+     "w": "достоверный",
+     "m": "reliable, trustworthy (of information)",
+     "f": [
+      "достоверных"
+     ],
+     "e": "Журналист должен опираться на достоверные источники.",
+     "et": "A journalist must rely on trustworthy sources."
+    },
+    {
+     "w": "подозрительный",
+     "m": "suspicious",
+     "f": [
+      "подозрительные"
+     ],
+     "e": "Мне пришло подозрительное письмо с просьбой прислать деньги.",
+     "et": "I received a suspicious email asking me to send money."
+    },
+    {
+     "w": "постепенно",
+     "m": "gradually",
+     "e": "Постепенно он привык к новой программе.",
+     "et": "Gradually he got used to the new program."
+    },
+    {
+     "w": "рассчитывать",
+     "m": "to count on, to rely on",
+     "f": [
+      "рассчитывает"
+     ],
+     "e": "Мы рассчитываем на твою помощь.",
+     "et": "We are counting on your help."
+    },
+    {
+     "w": "впрочем",
+     "m": "however, though",
+     "e": "Фильм длинный, впрочем, смотреть его интересно.",
+     "et": "The film is long; it is interesting to watch, though."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "Без надёжного пароля любой аккаунт легко взломать.",
+     "t": "Without a strong password any account is easy to hack."
+    },
+    {
+     "s": "Пользователи, подключившиеся к бесплатной сети в кафе, рискуют потерять личные данные.",
+     "t": "Users who have connected to a free network in a café risk losing their personal data."
+    },
+    {
+     "s": "Компания распространяет обновление постепенно, чтобы избежать сбоев.",
+     "t": "The company is rolling out the update gradually to avoid failures."
+    },
+    {
+     "s": "Не стоит рассчитывать на то, что удалённые фотографии исчезнут из интернета навсегда.",
+     "t": "You should not count on deleted photos disappearing from the internet forever."
+    },
+    {
+     "s": "Я постоянно отвлекаюсь на уведомления, поэтому выключаю телефон во время работы.",
+     "t": "I constantly get distracted by notifications, so I switch off my phone while working."
+    },
+    {
+     "s": "Алгоритм подбирает рекламу, основываясь на том, что пользователь искал раньше.",
+     "t": "The algorithm selects ads based on what the user searched for before."
+    },
+    {
+     "s": "Он отменил подписку, так как давно не пользовался этим сервисом.",
+     "t": "He cancelled the subscription because he had not used this service for a long time."
+    },
+    {
+     "s": "Хранить важные документы только на одном устройстве довольно рискованно.",
+     "t": "Keeping important documents on only one device is rather risky."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Я забыл ___ от почты и не могу войти.",
+     "a": "пароль",
+     "o": [
+      "пароля",
+      "паролем",
+      "паролю"
+     ],
+     "t": "I forgot my email password and cannot log in."
+    },
+    {
+     "s": "Вчера я ___ новую версию программы, и теперь всё работает быстрее.",
+     "a": "скачал",
+     "o": [
+      "скачаю",
+      "скачиваю",
+      "скачать"
+     ],
+     "t": "Yesterday I downloaded the new version of the program, and now everything works faster."
+    },
+    {
+     "s": "Ребёнок не может долго заниматься уроками: он постоянно отвлекается ___ телефон.",
+     "a": "на",
+     "o": [
+      "от",
+      "за",
+      "в"
+     ],
+     "t": "The child cannot do homework for long: he keeps getting distracted by his phone."
+    },
+    {
+     "s": "Студенты, ___ к университетской сети, получают доступ к электронной библиотеке.",
+     "a": "подключившиеся",
+     "o": [
+      "подключившимся",
+      "подключившихся",
+      "подключившийся"
+     ],
+     "t": "Students who have connected to the university network get access to the electronic library."
+    },
+    {
+     "s": "Если бы мы вовремя установили обновление, хакеры не ___ бы систему.",
+     "a": "взломали",
+     "o": [
+      "взломают",
+      "взломать",
+      "взламывают"
+     ],
+     "t": "If we had installed the update in time, the hackers would not have broken into the system."
+    },
+    {
+     "s": "Многие пользователи не доверяют ___, которые хранят их данные.",
+     "a": "компаниям",
+     "o": [
+      "компания",
+      "компаниями",
+      "компаний"
+     ],
+     "t": "Many users do not trust the companies that store their data."
+    },
+    {
+     "s": "Нельзя рассчитывать ___ то, что пароль никто не узнает.",
+     "a": "на",
+     "o": [
+      "в",
+      "о",
+      "за"
+     ],
+     "t": "You cannot count on nobody finding out your password."
+    },
+    {
+     "s": "Эта новость быстро ___ по социальным сетям, хотя она была ложной.",
+     "a": "распространилась",
+     "o": [
+      "распространила",
+      "распространилось",
+      "распространились"
+     ],
+     "t": "This news spread quickly across social networks, although it was false."
+    },
+    {
+     "s": "Я удалил все сообщения, ___ мошенники не смогли их прочитать.",
+     "a": "чтобы",
+     "o": [
+      "что",
+      "если",
+      "хотя"
+     ],
+     "t": "I deleted all the messages so that the scammers could not read them."
+    },
+    {
+     "s": "Без доступа ___ интернету современный бизнес практически невозможен.",
+     "a": "к",
+     "o": [
+      "в",
+      "на",
+      "до"
+     ],
+     "t": "Without access to the internet, modern business is practically impossible."
+    }
+   ],
+   "readings": [
+    {
+     "id": "ru-b2-2026-11-1",
+     "title": "Забытый пароль",
+     "text": "Анна давно привыкла хранить все пароли в одном приложении на телефоне. Это казалось ей удобным и надёжным. Однажды вечером она получила уведомление: кто-то пытался войти в её почту с незнакомого устройства. Сначала Анна решила, что это ошибка, но через минуту пришло второе сообщение. Она сразу поменяла пароль и отключила телефон от сети. Утром Анна позвонила брату, который работает программистом. Он объяснил, что мошенники, скорее всего, взломали сайт, на котором она когда-то зарегистрировалась, и получили доступ к её старым данным. Если бы она использовала разные пароли, ничего бы не случилось. Брат помог ей установить двухфакторную аутентификацию и удалить аккаунты, которыми она давно не пользовалась. Теперь Анна не рассчитывает на удачу: она регулярно проверяет обновления и никогда не открывает подозрительные ссылки. Впрочем, она признаётся, что иногда скучает по тем временам, когда интернет казался безопасным местом.",
+     "translation": "Anna had long been used to storing all her passwords in one app on her phone. It seemed convenient and secure to her. One evening she received a notification: someone was trying to log in to her email from an unfamiliar device. At first Anna decided it was a mistake, but a minute later a second message arrived. She immediately changed her password and disconnected her phone from the network. In the morning Anna called her brother, who works as a programmer. He explained that scammers had most likely hacked a website where she had once registered and gained access to her old data. If she had used different passwords, nothing would have happened. Her brother helped her set up two-factor authentication and delete the accounts she had not used for a long time. Now Anna does not count on luck: she regularly checks for updates and never opens suspicious links. However, she admits that she sometimes misses the days when the internet seemed a safe place.",
+     "glossary": {
+      "привыкла": "had got used to",
+      "хранить": "to store",
+      "пароли": "passwords",
+      "приложении": "app",
+      "надёжным": "secure, reliable",
+      "уведомление": "notification",
+      "пытался": "was trying",
+      "войти": "to log in",
+      "почту": "email",
+      "незнакомого": "unfamiliar",
+      "устройства": "device",
+      "поменяла": "changed",
+      "отключила": "disconnected",
+      "сети": "network",
+      "программистом": "as a programmer",
+      "мошенники": "scammers",
+      "скорее": "rather (скорее всего = most likely)",
+      "всего": "of all (скорее всего = most likely)",
+      "взломали": "hacked",
+      "зарегистрировалась": "registered",
+      "доступ": "access",
+      "данным": "data",
+      "использовала": "had used",
+      "установить": "to set up",
+      "двухфакторную": "two-factor",
+      "аутентификацию": "authentication",
+      "удалить": "to delete",
+      "аккаунты": "accounts",
+      "пользовалась": "had used",
+      "рассчитывает": "counts (рассчитывать на = to count on)",
+      "удачу": "luck",
+      "регулярно": "regularly",
+      "обновления": "updates",
+      "подозрительные": "suspicious",
+      "ссылки": "links",
+      "впрочем": "however",
+      "признаётся": "admits",
+      "скучает": "misses (скучать по = to miss)",
+      "безопасным": "safe"
+     },
+     "questions": [
+      {
+       "q": "What first warned Anna that something was wrong?",
+       "o": [
+        "A notification about a login attempt from an unfamiliar device",
+        "A phone call from her brother",
+        "A letter from her bank"
+       ],
+       "a": 0
+      },
+      {
+       "q": "According to her brother, how did the scammers most likely get her data?",
+       "o": [
+        "They stole her phone",
+        "They hacked a website where she had once registered",
+        "She sent them her password herself"
+       ],
+       "a": 1
+      },
+      {
+       "q": "How does Anna feel about the internet now?",
+       "o": [
+        "She thinks it is completely safe",
+        "She sometimes misses the times when it seemed safe",
+        "She has stopped using it altogether"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "id": "ru-b2-2026-11-2",
+     "title": "Цифровой детокс",
+     "text": "В последние годы всё больше людей говорят о цифровом детоксе. Под этим термином понимают сознательный отказ от смартфона, социальных сетей и других устройств на определённое время. Психологи отмечают, что зависимость от гаджетов развивается постепенно и почти незаметно. Человек проверяет уведомления десятки раз в день, легко отвлекается и с трудом концентрируется на одной задаче. Алгоритмы социальных сетей устроены так, чтобы пользователь оставался в приложении как можно дольше. Они показывают именно те материалы, которые вызывают сильные эмоции, поэтому ложные новости распространяются быстрее достоверных. Участники цифрового детокса рассказывают, что уже через несколько дней начинают лучше спать и больше читать. Впрочем, полностью отказаться от интернета сегодня почти невозможно: с его помощью мы работаем, учимся и платим за услуги. Поэтому специалисты советуют не удалять все приложения, а отключить лишние уведомления и отменить ненужные подписки. Главное — помнить, что технологии должны служить человеку, а не управлять им.",
+     "translation": "In recent years more and more people have been talking about digital detox. This term means deliberately giving up your smartphone, social networks and other devices for a certain period of time. Psychologists note that dependence on gadgets develops gradually and almost unnoticeably. A person checks notifications dozens of times a day, gets distracted easily and has difficulty concentrating on a single task. Social network algorithms are designed so that the user stays in the app as long as possible. They show precisely the content that provokes strong emotions, which is why false news spreads faster than reliable news. Participants in a digital detox say that after only a few days they begin to sleep better and read more. However, giving up the internet completely is almost impossible today: we use it to work, study and pay for services. That is why experts advise not deleting all your apps, but turning off unnecessary notifications and cancelling unneeded subscriptions. The main thing is to remember that technology should serve people, not control them.",
+     "glossary": {
+      "цифровом": "digital",
+      "детоксе": "detox",
+      "термином": "term",
+      "понимают": "mean (понимать под = to mean by)",
+      "сознательный": "deliberate, conscious",
+      "отказ": "giving up",
+      "устройств": "devices",
+      "определённое": "certain",
+      "отмечают": "note",
+      "зависимость": "dependence, addiction",
+      "гаджетов": "gadgets",
+      "развивается": "develops",
+      "постепенно": "gradually",
+      "незаметно": "unnoticeably",
+      "уведомления": "notifications",
+      "десятки": "dozens",
+      "отвлекается": "gets distracted",
+      "трудом": "difficulty (с трудом = with difficulty)",
+      "концентрируется": "concentrates",
+      "задаче": "task",
+      "алгоритмы": "algorithms",
+      "устроены": "are designed",
+      "пользователь": "user",
+      "приложении": "app",
+      "можно": "possible (как можно дольше = as long as possible)",
+      "дольше": "longer (как можно дольше = as long as possible)",
+      "вызывают": "provoke, cause",
+      "ложные": "false",
+      "распространяются": "spread",
+      "достоверных": "reliable (ones)",
+      "участники": "participants",
+      "впрочем": "however",
+      "полностью": "completely",
+      "отказаться": "to give up",
+      "услуги": "services",
+      "специалисты": "experts",
+      "удалять": "to delete",
+      "отключить": "to turn off",
+      "лишние": "unnecessary",
+      "отменить": "to cancel",
+      "ненужные": "unneeded",
+      "подписки": "subscriptions",
+      "служить": "to serve",
+      "управлять": "to control"
+     },
+     "questions": [
+      {
+       "q": "Why, according to the text, does false news spread faster than reliable news?",
+       "o": [
+        "Algorithms show content that provokes strong emotions",
+        "People prefer short texts",
+        "Newspapers publish false news first"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What do digital detox participants notice after a few days?",
+       "o": [
+        "They earn more money",
+        "They sleep better and read more",
+        "They forget their passwords"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What do experts advise?",
+       "o": [
+        "Deleting all apps",
+        "Giving up the internet completely",
+        "Turning off unnecessary notifications and cancelling unneeded subscriptions"
+       ],
+       "a": 2
+      }
+     ]
+    }
+   ]
+  },
+  "C1": {
+   "vocab": [
+    {
+     "w": "алгоритм",
+     "m": "algorithm",
+     "e": "Алгоритм подбирает новости с учётом прежних запросов пользователя.",
+     "et": "The algorithm selects news based on the user's previous searches."
+    },
+    {
+     "w": "конфиденциальность",
+     "m": "privacy, confidentiality",
+     "f": [
+      "конфиденциальности"
+     ],
+     "e": "Компания гарантирует конфиденциальность личных данных клиентов.",
+     "et": "The company guarantees the confidentiality of its clients' personal data."
+    },
+    {
+     "w": "зависимость",
+     "m": "dependence, addiction",
+     "e": "Психологи всё чаще говорят о цифровой зависимости у подростков.",
+     "et": "Psychologists talk more and more often about digital addiction among teenagers."
+    },
+    {
+     "w": "внедрять",
+     "m": "to introduce, to implement",
+     "f": [
+      "внедряют"
+     ],
+     "e": "Школы начинают внедрять электронные дневники.",
+     "et": "Schools are starting to introduce electronic grade books."
+    },
+    {
+     "w": "утечка",
+     "m": "leak",
+     "f": [
+      "утечки",
+      "утечку"
+     ],
+     "e": "Утечка данных обошлась банку в миллионы.",
+     "et": "The data leak cost the bank millions."
+    },
+    {
+     "w": "шифрование",
+     "m": "encryption",
+     "f": [
+      "шифрованием",
+      "шифрованию"
+     ],
+     "e": "Без надёжного шифрования переписка может стать достоянием посторонних.",
+     "et": "Without reliable encryption, correspondence may become accessible to outsiders."
+    },
+    {
+     "w": "достоверность",
+     "m": "reliability, authenticity",
+     "e": "Журналист усомнился в достоверности опубликованных документов.",
+     "et": "The journalist doubted the authenticity of the published documents."
+    },
+    {
+     "w": "навязывать",
+     "m": "to impose, to force on",
+     "f": [
+      "навязывают"
+     ],
+     "e": "Не стоит навязывать детям собственные цифровые привычки.",
+     "et": "One should not impose one's own digital habits on children."
+    },
+    {
+     "w": "обезличенный",
+     "m": "anonymized; impersonal",
+     "e": "Исследователи получили только обезличенные данные о пациентах.",
+     "et": "The researchers received only anonymized data about the patients."
+    },
+    {
+     "w": "вытеснять",
+     "m": "to displace, to supplant",
+     "f": [
+      "вытеснить",
+      "вытеснит"
+     ],
+     "e": "Онлайн-магазины постепенно вытесняют небольшие лавки.",
+     "et": "Online shops are gradually displacing small stores."
+    },
+    {
+     "w": "уведомление",
+     "m": "notification",
+     "f": [
+      "уведомлений",
+      "уведомления"
+     ],
+     "e": "Телефон всю ночь присылал уведомления о новых сообщениях.",
+     "et": "The phone kept sending notifications about new messages all night."
+    },
+    {
+     "w": "распространять",
+     "m": "to spread, to distribute",
+     "e": "Боты распространяют ложные слухи быстрее, чем люди успевают их опровергнуть.",
+     "et": "Bots spread false rumours faster than people manage to refute them."
+    },
+    {
+     "w": "посягать",
+     "m": "to encroach, to infringe (on)",
+     "f": [
+      "посягает"
+     ],
+     "e": "Никто не имеет права посягать на чужую переписку.",
+     "et": "No one has the right to infringe on another person's correspondence."
+    },
+    {
+     "w": "повсеместный",
+     "m": "ubiquitous, widespread",
+     "f": [
+      "повсеместное",
+      "повсеместной"
+     ],
+     "e": "Повсеместный доступ к интернету изменил образ жизни целого поколения.",
+     "et": "Ubiquitous internet access has changed the way of life of an entire generation."
+    },
+    {
+     "w": "отслеживать",
+     "m": "to track, to monitor",
+     "f": [
+      "отслеживают"
+     ],
+     "e": "Приложение позволяет отслеживать посылку в режиме реального времени.",
+     "et": "The app allows you to track a parcel in real time."
+    },
+    {
+     "w": "злоумышленник",
+     "m": "attacker, malicious actor",
+     "f": [
+      "злоумышленники"
+     ],
+     "e": "Злоумышленник проник в систему через устаревший сервер.",
+     "et": "The attacker got into the system through an outdated server."
+    },
+    {
+     "w": "сбой",
+     "m": "failure, glitch, outage",
+     "f": [
+      "сбоя"
+     ],
+     "e": "Из-за технического сбоя сайт не работал несколько часов.",
+     "et": "Because of a technical glitch, the website was down for several hours."
+    },
+    {
+     "w": "предвзятость",
+     "m": "bias, prejudice",
+     "e": "Учёные обнаружили предвзятость в системе распознавания лиц.",
+     "et": "Scientists discovered bias in the facial recognition system."
+    },
+    {
+     "w": "подлинный",
+     "m": "genuine, authentic",
+     "f": [
+      "подлинную"
+     ],
+     "e": "Эксперт подтвердил, что письмо подлинное.",
+     "et": "The expert confirmed that the letter is genuine."
+    },
+    {
+     "w": "неприкосновенность",
+     "m": "inviolability (e.g. of private life)",
+     "e": "Конституция гарантирует неприкосновенность частной жизни.",
+     "et": "The constitution guarantees the inviolability of private life."
+    },
+    {
+     "w": "умалчивать",
+     "m": "to keep silent about, to withhold",
+     "e": "Реклама обычно умалчивает о недостатках товара.",
+     "et": "Advertising usually keeps silent about a product's shortcomings."
+    },
+    {
+     "w": "сопоставлять",
+     "m": "to compare, to juxtapose",
+     "e": "Аналитик сопоставлял данные из разных источников.",
+     "et": "The analyst was comparing data from different sources."
+    },
+    {
+     "w": "воздействие",
+     "m": "impact, influence, effect",
+     "e": "Учёные изучают воздействие экранного времени на сон.",
+     "et": "Scientists are studying the effect of screen time on sleep."
+    },
+    {
+     "w": "обход",
+     "m": "circumvention, workaround",
+     "e": "Пользователи быстро нашли обход новых ограничений.",
+     "et": "Users quickly found a way around the new restrictions."
+    },
+    {
+     "w": "ощутимый",
+     "m": "tangible, noticeable",
+     "f": [
+      "ощутимо"
+     ],
+     "e": "Новая технология принесла ощутимую экономию.",
+     "et": "The new technology brought tangible savings."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "Многие пользователи даже не подозревают, насколько сильна их зависимость от социальных сетей.",
+     "t": "Many users do not even suspect how strong their dependence on social networks is."
+    },
+    {
+     "s": "Прежде чем распространять сенсационную новость, стоит проверить её достоверность.",
+     "t": "Before spreading sensational news, it is worth checking its reliability."
+    },
+    {
+     "s": "Платформы навязывают нам контент, который удерживает внимание, а не расширяет кругозор.",
+     "t": "Platforms impose on us content that holds our attention rather than broadening our horizons."
+    },
+    {
+     "s": "Законопроект, по мнению правозащитников, посягает на неприкосновенность частной жизни граждан.",
+     "t": "According to human rights activists, the bill infringes on the inviolability of citizens' private lives."
+    },
+    {
+     "s": "Из-за масштабного сбоя в работе банка тысячи клиентов не смогли оплатить покупки.",
+     "t": "Because of a large-scale outage at the bank, thousands of customers were unable to pay for their purchases."
+    },
+    {
+     "s": "Отличить подлинную фотографию от сгенерированной нейросетью становится всё труднее.",
+     "t": "It is becoming increasingly difficult to tell a genuine photograph from one generated by a neural network."
+    },
+    {
+     "s": "Специалисты по безопасности опасаются, что злоумышленники найдут обход новой системы защиты.",
+     "t": "Security specialists fear that attackers will find a way around the new protection system."
+    },
+    {
+     "s": "Удалённая работа, ставшая повсеместной во время пандемии, изменила представления о рабочем дне.",
+     "t": "Remote work, which became widespread during the pandemic, changed ideas about the working day."
+    },
+    {
+     "s": "Искусственный интеллект вряд ли вытеснит учителей, но заставит их пересмотреть методы преподавания.",
+     "t": "Artificial intelligence is unlikely to displace teachers, but it will force them to reconsider their teaching methods."
+    },
+    {
+     "s": "Отключив уведомления, я наконец смог сосредоточиться на работе.",
+     "t": "Having turned off notifications, I was finally able to concentrate on my work."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Компания долго скрывала утечку данных и до сих пор предпочитает умалчивать ___ её масштабах.",
+     "a": "о",
+     "o": [
+      "на",
+      "в",
+      "за"
+     ],
+     "t": "The company concealed the data leak for a long time and still prefers to keep silent about its scale."
+    },
+    {
+     "s": "Каждый раз, когда я открываю приложение, оно ___ меня его обновить.",
+     "a": "просит",
+     "o": [
+      "попросит",
+      "попросило"
+     ],
+     "t": "Every time I open the app, it asks me to update it."
+    },
+    {
+     "s": "Эксперты призывают не доверять ___, полученной из анонимных источников.",
+     "a": "информации",
+     "o": [
+      "информация",
+      "информацию",
+      "информацией"
+     ],
+     "t": "Experts urge people not to trust information obtained from anonymous sources."
+    },
+    {
+     "s": "Он ___ от компьютера только для того, чтобы выпить кофе.",
+     "a": "отходит",
+     "o": [
+      "подходит",
+      "выходит",
+      "заходит"
+     ],
+     "t": "He steps away from the computer only to have a coffee."
+    },
+    {
+     "s": "___ разработчики выпустили обновление, уязвимость до сих пор не устранена.",
+     "a": "Хотя",
+     "o": [
+      "Поскольку",
+      "Если",
+      "Чтобы"
+     ],
+     "t": "Although the developers released an update, the vulnerability has still not been fixed."
+    },
+    {
+     "s": "Пароли, ___ в открытом виде, легко становятся добычей хакеров.",
+     "a": "хранящиеся",
+     "o": [
+      "хранящие",
+      "хранящийся",
+      "хранящихся"
+     ],
+     "t": "Passwords stored in plain text easily become prey for hackers."
+    },
+    {
+     "s": "Благодаря ___ шифрованию переписка остаётся недоступной для посторонних.",
+     "a": "сквозному",
+     "o": [
+      "сквозного",
+      "сквозным",
+      "сквозное"
+     ],
+     "t": "Thanks to end-to-end encryption, the correspondence remains inaccessible to outsiders."
+    },
+    {
+     "s": "Пожалуйста, не ___ по этой ссылке, пока не убедитесь, что она безопасна.",
+     "a": "переходите",
+     "o": [
+      "перейдите",
+      "перешли",
+      "переходить"
+     ],
+     "t": "Please do not follow this link until you are sure it is safe."
+    },
+    {
+     "s": "Новая версия программы отличается от предыдущей ___ интерфейсом.",
+     "a": "упрощённым",
+     "o": [
+      "упрощённого",
+      "упрощённому",
+      "упрощённый"
+     ],
+     "t": "The new version of the program differs from the previous one in its simplified interface."
+    },
+    {
+     "s": "Регулятор потребовал, ___ компания удалила собранные без согласия данные.",
+     "a": "чтобы",
+     "o": [
+      "что",
+      "будто",
+      "ли"
+     ],
+     "t": "The regulator demanded that the company delete the data collected without consent."
+    }
+   ],
+   "readings": [
+    {
+     "id": "ru-c1-2026-11-1",
+     "title": "Цена согласия",
+     "text": "Марина долго не задумывалась о том, каким образом её телефон угадывает её желания. Стоило ей упомянуть в разговоре с подругой новый пылесос, как уже вечером лента пестрела рекламой бытовой техники. Поначалу это её забавляло, но вскоре забава сменилась тревогой. Ей казалось, что кто-то невидимый постоянно заглядывает ей через плечо. Она начала сопоставлять факты и пришла к выводу, что приложения отслеживают куда больше, чем принято считать. Прочитав несколько статей о конфиденциальности, Марина узнала, что сведения о пользователях нередко продаются третьим лицам, а разработчики предпочитают умалчивать об этом или упоминают вскользь в длинных пользовательских соглашениях, которые никто не читает. Особенно её поразила история недавней утечки данных, в результате которой злоумышленники получили доступ к миллионам паролей. Марина отключила большинство уведомлений, удалила лишние приложения и установила мессенджер со сквозным шифрованием. Полностью отказаться от смартфона она не решилась: слишком глубоко он врос в её повседневную жизнь. Однако теперь, нажимая «Согласен», она хотя бы отдаёт себе отчёт в том, чем за это расплачивается.",
+     "translation": "For a long time Marina did not think about how her phone guessed her wishes. No sooner had she mentioned a new vacuum cleaner in a conversation with a friend than, by that very evening, her feed was teeming with ads for household appliances. At first this amused her, but soon amusement gave way to anxiety. It seemed to her that someone invisible was constantly looking over her shoulder. She began to compare the facts and came to the conclusion that apps track far more than is commonly believed. Having read several articles about privacy, Marina learned that information about users is often sold to third parties, and that developers prefer to keep silent about this or mention it only in passing in long user agreements that nobody reads. She was especially struck by the story of a recent data leak, as a result of which attackers gained access to millions of passwords. Marina turned off most notifications, deleted unnecessary apps and installed a messenger with end-to-end encryption. She did not dare to give up her smartphone completely: it had grown too deeply into her everyday life. But now, when pressing \"I agree\", she is at least aware of the price she pays for it.",
+     "glossary": {
+      "задумывалась": "thought about, pondered",
+      "угадывает": "guesses",
+      "стоило": "it was enough (стоило ... как = no sooner ... than)",
+      "упомянуть": "to mention",
+      "пылесос": "vacuum cleaner",
+      "лента": "feed (social media)",
+      "пестрела": "was teeming with, was full of",
+      "бытовой": "household (бытовая техника = household appliances)",
+      "техники": "equipment (бытовая техника = household appliances)",
+      "забавляло": "amused",
+      "забава": "amusement",
+      "сменилась": "gave way to",
+      "тревогой": "anxiety",
+      "заглядывает": "peeks, looks",
+      "сопоставлять": "to compare",
+      "отслеживают": "track",
+      "принято": "customary (принято считать = it is commonly believed)",
+      "конфиденциальности": "privacy",
+      "сведения": "information, data",
+      "третьим": "third (третьи лица = third parties)",
+      "лицам": "persons (третьи лица = third parties)",
+      "разработчики": "developers",
+      "умалчивать": "to keep silent about",
+      "вскользь": "in passing",
+      "соглашениях": "agreements",
+      "поразила": "struck, amazed",
+      "утечки": "leak",
+      "злоумышленники": "attackers, malicious actors",
+      "уведомлений": "notifications",
+      "сквозным": "end-to-end",
+      "шифрованием": "encryption",
+      "не решилась": "did not dare",
+      "врос": "had grown into",
+      "повседневную": "everyday",
+      "отдаёт": "gives (отдавать себе отчёт = to be aware, to realize)",
+      "отчёт": "account (отдавать себе отчёт = to be aware, to realize)",
+      "расплачивается": "pays (the price)"
+     },
+     "questions": [
+      {
+       "q": "What first made Marina notice how her phone behaved?",
+       "o": [
+        "Ads for household appliances appeared after she mentioned a vacuum cleaner to a friend",
+        "Her friend's phone was hacked",
+        "She received a suspicious email asking for her password"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What did Marina learn from the articles she read?",
+       "o": [
+        "That phones secretly record all phone calls",
+        "That user information is often sold to third parties",
+        "That companies always ask permission before sharing data"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What did Marina decide to do about her smartphone?",
+       "o": [
+        "She gave it up completely",
+        "She bought a newer, more secure model",
+        "She kept it but took steps to protect her data"
+       ],
+       "a": 2
+      }
+     ]
+    },
+    {
+     "id": "ru-c1-2026-11-2",
+     "title": "Когда решает машина",
+     "text": "В последние годы крупные компании всё активнее внедряют системы искусственного интеллекта для отбора кандидатов. Сторонники такого подхода утверждают, что алгоритм, в отличие от человека, лишён симпатий и антипатий, а значит, оценивает соискателей беспристрастно. Однако практика показывает, что всё обстоит сложнее. Программа обучается на прошлых решениях, и если в них была заложена предвзятость, машина не только воспроизводит её, но и закрепляет. Так, одна известная корпорация была вынуждена отказаться от собственной разработки, когда выяснилось, что та систематически занижала оценки резюме, в которых упоминались женские учебные заведения. Повсеместное распространение подобных инструментов порождает и другой вопрос: кто несёт ответственность за ошибку? Кандидат, получивший обезличенный отказ, как правило, не может узнать, на каком основании его отвергли. Чтобы полностью вытеснить человека из процесса найма, машина должна была бы научиться объяснять свои решения, а до этого пока далеко. Эксперты сходятся во мнении, что технологии не следует ни демонизировать, ни идеализировать. Их воздействие на рынок труда уже ощутимо, и задача общества — добиться прозрачности там, где решения принимаются за закрытыми дверями. Ведь даже самый совершенный алгоритм остаётся лишь зеркалом тех, кто его создал.",
+     "translation": "In recent years, large companies have been increasingly introducing artificial intelligence systems to select candidates. Supporters of this approach claim that an algorithm, unlike a human being, has no likes or dislikes and therefore evaluates applicants impartially. However, practice shows that things are more complicated. The program learns from past decisions, and if bias was built into them, the machine not only reproduces it but also reinforces it. Thus, one well-known corporation was forced to abandon its own development when it turned out that the system systematically lowered the scores of résumés that mentioned women's educational institutions. The widespread use of such tools raises another question as well: who bears responsibility for a mistake? A candidate who has received an impersonal rejection, as a rule, cannot find out on what grounds he was turned down. In order to completely displace humans from the hiring process, a machine would have to learn to explain its decisions, and that is still a long way off. Experts agree that technology should be neither demonized nor idealized. Its impact on the labour market is already tangible, and society's task is to achieve transparency where decisions are made behind closed doors. After all, even the most perfect algorithm remains only a mirror of those who created it.",
+     "glossary": {
+      "внедряют": "introduce, implement",
+      "отбора": "selection",
+      "сторонники": "supporters",
+      "лишён": "is devoid of",
+      "соискателей": "applicants, job seekers",
+      "беспристрастно": "impartially",
+      "обстоит": "stands (всё обстоит сложнее = things are more complicated)",
+      "заложена": "built in, embedded",
+      "предвзятость": "bias",
+      "воспроизводит": "reproduces",
+      "закрепляет": "reinforces, entrenches",
+      "вынуждена": "forced (была вынуждена = was forced)",
+      "разработки": "development, product",
+      "выяснилось": "it turned out",
+      "занижала": "lowered, underrated",
+      "учебные": "educational (учебные заведения = educational institutions)",
+      "заведения": "institutions (учебные заведения = educational institutions)",
+      "повсеместное": "widespread, ubiquitous",
+      "порождает": "gives rise to, raises",
+      "обезличенный": "impersonal",
+      "отказ": "rejection",
+      "основании": "grounds, basis",
+      "отвергли": "rejected, turned down",
+      "вытеснить": "to displace",
+      "найма": "hiring",
+      "сходятся": "converge (сходиться во мнении = to agree)",
+      "воздействие": "impact",
+      "ощутимо": "tangible, noticeable",
+      "прозрачности": "transparency",
+      "совершенный": "perfect, advanced",
+      "зеркалом": "mirror"
+     },
+     "questions": [
+      {
+       "q": "Why did one well-known corporation abandon its own AI system?",
+       "o": [
+        "It was too expensive to maintain",
+        "It lowered the scores of résumés mentioning women's educational institutions",
+        "It leaked candidates' personal data"
+       ],
+       "a": 1
+      },
+      {
+       "q": "What problem does a candidate rejected by such a system usually face?",
+       "o": [
+        "He cannot find out the grounds for the rejection",
+        "He has to pay to appeal the decision",
+        "He must wait a year before applying again"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What do experts agree on, according to the text?",
+       "o": [
+        "AI should replace human recruiters as soon as possible",
+        "AI in hiring should be banned",
+        "Technology should be neither demonized nor idealized"
+       ],
+       "a": 2
+      }
+     ]
+    }
+   ]
+  },
+  "C2": {
+   "vocab": [
+    {
+     "w": "вездесущий",
+     "m": "omnipresent, ubiquitous",
+     "f": [
+      "вездесущие"
+     ],
+     "e": "Вездесущие камеры давно никого не удивляют.",
+     "et": "Ubiquitous cameras have long ceased to surprise anyone."
+    },
+    {
+     "w": "лихорадочный",
+     "m": "feverish, frantic",
+     "f": [
+      "лихорадочном"
+     ],
+     "e": "Перед дедлайном в офисе царила лихорадочная суета.",
+     "et": "Before the deadline, frantic bustle reigned in the office."
+    },
+    {
+     "w": "упоение",
+     "m": "rapture, intoxication (with delight)",
+     "f": [
+      "упоением"
+     ],
+     "e": "Он с упоением рассказывал о своём новом гаджете.",
+     "et": "He talked about his new gadget with rapture."
+    },
+    {
+     "w": "прельщать",
+     "m": "to entice, to tempt",
+     "f": [
+      "прельщает",
+      "прельщавших"
+     ],
+     "e": "Его не прельщала карьера в крупной корпорации.",
+     "et": "A career in a large corporation did not tempt him."
+    },
+    {
+     "w": "зыбкий",
+     "m": "shaky, unstable, flimsy",
+     "f": [
+      "зыбкой",
+      "зыбкая"
+     ],
+     "e": "Доверие к новым технологиям пока остаётся зыбким.",
+     "et": "Trust in new technologies still remains shaky."
+    },
+    {
+     "w": "забвение",
+     "m": "oblivion",
+     "e": "Многие сайты девяностых канули в забвение.",
+     "et": "Many websites from the nineties have sunk into oblivion."
+    },
+    {
+     "w": "сонм",
+     "m": "host, multitude (bookish)",
+     "e": "Вокруг нового стартапа вился сонм инвесторов.",
+     "et": "A host of investors swarmed around the new startup."
+    },
+    {
+     "w": "тщеславие",
+     "m": "vanity",
+     "e": "Число подписчиков приятно щекотало его тщеславие.",
+     "et": "The number of followers pleasantly tickled his vanity."
+    },
+    {
+     "w": "праздный",
+     "m": "idle, leisurely; empty (of curiosity, talk)",
+     "f": [
+      "праздные"
+     ],
+     "e": "Это был не праздный вопрос, а вопрос безопасности.",
+     "et": "It was not an idle question but a matter of security."
+    },
+    {
+     "w": "пагубный",
+     "m": "pernicious, ruinous",
+     "f": [
+      "пагубную"
+     ],
+     "e": "Бессонные ночи у экрана оказывают пагубное влияние на здоровье.",
+     "et": "Sleepless nights in front of a screen have a pernicious effect on health."
+    },
+    {
+     "w": "неусыпный",
+     "m": "unremitting, vigilant, sleepless",
+     "f": [
+      "неусыпным"
+     ],
+     "e": "Модераторы держат форум под неусыпным контролем.",
+     "et": "The moderators keep the forum under vigilant control."
+    },
+    {
+     "w": "дотошный",
+     "m": "meticulous, punctilious, nitpicking",
+     "f": [
+      "дотошной",
+      "дотошные"
+     ],
+     "e": "Дотошный тестировщик нашёл ошибку, которую пропустили все.",
+     "et": "A meticulous tester found a bug that everyone else had missed."
+    },
+    {
+     "w": "соглядатай",
+     "m": "spy, watcher (pejorative, bookish)",
+     "f": [
+      "соглядатаями"
+     ],
+     "e": "Умная колонка порой кажется домашним соглядатаем.",
+     "et": "A smart speaker sometimes feels like a spy in the home."
+    },
+    {
+     "w": "кликушество",
+     "m": "hysterical ranting, alarmist hysteria",
+     "f": [
+      "кликушеством"
+     ],
+     "e": "Трезвая критика не имеет ничего общего с кликушеством.",
+     "et": "Sober criticism has nothing in common with hysterical ranting."
+    },
+    {
+     "w": "мракобесие",
+     "m": "obscurantism",
+     "f": [
+      "мракобесием"
+     ],
+     "e": "Запрет на интернет в школах иные называли мракобесием.",
+     "et": "Some called the ban on the internet in schools obscurantism."
+    },
+    {
+     "w": "сутолока",
+     "m": "bustle, hustle and bustle, crush",
+     "f": [
+      "сутолоке"
+     ],
+     "e": "В сутолоке вокзала он потерял телефон.",
+     "et": "In the bustle of the station he lost his phone."
+    },
+    {
+     "w": "обескураживать",
+     "m": "to disconcert, to dishearten",
+     "f": [
+      "обескураживали"
+     ],
+     "e": "Её обескуражило полное молчание в ответ на письмо.",
+     "et": "She was disconcerted by the complete silence in response to her letter."
+    },
+    {
+     "w": "вожделенный",
+     "m": "coveted, longed-for",
+     "e": "Наконец вожделенный смартфон оказался у него в руках.",
+     "et": "At last the coveted smartphone was in his hands."
+    },
+    {
+     "w": "мнимый",
+     "m": "imaginary, sham, apparent",
+     "f": [
+      "мнимые",
+      "мнимая"
+     ],
+     "e": "За мнимой простотой интерфейса скрывается сложный код.",
+     "et": "Behind the apparent simplicity of the interface lies complex code."
+    },
+    {
+     "w": "бередить",
+     "m": "to stir up, to reopen (a wound), to trouble",
+     "f": [
+      "бередила"
+     ],
+     "e": "Старые фотографии в облаке бередили ей душу.",
+     "et": "Old photos in the cloud stirred up her soul."
+    },
+    {
+     "w": "лукавить",
+     "m": "to be disingenuous, to dissemble",
+     "f": [
+      "лукавил"
+     ],
+     "e": "Не будем лукавить: мы все зависим от смартфонов.",
+     "et": "Let us not be disingenuous: we all depend on smartphones."
+    },
+    {
+     "w": "подноготная",
+     "m": "the whole hidden truth, ins and outs (colloquial)",
+     "e": "Журналист выяснил всю подноготную этой сделки.",
+     "et": "The journalist found out the whole hidden truth about that deal."
+    },
+    {
+     "w": "поветрие",
+     "m": "craze, fad",
+     "f": [
+      "поветрием"
+     ],
+     "e": "Мода на нейросетевые аватарки оказалась недолгим поветрием.",
+     "et": "The fashion for AI-generated avatars turned out to be a short-lived craze."
+    },
+    {
+     "w": "наваждение",
+     "m": "obsession, delusion, spell",
+     "e": "Игра превратилась для него в настоящее наваждение.",
+     "et": "The game turned into a real obsession for him."
+    },
+    {
+     "w": "неизбывный",
+     "m": "inescapable, never-ending (of grief, anxiety)",
+     "f": [
+      "неизбывная"
+     ],
+     "e": "В его стихах звучит неизбывная тоска по прошлому.",
+     "et": "His poems are full of an inescapable longing for the past."
+    }
+   ],
+   "sentences": [
+    {
+     "s": "Подростки с упоением листают короткие видео, забывая о времени.",
+     "t": "Teenagers scroll through short videos with rapture, forgetting about time."
+    },
+    {
+     "s": "Под неусыпным надзором камер город стал безопаснее, но не свободнее.",
+     "t": "Under the unremitting surveillance of cameras the city became safer, but not freer."
+    },
+    {
+     "s": "Каждое новое поветрие в соцсетях живёт не дольше недели.",
+     "t": "Every new craze on social media lives no longer than a week."
+    },
+    {
+     "s": "Его дотошные комментарии к чужим постам давно стали притчей во языцех.",
+     "t": "His nitpicking comments on other people's posts have long become the talk of the town."
+    },
+    {
+     "s": "Мнимая анонимность в сети развязывает языки даже самым робким людям.",
+     "t": "The illusory anonymity of the internet loosens the tongues of even the shyest people."
+    },
+    {
+     "s": "Реклама прельщает нас скидками, которые на поверку оказываются уловкой.",
+     "t": "Advertising entices us with discounts that on closer inspection turn out to be a trick."
+    },
+    {
+     "s": "Не стоит бередить старые раны, перечитывая переписку десятилетней давности.",
+     "t": "It is not worth reopening old wounds by rereading correspondence from ten years ago."
+    },
+    {
+     "s": "Антинаучные ролики, собирающие миллионы просмотров, иные называют новым мракобесием.",
+     "t": "Some call the anti-scientific videos that gather millions of views a new obscurantism."
+    },
+    {
+     "s": "Зыбкая граница между частной и публичной жизнью окончательно стёрлась.",
+     "t": "The shaky boundary between private and public life has been completely erased."
+    },
+    {
+     "s": "Пресс-секретарь явно лукавил, называя утечку данных незначительной.",
+     "t": "The press secretary was clearly being disingenuous when he called the data leak insignificant."
+    }
+   ],
+   "gaps": [
+    {
+     "s": "Он часами сидит ___ компьютером.",
+     "a": "за",
+     "o": [
+      "на",
+      "в",
+      "при"
+     ],
+     "t": "He sits at the computer for hours."
+    },
+    {
+     "s": "Я наконец ___ новое приложение и сразу удалил старое.",
+     "a": "установил",
+     "o": [
+      "устанавливал",
+      "устанавливаю",
+      "установлю"
+     ],
+     "t": "I finally installed the new app and immediately deleted the old one."
+    },
+    {
+     "s": "Ей не хватает ___ на чтение длинных статей.",
+     "a": "терпения",
+     "o": [
+      "терпение",
+      "терпению",
+      "терпением"
+     ],
+     "t": "She lacks the patience to read long articles."
+    },
+    {
+     "s": "Пароль надо менять, ___ злоумышленники не взломали аккаунт.",
+     "a": "чтобы",
+     "o": [
+      "что",
+      "если",
+      "потому что"
+     ],
+     "t": "The password must be changed so that hackers do not break into the account."
+    },
+    {
+     "s": "Курьер ___ к подъезду и позвонил мне.",
+     "a": "подъехал",
+     "o": [
+      "въехал",
+      "отъехал",
+      "объехал"
+     ],
+     "t": "The courier drove up to the entrance and called me."
+    },
+    {
+     "s": "Мы долго спорили о ___ искусственного интеллекта.",
+     "a": "влиянии",
+     "o": [
+      "влияние",
+      "влиянием",
+      "влиянию"
+     ],
+     "t": "We argued for a long time about the influence of artificial intelligence."
+    },
+    {
+     "s": "Не ___ ссылки из подозрительных писем!",
+     "a": "открывайте",
+     "o": [
+      "откройте",
+      "откроете"
+     ],
+     "t": "Do not open links from suspicious emails!"
+    },
+    {
+     "s": "Сайт, ___ я вчера нашёл, уже недоступен.",
+     "a": "который",
+     "o": [
+      "которого",
+      "которым",
+      "которому"
+     ],
+     "t": "The website that I found yesterday is already unavailable."
+    },
+    {
+     "s": "Чем больше времени проводишь в сети, ___ труднее сосредоточиться.",
+     "a": "тем",
+     "o": [
+      "чем",
+      "так",
+      "то"
+     ],
+     "t": "The more time you spend online, the harder it is to concentrate."
+    },
+    {
+     "s": "Нельзя доверять ___ сообщениям от незнакомцев.",
+     "a": "анонимным",
+     "o": [
+      "анонимные",
+      "анонимных",
+      "анонимными"
+     ],
+     "t": "You must not trust anonymous messages from strangers."
+    }
+   ],
+   "readings": [
+    {
+     "id": "ru-c2-2026-11-1",
+     "title": "Цифровой отшельник",
+     "text": "Савелий Петрович удалил все свои аккаунты в тот самый вечер, когда поймал себя на лихорадочном обновлении ленты в три часа ночи. Он давно подозревал, что вездесущие уведомления превратились в наваждение, но признаться в этом мешало тщеславие: лайки под его остроумными заметками тешили самолюбие исправнее любого комплимента. Первые дни без сети обескураживали. Рука сама тянулась к карману, а тишина казалась зыбкой и подозрительной, будто мир сговорился за его спиной. Знакомые сочли его поступок очередным поветрием: нынче модно хвастаться цифровым детоксом, разумеется, в соцсетях. Однако Савелий Петрович не лукавил. Он заново открыл для себя праздные прогулки, бумажные письма и долгие разговоры, в которых никто не косился на экран. Через месяц он с удивлением заметил, что мир не рухнул, а новости, пропущенные им, канули в забвение, так и не успев стать важными. Иногда, впрочем, душу ему бередила мысль, что о нём забыли так же быстро. Но и эта мысль, подобно прежней зависимости, понемногу утратила свою пагубную власть.",
+     "translation": "Savely Petrovich deleted all his accounts on the very evening he caught himself feverishly refreshing his feed at three in the morning. He had long suspected that the ubiquitous notifications had turned into an obsession, but vanity kept him from admitting it: the likes under his witty posts flattered his self-esteem more reliably than any compliment. The first days without the internet were disconcerting. His hand reached for his pocket of its own accord, and the silence seemed shaky and suspicious, as if the world had conspired behind his back. His acquaintances took his decision for yet another fad: these days it is fashionable to boast about a digital detox, on social media, of course. Savely Petrovich, however, was not being disingenuous. He rediscovered leisurely walks, paper letters and long conversations in which nobody glanced sideways at a screen. After a month he noticed with surprise that the world had not collapsed, and the news he had missed had sunk into oblivion without ever managing to become important. Sometimes, though, his soul was troubled by the thought that he had been forgotten just as quickly. But this thought too, like his former addiction, gradually lost its pernicious power.",
+     "glossary": {
+      "удалил": "deleted",
+      "аккаунты": "accounts (online)",
+      "поймал": "caught (поймал себя на = caught himself doing)",
+      "себя": "himself (поймал себя на = caught himself doing)",
+      "лихорадочном": "feverish, frantic",
+      "обновлении": "refreshing, updating",
+      "ленты": "feed (social media)",
+      "вездесущие": "ubiquitous",
+      "уведомления": "notifications",
+      "наваждение": "obsession",
+      "тщеславие": "vanity",
+      "остроумными": "witty",
+      "тешили": "flattered, gratified (тешили самолюбие = flattered his self-esteem)",
+      "самолюбие": "self-esteem, pride (тешили самолюбие = flattered his self-esteem)",
+      "исправнее": "more reliably, more dutifully",
+      "обескураживали": "were disconcerting",
+      "тянулась": "reached, stretched",
+      "зыбкой": "shaky, unstable",
+      "сговорился": "conspired",
+      "сочли": "considered, deemed",
+      "поветрием": "fad, craze",
+      "нынче": "nowadays",
+      "хвастаться": "to boast",
+      "детоксом": "detox",
+      "соцсетях": "social networks",
+      "лукавил": "was being disingenuous",
+      "праздные": "leisurely, idle",
+      "косился": "glanced sideways",
+      "рухнул": "collapsed",
+      "канули": "sank (канули в забвение = sank into oblivion)",
+      "забвение": "oblivion (канули в забвение = sank into oblivion)",
+      "бередила": "troubled, stirred up",
+      "прежней": "former",
+      "зависимости": "addiction, dependence",
+      "утратила": "lost",
+      "пагубную": "pernicious"
+     },
+     "questions": [
+      {
+       "q": "What made Savely Petrovich delete his accounts?",
+       "o": [
+        "He was hacked by strangers",
+        "He caught himself frantically refreshing his feed at 3 a.m.",
+        "His doctor advised him to"
+       ],
+       "a": 1
+      },
+      {
+       "q": "How did his acquaintances interpret his decision?",
+       "o": [
+        "As yet another fashionable fad",
+        "As a sign of serious illness",
+        "As a brave political protest"
+       ],
+       "a": 0
+      },
+      {
+       "q": "What did he notice after a month?",
+       "o": [
+        "That he had missed crucial news",
+        "That his friends had stopped speaking to him",
+        "That the news he had missed never became important"
+       ],
+       "a": 2
+      }
+     ]
+    },
+    {
+     "id": "ru-c2-2026-11-2",
+     "title": "Подноготная одного профиля",
+     "text": "Аглая никогда не считала себя наивной, пока не заказала у одной дотошной компании отчёт о том, что известно о ней в сети. Вожделенный документ пришёл через неделю и занимал сорок страниц. Там была вся её подноготная: маршруты утренних пробежек, любимая кофейня, мнимые болезни, которые она когда-то тревожно гуглила по ночам, и даже приблизительная сумма долгов. Безликие алгоритмы оказались соглядатаями куда более усердными, чем любая соседка у окна. Сонм приложений, прельщавших её бесплатными услугами, всё это время исправно собирал плату иной монетой. Первым порывом было разразиться в блоге кликушеством о конце частной жизни, но Аглая вовремя одумалась: подобные стенания тонут в сутолоке ленты быстрее, чем их успевают прочесть. К тому же обличать технологии, сидя с тремя смартфонами, отдавало бы мракобесием, да и попросту ханжеством. Она поступила скромнее: отключила геолокацию, удалила десяток программ и завела привычку читать пользовательские соглашения. Последнее, впрочем, оказалось подвигом, достойным древнего эпоса. Неизбывная тревога никуда не делась, но теперь у неё хотя бы было имя.",
+     "translation": "Aglaya had never considered herself naive until she ordered from a meticulous company a report on what was known about her online. The coveted document arrived a week later and ran to forty pages. It contained the whole hidden truth about her: the routes of her morning runs, her favourite café, the imaginary illnesses she had once anxiously googled at night, and even the approximate sum of her debts. Faceless algorithms turned out to be far more diligent spies than any neighbour at a window. The host of apps that had enticed her with free services had all this time been dutifully collecting payment in a different currency. Her first impulse was to burst into hysterical ranting on her blog about the end of privacy, but Aglaya came to her senses in time: such laments drown in the bustle of the feed faster than anyone manages to read them. Besides, denouncing technology while sitting with three smartphones would smack of obscurantism, and simply of sanctimony. She acted more modestly: she turned off geolocation, deleted a dozen programs and got into the habit of reading user agreements. The latter, however, proved a feat worthy of an ancient epic. The inescapable anxiety had not gone anywhere, but now at least it had a name.",
+     "glossary": {
+      "наивной": "naive",
+      "дотошной": "meticulous, thorough",
+      "отчёт": "report",
+      "вожделенный": "coveted, longed-for",
+      "подноготная": "the whole hidden truth, ins and outs",
+      "маршруты": "routes",
+      "пробежек": "runs, jogs",
+      "кофейня": "café, coffee shop",
+      "мнимые": "imaginary",
+      "тревожно": "anxiously",
+      "гуглила": "googled",
+      "приблизительная": "approximate",
+      "долгов": "debts",
+      "безликие": "faceless",
+      "соглядатаями": "spies, watchers",
+      "усердными": "diligent, zealous",
+      "сонм": "host, multitude",
+      "прельщавших": "that had enticed",
+      "исправно": "dutifully, reliably",
+      "иной": "different (иной монетой = in a different currency, in another way)",
+      "монетой": "coin (иной монетой = in a different currency, in another way)",
+      "порывом": "impulse",
+      "разразиться": "to burst into",
+      "кликушеством": "hysterical ranting",
+      "одумалась": "came to her senses",
+      "стенания": "laments, wailing",
+      "тонут": "drown, sink",
+      "сутолоке": "bustle",
+      "ленты": "feed (social media)",
+      "обличать": "to denounce",
+      "отдавало": "would smack of (отдавало бы = would smack of)",
+      "мракобесием": "obscurantism",
+      "попросту": "simply, plainly",
+      "ханжеством": "sanctimony, hypocrisy",
+      "геолокацию": "geolocation",
+      "десяток": "a dozen, about ten",
+      "пользовательские": "user (пользовательские соглашения = user agreements)",
+      "соглашения": "agreements (пользовательские соглашения = user agreements)",
+      "подвигом": "feat, heroic deed",
+      "эпоса": "epic",
+      "неизбывная": "inescapable, never-ending",
+      "делась": "went (никуда не делась = had not gone anywhere)"
+     },
+     "questions": [
+      {
+       "q": "How long was the report Aglaya received?",
+       "o": [
+        "Four pages",
+        "Forty pages",
+        "Four hundred pages"
+       ],
+       "a": 1
+      },
+      {
+       "q": "Why did Aglaya decide not to write an angry blog post?",
+       "o": [
+        "Such laments quickly drown in the feed unread",
+        "Her lawyer forbade it",
+        "The company threatened to sue her"
+       ],
+       "a": 0
+      },
+      {
+       "q": "Which of the following did Aglaya do?",
+       "o": [
+        "She threw away all her smartphones",
+        "She moved to another city",
+        "She turned off geolocation and deleted about a dozen programs"
+       ],
+       "a": 2
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
